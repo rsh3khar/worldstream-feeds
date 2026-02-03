@@ -965,6 +965,651 @@ global:
     description: Seeking Alpha feed
     contributor: worldstream
     added_at: '2026-02-03'
+  blogs:
+  - id: simonwillisonnet
+    name: simonwillison.net
+    url: https://simonwillison.net/atom/everything/
+    domain: simonwillison.net
+    description: simonwillison.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: jeffgeerlingcom
+    name: jeffgeerling.com
+    url: https://www.jeffgeerling.com/blog.xml
+    domain: jeffgeerling.com
+    description: jeffgeerling.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: seangoedeckecom
+    name: seangoedecke.com
+    url: https://www.seangoedecke.com/rss.xml
+    domain: seangoedecke.com
+    description: seangoedecke.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: krebsonsecuritycom
+    name: krebsonsecurity.com
+    url: https://krebsonsecurity.com/feed/
+    domain: krebsonsecurity.com
+    description: krebsonsecurity.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: daringfireballnet
+    name: daringfireball.net
+    url: https://daringfireball.net/feeds/main
+    domain: daringfireball.net
+    description: daringfireball.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: ericmigicom
+    name: ericmigi.com
+    url: https://ericmigi.com/rss.xml
+    domain: ericmigi.com
+    description: ericmigi.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: antirezcom
+    name: antirez.com
+    url: http://antirez.com/rss
+    domain: antirez.com
+    description: antirez.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: idiallocom
+    name: idiallo.com
+    url: https://idiallo.com/feed.rss
+    domain: idiallo.com
+    description: idiallo.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: maurycyzcom
+    name: maurycyz.com
+    url: https://maurycyz.com/index.xml
+    domain: maurycyz.com
+    description: maurycyz.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: pluralisticnet
+    name: pluralistic.net
+    url: https://pluralistic.net/feed/
+    domain: pluralistic.net
+    description: pluralistic.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: shksprmobi
+    name: shkspr.mobi
+    url: https://shkspr.mobi/blog/feed/
+    domain: shkspr.mobi
+    description: shkspr.mobi blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: lcamtufsubstackcom
+    name: lcamtuf.substack.com
+    url: https://lcamtuf.substack.com/feed
+    domain: lcamtuf.substack.com
+    description: lcamtuf.substack.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: mitchellhcom
+    name: mitchellh.com
+    url: https://mitchellh.com/feed.xml
+    domain: mitchellh.com
+    description: mitchellh.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: dynomightnet
+    name: dynomight.net
+    url: https://dynomight.net/feed.xml
+    domain: dynomight.net
+    description: dynomight.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: utccutorontocacks
+    name: utcc.utoronto.ca/~cks
+    url: https://utcc.utoronto.ca/~cks/space/blog/?atom
+    domain: utcc.utoronto.ca
+    description: utcc.utoronto.ca/~cks blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: xeiasonet
+    name: xeiaso.net
+    url: https://xeiaso.net/blog.rss
+    domain: xeiaso.net
+    description: xeiaso.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: devblogsmicrosoftcomoldnewthing
+    name: devblogs.microsoft.com/oldnewthing
+    url: https://devblogs.microsoft.com/oldnewthing/feed
+    domain: devblogs.microsoft.com
+    description: devblogs.microsoft.com/oldnewthing blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: rightocom
+    name: righto.com
+    url: https://www.righto.com/feeds/posts/default
+    domain: righto.com
+    description: righto.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: lucumrpocooorg
+    name: lucumr.pocoo.org
+    url: https://lucumr.pocoo.org/feed.atom
+    domain: lucumr.pocoo.org
+    description: lucumr.pocoo.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: skyfalldev
+    name: skyfall.dev
+    url: https://skyfall.dev/rss.xml
+    domain: skyfall.dev
+    description: skyfall.dev blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: garymarcussubstackcom
+    name: garymarcus.substack.com
+    url: https://garymarcus.substack.com/feed
+    domain: garymarcus.substack.com
+    description: garymarcus.substack.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: rachelbythebaycom
+    name: rachelbythebay.com
+    url: https://rachelbythebay.com/w/atom.xml
+    domain: rachelbythebay.com
+    description: rachelbythebay.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: overreactedio
+    name: overreacted.io
+    url: https://overreacted.io/rss.xml
+    domain: overreacted.io
+    description: overreacted.io blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: timshorg
+    name: timsh.org
+    url: https://timsh.org/rss/
+    domain: timsh.org
+    description: timsh.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: johndcookcom
+    name: johndcook.com
+    url: https://www.johndcook.com/blog/feed/
+    domain: johndcook.com
+    description: johndcook.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: gilesthomascom
+    name: gilesthomas.com
+    url: https://gilesthomas.com/feed/rss.xml
+    domain: gilesthomas.com
+    description: gilesthomas.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: matkladgithubio
+    name: matklad.github.io
+    url: https://matklad.github.io/feed.xml
+    domain: matklad.github.io
+    description: matklad.github.io blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: derekthompsonorg
+    name: derekthompson.org
+    url: https://www.theatlantic.com/feed/author/derek-thompson/
+    domain: derekthompson.org
+    description: derekthompson.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: evanhahncom
+    name: evanhahn.com
+    url: https://evanhahn.com/feed.xml
+    domain: evanhahn.com
+    description: evanhahn.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: terriblesoftwareorg
+    name: terriblesoftware.org
+    url: https://terriblesoftware.org/feed/
+    domain: terriblesoftware.org
+    description: terriblesoftware.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: rakhimexotextcom
+    name: rakhim.exotext.com
+    url: https://rakhim.exotext.com/rss.xml
+    domain: rakhim.exotext.com
+    description: rakhim.exotext.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: joanwestenbergcom
+    name: joanwestenberg.com
+    url: https://joanwestenberg.com/rss
+    domain: joanwestenberg.com
+    description: joanwestenberg.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: xaniaorg
+    name: xania.org
+    url: https://xania.org/feed
+    domain: xania.org
+    description: xania.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: micahfleecom
+    name: micahflee.com
+    url: https://micahflee.com/feed/
+    domain: micahflee.com
+    description: micahflee.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: nesbittio
+    name: nesbitt.io
+    url: https://nesbitt.io/feed.xml
+    domain: nesbitt.io
+    description: nesbitt.io blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: construction-physicscom
+    name: construction-physics.com
+    url: https://www.construction-physics.com/feed
+    domain: construction-physics.com
+    description: construction-physics.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: tediumco
+    name: tedium.co
+    url: https://feed.tedium.co/
+    domain: tedium.co
+    description: tedium.co blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: susamnet
+    name: susam.net
+    url: https://susam.net/feed.xml
+    domain: susam.net
+    description: susam.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: entropicthoughtscom
+    name: entropicthoughts.com
+    url: https://entropicthoughts.com/feed.xml
+    domain: entropicthoughts.com
+    description: entropicthoughts.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: buttondowncomhillelwayne
+    name: buttondown.com/hillelwayne
+    url: https://buttondown.com/hillelwayne/rss
+    domain: buttondown.com
+    description: buttondown.com/hillelwayne blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: dwarkeshcom
+    name: dwarkesh.com
+    url: https://www.dwarkeshpatel.com/feed
+    domain: dwarkesh.com
+    description: dwarkesh.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: borrettime
+    name: borretti.me
+    url: https://borretti.me/feed.xml
+    domain: borretti.me
+    description: borretti.me blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: wheresyouredat
+    name: wheresyoured.at
+    url: https://www.wheresyoured.at/rss/
+    domain: wheresyoured.at
+    description: wheresyoured.at blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: jaydml
+    name: jayd.ml
+    url: https://jayd.ml/feed.xml
+    domain: jayd.ml
+    description: jayd.ml blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: minimaxircom
+    name: minimaxir.com
+    url: https://minimaxir.com/index.xml
+    domain: minimaxir.com
+    description: minimaxir.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: geohotgithubio
+    name: geohot.github.io
+    url: https://geohot.github.io/blog/feed.xml
+    domain: geohot.github.io
+    description: geohot.github.io blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: paulgrahamcom
+    name: paulgraham.com
+    url: http://www.aaronsw.com/2002/feeds/pgessays.rss
+    domain: paulgraham.com
+    description: paulgraham.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: filfrenet
+    name: filfre.net
+    url: https://www.filfre.net/feed/
+    domain: filfre.net
+    description: filfre.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: blogjim-nielsencom
+    name: blog.jim-nielsen.com
+    url: https://blog.jim-nielsen.com/feed.xml
+    domain: blog.jim-nielsen.com
+    description: blog.jim-nielsen.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: dfarqhomeipnet
+    name: dfarq.homeip.net
+    url: https://dfarq.homeip.net/feed/
+    domain: dfarq.homeip.net
+    description: dfarq.homeip.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: jyndev
+    name: jyn.dev
+    url: https://jyn.dev/atom.xml
+    domain: jyn.dev
+    description: jyn.dev blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: geoffreylittcom
+    name: geoffreylitt.com
+    url: https://www.geoffreylitt.com/feed.xml
+    domain: geoffreylitt.com
+    description: geoffreylitt.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: downtowndougbrowncom
+    name: downtowndougbrown.com
+    url: https://www.downtowndougbrown.com/feed/
+    domain: downtowndougbrown.com
+    description: downtowndougbrown.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: brutecatcom
+    name: brutecat.com
+    url: https://brutecat.com/rss.xml
+    domain: brutecat.com
+    description: brutecat.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: elithegreenplacenet
+    name: eli.thegreenplace.net
+    url: https://eli.thegreenplace.net/feeds/all.atom.xml
+    domain: eli.thegreenplace.net
+    description: eli.thegreenplace.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: abortretryfail
+    name: abortretry.fail
+    url: https://www.abortretry.fail/feed
+    domain: abortretry.fail
+    description: abortretry.fail blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: fabiensanglardnet
+    name: fabiensanglard.net
+    url: https://fabiensanglard.net/rss.xml
+    domain: fabiensanglard.net
+    description: fabiensanglard.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: oldvcrblogspotcom
+    name: oldvcr.blogspot.com
+    url: https://oldvcr.blogspot.com/feeds/posts/default
+    domain: oldvcr.blogspot.com
+    description: oldvcr.blogspot.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: bogdanthegeekgithubio
+    name: bogdanthegeek.github.io
+    url: https://bogdanthegeek.github.io/blog/index.xml
+    domain: bogdanthegeek.github.io
+    description: bogdanthegeek.github.io blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: hugotuniusse
+    name: hugotunius.se
+    url: https://hugotunius.se/feed.xml
+    domain: hugotunius.se
+    description: hugotunius.se blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: gwernnet
+    name: gwern.net
+    url: https://gwern.substack.com/feed
+    domain: gwern.net
+    description: gwern.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: berthubeu
+    name: berthub.eu
+    url: https://berthub.eu/articles/index.xml
+    domain: berthub.eu
+    description: berthub.eu blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: chadnauseamcom
+    name: chadnauseam.com
+    url: https://chadnauseam.com/rss.xml
+    domain: chadnauseam.com
+    description: chadnauseam.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: simoneorg
+    name: simone.org
+    url: https://simone.org/feed/
+    domain: simone.org
+    description: simone.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: it-notesdragasnet
+    name: it-notes.dragas.net
+    url: https://it-notes.dragas.net/feed/
+    domain: it-notes.dragas.net
+    description: it-notes.dragas.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: beejus
+    name: beej.us
+    url: https://beej.us/blog/rss.xml
+    domain: beej.us
+    description: beej.us blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: heyparis
+    name: hey.paris
+    url: https://hey.paris/index.xml
+    domain: hey.paris
+    description: hey.paris blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: danielwirtzcom
+    name: danielwirtz.com
+    url: https://danielwirtz.com/rss.xml
+    domain: danielwirtz.com
+    description: danielwirtz.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: matduggancom
+    name: matduggan.com
+    url: https://matduggan.com/rss/
+    domain: matduggan.com
+    description: matduggan.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: refactoringenglishcom
+    name: refactoringenglish.com
+    url: https://refactoringenglish.com/index.xml
+    domain: refactoringenglish.com
+    description: refactoringenglish.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: worksonmymachinesubstackcom
+    name: worksonmymachine.substack.com
+    url: https://worksonmymachine.substack.com/feed
+    domain: worksonmymachine.substack.com
+    description: worksonmymachine.substack.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: philiplainecom
+    name: philiplaine.com
+    url: https://philiplaine.com/index.xml
+    domain: philiplaine.com
+    description: philiplaine.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: steveblankcom
+    name: steveblank.com
+    url: https://steveblank.com/feed/
+    domain: steveblank.com
+    description: steveblank.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: bernsteinbearcom
+    name: bernsteinbear.com
+    url: https://bernsteinbear.com/feed.xml
+    domain: bernsteinbear.com
+    description: bernsteinbear.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: danieldelaneynet
+    name: danieldelaney.net
+    url: https://danieldelaney.net/feed
+    domain: danieldelaney.net
+    description: danieldelaney.net blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: troyhuntcom
+    name: troyhunt.com
+    url: https://www.troyhunt.com/rss/
+    domain: troyhunt.com
+    description: troyhunt.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: hermanbearblogdev
+    name: herman.bearblog.dev
+    url: https://herman.bearblog.dev/feed/
+    domain: herman.bearblog.dev
+    description: herman.bearblog.dev blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: tomrennercom
+    name: tomrenner.com
+    url: https://tomrenner.com/index.xml
+    domain: tomrenner.com
+    description: tomrenner.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: blogpixelmeltdev
+    name: blog.pixelmelt.dev
+    url: https://blog.pixelmelt.dev/rss/
+    domain: blog.pixelmelt.dev
+    description: blog.pixelmelt.dev blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: martinaldersoncom
+    name: martinalderson.com
+    url: https://martinalderson.com/feed.xml
+    domain: martinalderson.com
+    description: martinalderson.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: danielchasehoopercom
+    name: danielchasehooper.com
+    url: https://danielchasehooper.com/feed.xml
+    domain: danielchasehooper.com
+    description: danielchasehooper.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: chiarkgreenendorguksgtatham
+    name: chiark.greenend.org.uk/~sgtatham
+    url: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml
+    domain: chiark.greenend.org.uk
+    description: chiark.greenend.org.uk/~sgtatham blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: grantslattoncom
+    name: grantslatton.com
+    url: https://grantslatton.com/rss.xml
+    domain: grantslatton.com
+    description: grantslatton.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: experimental-historycom
+    name: experimental-history.com
+    url: https://www.experimental-history.com/feed
+    domain: experimental-history.com
+    description: experimental-history.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: anildashcom
+    name: anildash.com
+    url: https://anildash.com/feed.xml
+    domain: anildash.com
+    description: anildash.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: areslunaorg
+    name: aresluna.org
+    url: https://aresluna.org/main.rss
+    domain: aresluna.org
+    description: aresluna.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: michaelstapelbergch
+    name: michael.stapelberg.ch
+    url: https://michael.stapelberg.ch/feed.xml
+    domain: michael.stapelberg.ch
+    description: michael.stapelberg.ch blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: miguelgrinbergcom
+    name: miguelgrinberg.com
+    url: https://blog.miguelgrinberg.com/feed
+    domain: miguelgrinberg.com
+    description: miguelgrinberg.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: keygensh
+    name: keygen.sh
+    url: https://keygen.sh/blog/feed.xml
+    domain: keygen.sh
+    description: keygen.sh blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: mjg59dreamwidthorg
+    name: mjg59.dreamwidth.org
+    url: https://mjg59.dreamwidth.org/data/rss
+    domain: mjg59.dreamwidth.org
+    description: mjg59.dreamwidth.org blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: computerrip
+    name: computer.rip
+    url: https://computer.rip/rss.xml
+    domain: computer.rip
+    description: computer.rip blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: tedunangstcom
+    name: tedunangst.com
+    url: https://www.tedunangst.com/flak/rss
+    domain: tedunangst.com
+    description: tedunangst.com blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
 regional:
   us:
     news:
