@@ -1158,7 +1158,7 @@ global:
   - id: derekthompsonorg
     name: derekthompson.org
     url: https://www.theatlantic.com/feed/author/derek-thompson/
-    domain: derekthompson.org
+    domain: theatlantic.com
     description: derekthompson.org blog
     contributor: hn-popular
     added_at: '2026-02-03'
@@ -1249,7 +1249,7 @@ global:
   - id: dwarkeshcom
     name: dwarkesh.com
     url: https://www.dwarkeshpatel.com/feed
-    domain: dwarkesh.com
+    domain: dwarkeshpatel.com
     description: dwarkesh.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
@@ -1291,7 +1291,7 @@ global:
   - id: paulgrahamcom
     name: paulgraham.com
     url: http://www.aaronsw.com/2002/feeds/pgessays.rss
-    domain: paulgraham.com
+    domain: aaronsw.com
     description: paulgraham.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
@@ -1389,7 +1389,7 @@ global:
   - id: gwernnet
     name: gwern.net
     url: https://gwern.substack.com/feed
-    domain: gwern.net
+    domain: gwern.substack.com
     description: gwern.net blog
     contributor: hn-popular
     added_at: '2026-02-03'
