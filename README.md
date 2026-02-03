@@ -148,7 +148,3 @@ Feed URLs are facts and not subject to copyright. This repository structure and 
 ## 🚀 Live Site
 
 See these feeds in action at **[worldstream.io](https://worldstream.io)**
-
----
-
-Built with ❤️ by the Worldstream community

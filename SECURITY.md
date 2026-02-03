@@ -12,7 +12,7 @@ If you discover a security vulnerability in:
 
 Please report it privately:
 
-1. **Email:** [Add security contact email]
+1. **GitHub:** Open a security advisory at https://github.com/rsh3khar/worldstream-feeds/security/advisories/new
 2. **Subject:** `[SECURITY] Worldstream Feeds - [Brief Description]`
 3. **Include:**
    - Description of the vulnerability
@@ -63,8 +63,6 @@ All feeds are protected by multiple security layers:
 - **DoS:** Resource exhaustion, slow HTTP attacks
 - **Social Engineering:** Typosquatting, impersonation
 - **Data Integrity:** Feed hijacking, supply chain attacks
-
-For technical details, see [Security Architecture](https://github.com/rsh3khar/worldstream-backend/blob/main/docs/COMMUNITY_FEEDS_SECURITY.md).
 
 ---
 

@@ -1,354 +1,1887 @@
-# Worldstream Community Feeds
-# Community-curated RSS feeds for https://worldstream.io
-#
-# Contribution guidelines: See CONTRIBUTING.md
-
 global:
-  tech:
-    - id: "techcrunch"
-      name: "TechCrunch"
-      url: "https://techcrunch.com/feed/"
-      domain: "techcrunch.com"
-      description: "Startup and technology news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "arstechnica"
-      name: "Ars Technica"
-      url: "https://feeds.arstechnica.com/arstechnica/index"
-      domain: "arstechnica.com"
-      description: "Technology news and analysis"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "theverge"
-      name: "The Verge"
-      url: "https://www.theverge.com/rss/index.xml"
-      domain: "theverge.com"
-      description: "Technology, science, art, and culture"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "wired"
-      name: "Wired"
-      url: "https://www.wired.com/feed/rss"
-      domain: "wired.com"
-      description: "Technology, business, and design"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "hackernews"
-      name: "Hacker News"
-      url: "https://hnrss.org/frontpage"
-      domain: "news.ycombinator.com"
-      description: "Tech news aggregator and community"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "engadget"
-      name: "Engadget"
-      url: "https://www.engadget.com/rss.xml"
-      domain: "engadget.com"
-      description: "Consumer electronics and gadgets"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "mittechreview"
-      name: "MIT Tech Review"
-      url: "https://www.technologyreview.com/feed/"
-      domain: "technologyreview.com"
-      description: "Emerging technology and innovation"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "venturebeat"
-      name: "VentureBeat"
-      url: "https://venturebeat.com/feed/"
-      domain: "venturebeat.com"
-      description: "Technology business news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
   news:
-    - id: "bbc-world"
-      name: "BBC World"
-      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
-      domain: "bbc.co.uk"
-      description: "BBC World News"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "bbc-top"
-      name: "BBC Top Stories"
-      url: "https://feeds.bbci.co.uk/news/rss.xml"
-      domain: "bbc.co.uk"
-      description: "BBC top stories"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "guardian-world"
-      name: "Guardian World"
-      url: "https://www.theguardian.com/world/rss"
-      domain: "theguardian.com"
-      description: "The Guardian world news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "aljazeera"
-      name: "Al Jazeera"
-      url: "https://www.aljazeera.com/xml/rss/all.xml"
-      domain: "aljazeera.com"
-      description: "International news from Middle East perspective"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "npr"
-      name: "NPR News"
-      url: "https://feeds.npr.org/1001/rss.xml"
-      domain: "npr.org"
-      description: "US national public radio news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "reuters"
-      name: "Reuters"
-      url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
-      domain: "reuters.com"
-      description: "International news and business"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
+  - id: bbc-world
+    name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC World feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-top
+    name: BBC Top
+    url: https://feeds.bbci.co.uk/news/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Top feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: guardian-world
+    name: Guardian World
+    url: https://www.theguardian.com/world/rss
+    domain: theguardian.com
+    description: Guardian World feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: al-jazeera
+    name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    domain: aljazeera.com
+    description: Al Jazeera feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: npr-news
+    name: NPR News
+    url: https://feeds.npr.org/1001/rss.xml
+    domain: feeds.npr.org
+    description: NPR News feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: nyt-top
+    name: NYT Top
+    url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+    domain: rss.nytimes.com
+    description: NYT Top feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: washington-post
+    name: Washington Post
+    url: https://feeds.washingtonpost.com/rss/world
+    domain: feeds.washingtonpost.com
+    description: Washington Post feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: pbs-newshour
+    name: PBS NewsHour
+    url: https://www.pbs.org/newshour/feeds/rss/headlines
+    domain: pbs.org
+    description: PBS NewsHour feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: cbs-news
+    name: CBS News
+    url: https://www.cbsnews.com/latest/rss/main
+    domain: cbsnews.com
+    description: CBS News feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: abc-news
+    name: ABC News
+    url: https://abcnews.go.com/abcnews/topstories
+    domain: abcnews.go.com
+    description: ABC News feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: propublica
+    name: ProPublica
+    url: https://feeds.propublica.org/propublica/main
+    domain: feeds.propublica.org
+    description: ProPublica feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: the-hill
+    name: The Hill
+    url: https://thehill.com/feed/
+    domain: thehill.com
+    description: The Hill feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: axios
+    name: Axios
+    url: https://api.axios.com/feed/
+    domain: api.axios.com
+    description: Axios feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-europe
+    name: BBC Europe
+    url: https://feeds.bbci.co.uk/news/world/europe/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Europe feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: guardian-uk
+    name: Guardian UK
+    url: https://www.theguardian.com/uk/rss
+    domain: theguardian.com
+    description: Guardian UK feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: dw-news
+    name: DW News
+    url: https://rss.dw.com/rdf/rss-en-all
+    domain: rss.dw.com
+    description: DW News feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: france24
+    name: France24
+    url: https://www.france24.com/en/rss
+    domain: france24.com
+    description: France24 feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: reuters
+    name: Reuters
+    url: https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en
+    domain: news.google.com
+    description: Reuters feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: japan-times
+    name: Japan Times
+    url: https://www.japantimes.co.jp/feed/
+    domain: japantimes.co.jp
+    description: Japan Times feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: south-china-morning-post
+    name: South China Morning Post
+    url: https://www.scmp.com/rss/91/feed
+    domain: scmp.com
+    description: South China Morning Post feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: abc-australia
+    name: ABC Australia
+    url: https://www.abc.net.au/news/feed/51120/rss.xml
+    domain: abc.net.au
+    description: ABC Australia feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-asia
+    name: BBC Asia
+    url: https://feeds.bbci.co.uk/news/world/asia/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Asia feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: channel-news-asia
+    name: Channel News Asia
+    url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+    domain: channelnewsasia.com
+    description: Channel News Asia feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-middle-east
+    name: BBC Middle East
+    url: https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Middle East feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-africa
+    name: BBC Africa
+    url: https://feeds.bbci.co.uk/news/world/africa/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Africa feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-americas
+    name: BBC Americas
+    url: https://feeds.bbci.co.uk/news/world/latin_america/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Americas feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: gothamist
+    name: Gothamist
+    url: https://gothamist.com/feed
+    domain: gothamist.com
+    description: Gothamist feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: nyt-metro
+    name: NYT Metro
+    url: https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml
+    domain: rss.nytimes.com
+    description: NYT Metro feed
+    contributor: worldstream
+    added_at: '2026-02-03'
   sports:
-    - id: "espn"
-      name: "ESPN"
-      url: "https://www.espn.com/espn/rss/news"
-      domain: "espn.com"
-      description: "Sports news and scores"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "bbc-sport"
-      name: "BBC Sport"
-      url: "https://feeds.bbci.co.uk/sport/rss.xml"
-      domain: "bbc.co.uk"
-      description: "BBC sports coverage"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "cbs-sports"
-      name: "CBS Sports"
-      url: "https://www.cbssports.com/rss/headlines/"
-      domain: "cbssports.com"
-      description: "Sports news and analysis"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
+  - id: espn
+    name: ESPN
+    url: https://www.espn.com/espn/rss/news
+    domain: espn.com
+    description: ESPN feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: bbc-sport
+    name: BBC Sport
+    url: https://feeds.bbci.co.uk/sport/rss.xml
+    domain: feeds.bbci.co.uk
+    description: BBC Sport feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: cbs-sports
+    name: CBS Sports
+    url: https://www.cbssports.com/rss/headlines/
+    domain: cbssports.com
+    description: CBS Sports feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: sb-nation
+    name: SB Nation
+    url: https://www.sbnation.com/rss/index.xml
+    domain: sbnation.com
+    description: SB Nation feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: yahoo-sports
+    name: Yahoo Sports
+    url: https://sports.yahoo.com/rss/
+    domain: sports.yahoo.com
+    description: Yahoo Sports feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: espn-nfl
+    name: ESPN NFL
+    url: https://www.espn.com/espn/rss/nfl/news
+    domain: espn.com
+    description: ESPN NFL feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: espn-nba
+    name: ESPN NBA
+    url: https://www.espn.com/espn/rss/nba/news
+    domain: espn.com
+    description: ESPN NBA feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: espn-soccer
+    name: ESPN Soccer
+    url: https://www.espn.com/espn/rss/soccer/news
+    domain: espn.com
+    description: ESPN Soccer feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: espn-mlb
+    name: ESPN MLB
+    url: https://www.espn.com/espn/rss/mlb/news
+    domain: espn.com
+    description: ESPN MLB feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: sky-sports
+    name: Sky Sports
+    url: https://www.skysports.com/rss/12040
+    domain: skysports.com
+    description: Sky Sports feed
+    contributor: worldstream
+    added_at: '2026-02-03'
   entertainment:
-    - id: "variety"
-      name: "Variety"
-      url: "https://variety.com/feed/"
-      domain: "variety.com"
-      description: "Entertainment industry news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "hollywood-reporter"
-      name: "Hollywood Reporter"
-      url: "https://www.hollywoodreporter.com/feed/"
-      domain: "hollywoodreporter.com"
-      description: "Film and TV industry news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "rollingstone"
-      name: "Rolling Stone"
-      url: "https://www.rollingstone.com/feed/"
-      domain: "rollingstone.com"
-      description: "Music and pop culture"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
+  - id: variety
+    name: Variety
+    url: https://variety.com/feed/
+    domain: variety.com
+    description: Variety feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: hollywood-reporter
+    name: Hollywood Reporter
+    url: https://www.hollywoodreporter.com/feed/
+    domain: hollywoodreporter.com
+    description: Hollywood Reporter feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: deadline
+    name: Deadline
+    url: https://deadline.com/feed/
+    domain: deadline.com
+    description: Deadline feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: indiewire
+    name: IndieWire
+    url: https://www.indiewire.com/feed/
+    domain: indiewire.com
+    description: IndieWire feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: screen-rant
+    name: Screen Rant
+    url: https://screenrant.com/feed/
+    domain: screenrant.com
+    description: Screen Rant feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: collider
+    name: Collider
+    url: https://collider.com/feed/
+    domain: collider.com
+    description: Collider feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: av-club
+    name: AV Club
+    url: https://www.avclub.com/rss
+    domain: avclub.com
+    description: AV Club feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: slashfilm
+    name: SlashFilm
+    url: https://www.slashfilm.com/feed/
+    domain: slashfilm.com
+    description: SlashFilm feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: rolling-stone
+    name: Rolling Stone
+    url: https://www.rollingstone.com/feed/
+    domain: rollingstone.com
+    description: Rolling Stone feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: billboard
+    name: Billboard
+    url: https://www.billboard.com/feed/
+    domain: billboard.com
+    description: Billboard feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: pitchfork
+    name: Pitchfork
+    url: https://pitchfork.com/feed/feed-news/rss
+    domain: pitchfork.com
+    description: Pitchfork feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: stereogum
+    name: Stereogum
+    url: https://www.stereogum.com/feed/
+    domain: stereogum.com
+    description: Stereogum feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: nme
+    name: NME
+    url: https://www.nme.com/feed
+    domain: nme.com
+    description: NME feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: e-news
+    name: E! News
+    url: https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml
+    domain: eonline.com
+    description: E! News feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  tech:
+  - id: techcrunch
+    name: TechCrunch
+    url: https://techcrunch.com/feed/
+    domain: techcrunch.com
+    description: TechCrunch feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: ars-technica
+    name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    domain: feeds.arstechnica.com
+    description: Ars Technica feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: wired
+    name: Wired
+    url: https://www.wired.com/feed/rss
+    domain: wired.com
+    description: Wired feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: the-verge
+    name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    domain: theverge.com
+    description: The Verge feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: engadget
+    name: Engadget
+    url: https://www.engadget.com/rss.xml
+    domain: engadget.com
+    description: Engadget feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: mit-tech-review
+    name: MIT Tech Review
+    url: https://www.technologyreview.com/feed/
+    domain: technologyreview.com
+    description: MIT Tech Review feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: zdnet
+    name: ZDNet
+    url: https://www.zdnet.com/news/rss.xml
+    domain: zdnet.com
+    description: ZDNet feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: venturebeat
+    name: VentureBeat
+    url: https://venturebeat.com/feed/
+    domain: venturebeat.com
+    description: VentureBeat feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: lobsters
+    name: Lobsters
+    url: https://lobste.rs/rss
+    domain: lobste.rs
+    description: Lobsters feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: infoq
+    name: InfoQ
+    url: https://www.infoq.com/feed/
+    domain: infoq.com
+    description: InfoQ feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: hacker-noon-ai
+    name: Hacker Noon AI
+    url: https://hackernoon.com/tagged/artificial-intelligence/feed
+    domain: hackernoon.com
+    description: Hacker Noon AI feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: product-hunt
+    name: Product Hunt
+    url: https://www.producthunt.com/feed
+    domain: producthunt.com
+    description: Product Hunt feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: 9to5mac
+    name: 9to5Mac
+    url: https://9to5mac.com/feed/
+    domain: 9to5mac.com
+    description: 9to5Mac feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: 9to5google
+    name: 9to5Google
+    url: https://9to5google.com/feed/
+    domain: 9to5google.com
+    description: 9to5Google feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: the-register
+    name: The Register
+    url: https://www.theregister.com/headlines.atom
+    domain: theregister.com
+    description: The Register feed
+    contributor: worldstream
+    added_at: '2026-02-03'
   science:
-    - id: "physorg"
-      name: "Phys.org"
-      url: "https://phys.org/rss-feed/"
-      domain: "phys.org"
-      description: "Science and technology research news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "sciencedaily"
-      name: "ScienceDaily"
-      url: "https://www.sciencedaily.com/rss/all.xml"
-      domain: "sciencedaily.com"
-      description: "Latest science news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "nature"
-      name: "Nature"
-      url: "https://www.nature.com/nature.rss"
-      domain: "nature.com"
-      description: "Nature journal research"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
+  - id: physorg
+    name: Phys.org
+    url: https://phys.org/rss-feed/
+    domain: phys.org
+    description: Phys.org feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: sciencedaily
+    name: ScienceDaily
+    url: https://www.sciencedaily.com/rss/all.xml
+    domain: sciencedaily.com
+    description: ScienceDaily feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: nature
+    name: Nature
+    url: https://www.nature.com/nature.rss
+    domain: nature.com
+    description: Nature feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: science
+    name: Science
+    url: https://www.science.org/rss/news_current.xml
+    domain: science.org
+    description: Science feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: live-science
+    name: Live Science
+    url: https://www.livescience.com/feeds/all
+    domain: livescience.com
+    description: Live Science feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: new-scientist
+    name: New Scientist
+    url: https://www.newscientist.com/feed/home/
+    domain: newscientist.com
+    description: New Scientist feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: stat-news
+    name: STAT News
+    url: https://www.statnews.com/feed/
+    domain: statnews.com
+    description: STAT News feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: ars-science
+    name: Ars Science
+    url: https://feeds.arstechnica.com/arstechnica/science
+    domain: feeds.arstechnica.com
+    description: Ars Science feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: quanta
+    name: Quanta
+    url: https://www.quantamagazine.org/feed/
+    domain: quantamagazine.org
+    description: Quanta feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: spacecom
+    name: Space.com
+    url: https://www.space.com/feeds/all
+    domain: space.com
+    description: Space.com feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: nasa-breaking
+    name: NASA Breaking
+    url: https://www.nasa.gov/rss/dyn/breaking_news.rss
+    domain: nasa.gov
+    description: NASA Breaking feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: universe-today
+    name: Universe Today
+    url: https://www.universetoday.com/feed/
+    domain: universetoday.com
+    description: Universe Today feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: spaceflight-now
+    name: Spaceflight Now
+    url: https://spaceflightnow.com/feed/
+    domain: spaceflightnow.com
+    description: Spaceflight Now feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-ai
+    name: arXiv AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    domain: rss.arxiv.org
+    description: arXiv AI feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-ml
+    name: arXiv ML
+    url: https://rss.arxiv.org/rss/cs.LG
+    domain: rss.arxiv.org
+    description: arXiv ML feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-nlp
+    name: arXiv NLP
+    url: https://rss.arxiv.org/rss/cs.CL
+    domain: rss.arxiv.org
+    description: arXiv NLP feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-cv
+    name: arXiv CV
+    url: https://rss.arxiv.org/rss/cs.CV
+    domain: rss.arxiv.org
+    description: arXiv CV feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-crypto
+    name: arXiv Crypto
+    url: https://rss.arxiv.org/rss/cs.CR
+    domain: rss.arxiv.org
+    description: arXiv Crypto feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-robotics
+    name: arXiv Robotics
+    url: https://rss.arxiv.org/rss/cs.RO
+    domain: rss.arxiv.org
+    description: arXiv Robotics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-combinatorics
+    name: arXiv Combinatorics
+    url: https://rss.arxiv.org/rss/math.CO
+    domain: rss.arxiv.org
+    description: arXiv Combinatorics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-probability
+    name: arXiv Probability
+    url: https://rss.arxiv.org/rss/math.PR
+    domain: rss.arxiv.org
+    description: arXiv Probability feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-statistics
+    name: arXiv Statistics
+    url: https://rss.arxiv.org/rss/math.ST
+    domain: rss.arxiv.org
+    description: arXiv Statistics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-optimization
+    name: arXiv Optimization
+    url: https://rss.arxiv.org/rss/math.OC
+    domain: rss.arxiv.org
+    description: arXiv Optimization feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-numerical-analysis
+    name: arXiv Numerical Analysis
+    url: https://rss.arxiv.org/rss/math.NA
+    domain: rss.arxiv.org
+    description: arXiv Numerical Analysis feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-astrophysics
+    name: arXiv Astrophysics
+    url: https://rss.arxiv.org/rss/astro-ph
+    domain: rss.arxiv.org
+    description: arXiv Astrophysics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-condensed-matter
+    name: arXiv Condensed Matter
+    url: https://rss.arxiv.org/rss/cond-mat
+    domain: rss.arxiv.org
+    description: arXiv Condensed Matter feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-high-energy-physics
+    name: arXiv High Energy Physics
+    url: https://rss.arxiv.org/rss/hep-ph
+    domain: rss.arxiv.org
+    description: arXiv High Energy Physics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-quantum
+    name: arXiv Quantum
+    url: https://rss.arxiv.org/rss/quant-ph
+    domain: rss.arxiv.org
+    description: arXiv Quantum feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-relativity
+    name: arXiv Relativity
+    url: https://rss.arxiv.org/rss/gr-qc
+    domain: rss.arxiv.org
+    description: arXiv Relativity feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-medical-physics
+    name: arXiv Medical Physics
+    url: https://rss.arxiv.org/rss/physics.med-ph
+    domain: rss.arxiv.org
+    description: arXiv Medical Physics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-biomolecules
+    name: arXiv Biomolecules
+    url: https://rss.arxiv.org/rss/q-bio.BM
+    domain: rss.arxiv.org
+    description: arXiv Biomolecules feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-cell-biology
+    name: arXiv Cell Biology
+    url: https://rss.arxiv.org/rss/q-bio.CB
+    domain: rss.arxiv.org
+    description: arXiv Cell Biology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-genomics
+    name: arXiv Genomics
+    url: https://rss.arxiv.org/rss/q-bio.GN
+    domain: rss.arxiv.org
+    description: arXiv Genomics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-neuro
+    name: arXiv Neuro
+    url: https://rss.arxiv.org/rss/q-bio.NC
+    domain: rss.arxiv.org
+    description: arXiv Neuro feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-populations
+    name: arXiv Populations
+    url: https://rss.arxiv.org/rss/q-bio.PE
+    domain: rss.arxiv.org
+    description: arXiv Populations feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-economics
+    name: arXiv Economics
+    url: https://rss.arxiv.org/rss/econ.GN
+    domain: rss.arxiv.org
+    description: arXiv Economics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: arxiv-quant-finance
+    name: arXiv Quant Finance
+    url: https://rss.arxiv.org/rss/q-fin.ST
+    domain: rss.arxiv.org
+    description: arXiv Quant Finance feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-infectious-disease
+    name: medRxiv Infectious Disease
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=infectious_diseases
+    domain: connect.medrxiv.org
+    description: medRxiv Infectious Disease feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-cardiology
+    name: medRxiv Cardiology
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=cardiovascular_medicine
+    domain: connect.medrxiv.org
+    description: medRxiv Cardiology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-oncology
+    name: medRxiv Oncology
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=oncology
+    domain: connect.medrxiv.org
+    description: medRxiv Oncology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-neurology
+    name: medRxiv Neurology
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=neurology
+    domain: connect.medrxiv.org
+    description: medRxiv Neurology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-public-health
+    name: medRxiv Public Health
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=public_and_global_health
+    domain: connect.medrxiv.org
+    description: medRxiv Public Health feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-psychiatry
+    name: medRxiv Psychiatry
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=psychiatry_and_clinical_psychology
+    domain: connect.medrxiv.org
+    description: medRxiv Psychiatry feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: medrxiv-epidemiology
+    name: medRxiv Epidemiology
+    url: https://connect.medrxiv.org/medrxiv_xml.php?subject=epidemiology
+    domain: connect.medrxiv.org
+    description: medRxiv Epidemiology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-genetics
+    name: bioRxiv Genetics
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=genetics
+    domain: connect.biorxiv.org
+    description: bioRxiv Genetics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-immunology
+    name: bioRxiv Immunology
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=immunology
+    domain: connect.biorxiv.org
+    description: bioRxiv Immunology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-microbiology
+    name: bioRxiv Microbiology
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology
+    domain: connect.biorxiv.org
+    description: bioRxiv Microbiology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-cancer-biology
+    name: bioRxiv Cancer Biology
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology
+    domain: connect.biorxiv.org
+    description: bioRxiv Cancer Biology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-bioinformatics
+    name: bioRxiv Bioinformatics
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics
+    domain: connect.biorxiv.org
+    description: bioRxiv Bioinformatics feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-molecular-biology
+    name: bioRxiv Molecular Biology
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=molecular_biology
+    domain: connect.biorxiv.org
+    description: bioRxiv Molecular Biology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: biorxiv-dev-biology
+    name: bioRxiv Dev Biology
+    url: https://connect.biorxiv.org/biorxiv_xml.php?subject=developmental_biology
+    domain: connect.biorxiv.org
+    description: bioRxiv Dev Biology feed
+    contributor: worldstream
+    added_at: '2026-02-03'
   gaming:
-    - id: "ign"
-      name: "IGN"
-      url: "https://feeds.feedburner.com/ign/all"
-      domain: "ign.com"
-      description: "Video game news and reviews"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "gamespot"
-      name: "GameSpot"
-      url: "https://www.gamespot.com/feeds/mashup/"
-      domain: "gamespot.com"
-      description: "Gaming news and reviews"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "pcgamer"
-      name: "PC Gamer"
-      url: "https://www.pcgamer.com/rss/"
-      domain: "pcgamer.com"
-      description: "PC gaming news and reviews"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
+  - id: ign
+    name: IGN
+    url: https://feeds.feedburner.com/ign/all
+    domain: feeds.feedburner.com
+    description: IGN feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: gamespot
+    name: GameSpot
+    url: https://www.gamespot.com/feeds/mashup/
+    domain: gamespot.com
+    description: GameSpot feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: vg247
+    name: VG247
+    url: https://www.vg247.com/feed
+    domain: vg247.com
+    description: VG247 feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: rock-paper-shotgun
+    name: Rock Paper Shotgun
+    url: https://www.rockpapershotgun.com/feed
+    domain: rockpapershotgun.com
+    description: Rock Paper Shotgun feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: pc-gamer
+    name: PC Gamer
+    url: https://www.pcgamer.com/rss/
+    domain: pcgamer.com
+    description: PC Gamer feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: eurogamer
+    name: Eurogamer
+    url: https://www.eurogamer.net/feed
+    domain: eurogamer.net
+    description: Eurogamer feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: destructoid
+    name: Destructoid
+    url: https://www.destructoid.com/feed/
+    domain: destructoid.com
+    description: Destructoid feed
+    contributor: worldstream
+    added_at: '2026-02-03'
   markets:
-    - id: "coindesk"
-      name: "CoinDesk"
-      url: "https://www.coindesk.com/arc/outboundfeeds/rss/"
-      domain: "coindesk.com"
-      description: "Cryptocurrency and blockchain news"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
-    - id: "marketwatch"
-      name: "MarketWatch"
-      url: "https://feeds.marketwatch.com/marketwatch/topstories/"
-      domain: "marketwatch.com"
-      description: "Financial markets and investing"
-      contributor: "worldstream"
-      added_at: "2025-02-03"
-
+  - id: investingcom-crypto
+    name: Investing.com Crypto
+    url: https://www.investing.com/rss/news_301.rss
+    domain: investing.com
+    description: Investing.com Crypto feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: investingcom-stocks
+    name: Investing.com Stocks
+    url: https://www.investing.com/rss/news_25.rss
+    domain: investing.com
+    description: Investing.com Stocks feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: investingcom-forex
+    name: Investing.com Forex
+    url: https://www.investing.com/rss/news_1.rss
+    domain: investing.com
+    description: Investing.com Forex feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: investingcom-economy
+    name: Investing.com Economy
+    url: https://www.investing.com/rss/news_14.rss
+    domain: investing.com
+    description: Investing.com Economy feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: cnbc-markets
+    name: CNBC Markets
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664
+    domain: search.cnbc.com
+    description: CNBC Markets feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: cnbc-economy
+    name: CNBC Economy
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258
+    domain: search.cnbc.com
+    description: CNBC Economy feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: coindesk
+    name: CoinDesk
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+    domain: coindesk.com
+    description: CoinDesk feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: the-block
+    name: The Block
+    url: https://www.theblock.co/rss.xml
+    domain: theblock.co
+    description: The Block feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: marketwatch
+    name: MarketWatch
+    url: https://feeds.marketwatch.com/marketwatch/topstories/
+    domain: feeds.marketwatch.com
+    description: MarketWatch feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: yahoo-finance
+    name: Yahoo Finance
+    url: https://finance.yahoo.com/news/rssindex
+    domain: finance.yahoo.com
+    description: Yahoo Finance feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: yahoo-business
+    name: Yahoo Business
+    url: https://news.yahoo.com/rss/business
+    domain: news.yahoo.com
+    description: Yahoo Business feed
+    contributor: worldstream
+    added_at: '2026-02-03'
+  - id: seeking-alpha
+    name: Seeking Alpha
+    url: https://seekingalpha.com/feed.xml
+    domain: seekingalpha.com
+    description: Seeking Alpha feed
+    contributor: worldstream
+    added_at: '2026-02-03'
 regional:
   us:
     news:
-      - id: "nyt-homepage"
-        name: "NYT Top Stories"
-        url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-        domain: "nytimes.com"
-        description: "New York Times homepage"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
-      - id: "washingtonpost"
-        name: "Washington Post"
-        url: "https://feeds.washingtonpost.com/rss/world"
-        domain: "washingtonpost.com"
-        description: "Washington Post world news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
-    tech:
-      - id: "techcrunch-us"
-        name: "TechCrunch"
-        url: "https://techcrunch.com/feed/"
-        domain: "techcrunch.com"
-        description: "Silicon Valley tech news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
+    - id: politico
+      name: Politico
+      url: https://rss.politico.com/politics-news.xml
+      domain: rss.politico.com
+      description: Politico feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: ny-post
+      name: NY Post
+      url: https://nypost.com/feed/
+      domain: nypost.com
+      description: NY Post feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: la-times
+      name: LA Times
+      url: https://www.latimes.com/local/rss2.0.xml
+      domain: latimes.com
+      description: LA Times feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: texas-tribune
+      name: Texas Tribune
+      url: https://www.texastribune.org/feeds/main/
+      domain: texastribune.org
+      description: Texas Tribune feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: denver-post
+      name: Denver Post
+      url: https://www.denverpost.com/feed/
+      domain: denverpost.com
+      description: Denver Post feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    markets:
+    - id: cnbc
+      name: CNBC
+      url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114
+      domain: search.cnbc.com
+      description: CNBC feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: wsj-markets
+      name: WSJ Markets
+      url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+      domain: feeds.a.dj.com
+      description: WSJ Markets feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bloomberg-us
+      name: Bloomberg US
+      url: https://feeds.bloomberg.com/markets/news.rss
+      domain: feeds.bloomberg.com
+      description: Bloomberg US feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    science:
+    - id: npr-science
+      name: NPR Science
+      url: https://www.npr.org/rss/rss.php?id=1007
+      domain: npr.org
+      description: NPR Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nyt-science
+      name: NYT Science
+      url: https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+      domain: rss.nytimes.com
+      description: NYT Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    gaming:
+    - id: kotaku
+      name: Kotaku
+      url: https://kotaku.com/rss
+      domain: kotaku.com
+      description: Kotaku feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: polygon
+      name: Polygon
+      url: https://www.polygon.com/rss/index.xml
+      domain: polygon.com
+      description: Polygon feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    sports:
+    - id: rnfl
+      name: r/nfl
+      url: https://www.reddit.com/r/nfl/hot.rss
+      domain: reddit.com
+      description: r/nfl feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rnba
+      name: r/nba
+      url: https://www.reddit.com/r/nba/hot.rss
+      domain: reddit.com
+      description: r/nba feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rbaseball
+      name: r/baseball
+      url: https://www.reddit.com/r/baseball/hot.rss
+      domain: reddit.com
+      description: r/baseball feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    entertainment:
+    - id: rmovies
+      name: r/movies
+      url: https://www.reddit.com/r/movies/hot.rss
+      domain: reddit.com
+      description: r/movies feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rtelevision
+      name: r/television
+      url: https://www.reddit.com/r/television/hot.rss
+      domain: reddit.com
+      description: r/television feed
+      contributor: worldstream
+      added_at: '2026-02-03'
   uk:
     news:
-      - id: "bbc-uk"
-        name: "BBC UK"
-        url: "https://feeds.bbci.co.uk/news/uk/rss.xml"
-        domain: "bbc.co.uk"
-        description: "BBC UK national news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
-      - id: "guardian-uk"
-        name: "Guardian UK"
-        url: "https://www.theguardian.com/uk-news/rss"
-        domain: "theguardian.com"
-        description: "Guardian UK news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
+    - id: bbc-uk
+      name: BBC UK
+      url: https://feeds.bbci.co.uk/news/uk/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC UK feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-england
+      name: BBC England
+      url: https://feeds.bbci.co.uk/news/england/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC England feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: guardian-uk-2
+      name: Guardian UK
+      url: https://www.theguardian.com/uk-news/rss
+      domain: theguardian.com
+      description: Guardian UK feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: telegraph
+      name: Telegraph
+      url: https://www.telegraph.co.uk/news/rss.xml
+      domain: telegraph.co.uk
+      description: Telegraph feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: independent-uk
+      name: Independent UK
+      url: https://www.independent.co.uk/news/uk/rss
+      domain: independent.co.uk
+      description: Independent UK feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: sky-news-uk
+      name: Sky News UK
+      url: https://feeds.skynews.com/feeds/rss/uk.xml
+      domain: feeds.skynews.com
+      description: Sky News UK feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: mirror
+      name: Mirror
+      url: https://www.mirror.co.uk/news/uk-news/rss.xml
+      domain: mirror.co.uk
+      description: Mirror feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: evening-standard
+      name: Evening Standard
+      url: https://www.standard.co.uk/rss
+      domain: standard.co.uk
+      description: Evening Standard feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-london
+      name: BBC London
+      url: https://feeds.bbci.co.uk/news/england/london/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC London feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-scotland
+      name: BBC Scotland
+      url: https://feeds.bbci.co.uk/news/scotland/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Scotland feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-wales
+      name: BBC Wales
+      url: https://feeds.bbci.co.uk/news/wales/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Wales feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-n-ireland
+      name: BBC N Ireland
+      url: https://feeds.bbci.co.uk/news/northern_ireland/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC N Ireland feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: manchester-evening
+      name: Manchester Evening
+      url: https://www.manchestereveningnews.co.uk/news/rss.xml
+      domain: manchestereveningnews.co.uk
+      description: Manchester Evening feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: liverpool-echo
+      name: Liverpool Echo
+      url: https://www.liverpoolecho.co.uk/news/rss.xml
+      domain: liverpoolecho.co.uk
+      description: Liverpool Echo feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: birmingham-mail
+      name: Birmingham Mail
+      url: https://www.birminghammail.co.uk/news/rss.xml
+      domain: birminghammail.co.uk
+      description: Birmingham Mail feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: yorkshire-post
+      name: Yorkshire Post
+      url: https://www.yorkshirepost.co.uk/rss
+      domain: yorkshirepost.co.uk
+      description: Yorkshire Post feed
+      contributor: worldstream
+      added_at: '2026-02-03'
     sports:
-      - id: "skysports"
-        name: "Sky Sports"
-        url: "https://www.skysports.com/rss/12040"
-        domain: "skysports.com"
-        description: "UK sports coverage"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
+    - id: bbc-football
+      name: BBC Football
+      url: https://feeds.bbci.co.uk/sport/football/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Football feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: guardian-football
+      name: Guardian Football
+      url: https://www.theguardian.com/football/rss
+      domain: theguardian.com
+      description: Guardian Football feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-cricket
+      name: BBC Cricket
+      url: https://feeds.bbci.co.uk/sport/cricket/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Cricket feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rpremierleague
+      name: r/PremierLeague
+      url: https://www.reddit.com/r/PremierLeague/hot.rss
+      domain: reddit.com
+      description: r/PremierLeague feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    markets:
+    - id: bbc-business
+      name: BBC Business
+      url: https://feeds.bbci.co.uk/news/business/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Business feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: financial-times
+      name: Financial Times
+      url: https://www.ft.com/rss/home/uk
+      domain: ft.com
+      description: Financial Times feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: city-am
+      name: City AM
+      url: https://www.cityam.com/feed/
+      domain: cityam.com
+      description: City AM feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    entertainment:
+    - id: bbc-entertainment
+      name: BBC Entertainment
+      url: https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Entertainment feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: metro-entertainment
+      name: Metro Entertainment
+      url: https://metro.co.uk/entertainment/feed/
+      domain: metro.co.uk
+      description: Metro Entertainment feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rcasualuk
+      name: r/CasualUK
+      url: https://www.reddit.com/r/CasualUK/hot.rss
+      domain: reddit.com
+      description: r/CasualUK feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rbritishproblems
+      name: r/BritishProblems
+      url: https://www.reddit.com/r/britishproblems/hot.rss
+      domain: reddit.com
+      description: r/BritishProblems feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    tech:
+    - id: techradar
+      name: TechRadar
+      url: https://www.techradar.com/rss
+      domain: techradar.com
+      description: TechRadar feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-tech
+      name: BBC Tech
+      url: https://feeds.bbci.co.uk/news/technology/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Tech feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    science:
+    - id: bbc-science
+      name: BBC Science
+      url: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: guardian-science
+      name: Guardian Science
+      url: https://www.theguardian.com/science/rss
+      domain: theguardian.com
+      description: Guardian Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
   india:
     news:
-      - id: "timesofindia"
-        name: "Times of India"
-        url: "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
-        domain: "timesofindia.indiatimes.com"
-        description: "Indian national news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
-      - id: "hindustantimes"
-        name: "Hindustan Times"
-        url: "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
-        domain: "hindustantimes.com"
-        description: "Indian news and current affairs"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
+    - id: times-of-india
+      name: Times of India
+      url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+      domain: timesofindia.indiatimes.com
+      description: Times of India feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: hindustan-times
+      name: Hindustan Times
+      url: https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
+      domain: hindustantimes.com
+      description: Hindustan Times feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: indian-express
+      name: Indian Express
+      url: https://indianexpress.com/feed/
+      domain: indianexpress.com
+      description: Indian Express feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: ndtv
+      name: NDTV
+      url: https://feeds.feedburner.com/ndtvnews-top-stories
+      domain: feeds.feedburner.com
+      description: NDTV feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: the-hindu
+      name: The Hindu
+      url: https://www.thehindu.com/news/national/feeder/default.rss
+      domain: thehindu.com
+      description: The Hindu feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: news18
+      name: News18
+      url: https://www.news18.com/commonfeeds/v1/eng/rss/india.xml
+      domain: news18.com
+      description: News18 feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: scrollin
+      name: Scroll.in
+      url: http://feeds.feedburner.com/ScrollinArticles.rss
+      domain: feeds.feedburner.com
+      description: Scroll.in feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: amar-ujala
+      name: Amar Ujala
+      url: https://www.amarujala.com/rss/breaking-news.xml
+      domain: amarujala.com
+      description: Amar Ujala feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: amar-ujala-india
+      name: Amar Ujala India
+      url: https://www.amarujala.com/rss/india-news.xml
+      domain: amarujala.com
+      description: Amar Ujala India feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: dainik-bhaskar
+      name: Dainik Bhaskar
+      url: https://www.bhaskar.com/rss-v1--category-1061.xml
+      domain: bhaskar.com
+      description: Dainik Bhaskar feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: bbc-hindi
+      name: BBC Hindi
+      url: http://feeds.bbci.co.uk/hindi/india/rss.xml
+      domain: feeds.bbci.co.uk
+      description: BBC Hindi feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-mumbai
+      name: TOI Mumbai
+      url: https://timesofindia.indiatimes.com/rssfeeds/6368839.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Mumbai feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-delhi
+      name: TOI Delhi
+      url: https://timesofindia.indiatimes.com/rssfeeds/7550799.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Delhi feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-bangalore
+      name: TOI Bangalore
+      url: https://timesofindia.indiatimes.com/rssfeeds/6368719.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Bangalore feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-chennai
+      name: TOI Chennai
+      url: https://timesofindia.indiatimes.com/rssfeeds/6368716.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Chennai feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-kolkata
+      name: TOI Kolkata
+      url: https://timesofindia.indiatimes.com/rssfeeds/6368722.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Kolkata feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-hyderabad
+      name: TOI Hyderabad
+      url: https://timesofindia.indiatimes.com/rssfeeds/6368710.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Hyderabad feed
+      contributor: worldstream
+      added_at: '2026-02-03'
     sports:
-      - id: "espncricinfo"
-        name: "ESPNcricinfo"
-        url: "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"
-        domain: "espncricinfo.com"
-        description: "Cricket news and scores"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
+    - id: espncricinfo
+      name: ESPNcricinfo
+      url: https://www.espncricinfo.com/rss/content/story/feeds/0.xml
+      domain: espncricinfo.com
+      description: ESPNcricinfo feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: cricbuzz
+      name: Cricbuzz
+      url: https://www.cricbuzz.com/rss/cb_news
+      domain: cricbuzz.com
+      description: Cricbuzz feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: toi-sports
+      name: TOI Sports
+      url: https://timesofindia.indiatimes.com/rssfeeds/4719148.cms
+      domain: timesofindia.indiatimes.com
+      description: TOI Sports feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: ndtv-sports
+      name: NDTV Sports
+      url: https://feeds.feedburner.com/ndtvsports-latest
+      domain: feeds.feedburner.com
+      description: NDTV Sports feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rcricket
+      name: r/Cricket
+      url: https://www.reddit.com/r/Cricket/hot.rss
+      domain: reddit.com
+      description: r/Cricket feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    markets:
+    - id: economic-times
+      name: Economic Times
+      url: https://economictimes.indiatimes.com/rssfeedstopstories.cms
+      domain: economictimes.indiatimes.com
+      description: Economic Times feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: mint
+      name: Mint
+      url: https://www.livemint.com/rss/news
+      domain: livemint.com
+      description: Mint feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: moneycontrol
+      name: Moneycontrol
+      url: https://www.moneycontrol.com/rss/latestnews.xml
+      domain: moneycontrol.com
+      description: Moneycontrol feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    tech:
+    - id: yourstory
+      name: YourStory
+      url: https://yourstory.com/feed
+      domain: yourstory.com
+      description: YourStory feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: inc42
+      name: Inc42
+      url: https://inc42.com/feed/
+      domain: inc42.com
+      description: Inc42 feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: gadgets360
+      name: Gadgets360
+      url: https://feeds.feedburner.com/gadgets360-latest
+      domain: feeds.feedburner.com
+      description: Gadgets360 feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    science:
+    - id: the-wire-science
+      name: The Wire Science
+      url: https://science.thewire.in/feed
+      domain: science.thewire.in
+      description: The Wire Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: the-hindu-science
+      name: The Hindu Science
+      url: https://www.thehindu.com/sci-tech/science/feeder/default.rss
+      domain: thehindu.com
+      description: The Hindu Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: indian-express-science
+      name: Indian Express Science
+      url: https://indianexpress.com/section/technology/science/feed/
+      domain: indianexpress.com
+      description: Indian Express Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    entertainment:
+    - id: bollywood-hungama
+      name: Bollywood Hungama
+      url: https://www.bollywoodhungama.com/rss/news.xml
+      domain: bollywoodhungama.com
+      description: Bollywood Hungama feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rbollyblindsngossip
+      name: r/BollyBlindsNGossip
+      url: https://www.reddit.com/r/BollyBlindsNGossip/hot.rss
+      domain: reddit.com
+      description: r/BollyBlindsNGossip feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rbollywood
+      name: r/bollywood
+      url: https://www.reddit.com/r/bollywood/hot.rss
+      domain: reddit.com
+      description: r/bollywood feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    gaming:
+    - id: rindiangaming
+      name: r/IndianGaming
+      url: https://www.reddit.com/r/IndianGaming/hot.rss
+      domain: reddit.com
+      description: r/IndianGaming feed
+      contributor: worldstream
+      added_at: '2026-02-03'
   japan:
     news:
-      - id: "japantimes"
-        name: "Japan Times"
-        url: "https://www.japantimes.co.jp/feed/"
-        domain: "japantimes.co.jp"
-        description: "English-language Japanese news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
-      - id: "nhkworld"
-        name: "NHK World"
-        url: "https://www3.nhk.or.jp/rss/news/cat0.xml"
-        domain: "nhk.or.jp"
-        description: "Japanese public broadcaster"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
+    - id: nhk-world
+      name: NHK World
+      url: https://www3.nhk.or.jp/rss/news/cat0.xml
+      domain: www3.nhk.or.jp
+      description: NHK World feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: japan-today
+      name: Japan Today
+      url: https://japantoday.com/feed
+      domain: japantoday.com
+      description: Japan Today feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: tokyo-reporter
+      name: Tokyo Reporter
+      url: https://www.tokyoreporter.com/feed/
+      domain: tokyoreporter.com
+      description: Tokyo Reporter feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nikkei-asia
+      name: Nikkei Asia
+      url: https://asia.nikkei.com/rss/feed/nar
+      domain: asia.nikkei.com
+      description: Nikkei Asia feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: asahi-shimbun
+      name: Asahi Shimbun
+      url: https://www.asahi.com/rss/asahi/newsheadlines.rdf
+      domain: asahi.com
+      description: Asahi Shimbun feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: mainichi-shimbun
+      name: Mainichi Shimbun
+      url: https://mainichi.jp/rss/etc/mainichi-flash.rss
+      domain: mainichi.jp
+      description: Mainichi Shimbun feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nhk-politics
+      name: NHK Politics
+      url: https://www3.nhk.or.jp/rss/news/cat1.xml
+      domain: www3.nhk.or.jp
+      description: NHK Politics feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nhk-international
+      name: NHK International
+      url: https://www3.nhk.or.jp/rss/news/cat6.xml
+      domain: www3.nhk.or.jp
+      description: NHK International feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rjapan
+      name: r/japan
+      url: https://www.reddit.com/r/japan/hot.rss
+      domain: reddit.com
+      description: r/japan feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    sports:
+    - id: japan-times-sports
+      name: Japan Times Sports
+      url: https://www.japantimes.co.jp/sports/feed/
+      domain: japantimes.co.jp
+      description: Japan Times Sports feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nhk-sports
+      name: NHK Sports
+      url: https://www3.nhk.or.jp/rss/news/cat7.xml
+      domain: www3.nhk.or.jp
+      description: NHK Sports feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    gaming:
+    - id: siliconera
+      name: Siliconera
+      url: https://www.siliconera.com/feed/
+      domain: siliconera.com
+      description: Siliconera feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: gematsu
+      name: Gematsu
+      url: https://www.gematsu.com/feed
+      domain: gematsu.com
+      description: Gematsu feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nintendo-everything
+      name: Nintendo Everything
+      url: https://nintendoeverything.com/feed/
+      domain: nintendoeverything.com
+      description: Nintendo Everything feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    markets:
+    - id: japan-times-business
+      name: Japan Times Business
+      url: https://www.japantimes.co.jp/business/feed/
+      domain: japantimes.co.jp
+      description: Japan Times Business feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: japan-today-business
+      name: Japan Today Business
+      url: https://japantoday.com/category/business/feed
+      domain: japantoday.com
+      description: Japan Today Business feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nhk-business
+      name: NHK Business
+      url: https://www3.nhk.or.jp/rss/news/cat2.xml
+      domain: www3.nhk.or.jp
+      description: NHK Business feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    tech:
+    - id: automaton
+      name: Automaton
+      url: https://automaton-media.com/en/feed/
+      domain: automaton-media.com
+      description: Automaton feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    entertainment:
+    - id: anime-news-network
+      name: Anime News Network
+      url: https://www.animenewsnetwork.com/all/rss.xml
+      domain: animenewsnetwork.com
+      description: Anime News Network feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: sora-news-24
+      name: Sora News 24
+      url: https://soranews24.com/feed/
+      domain: soranews24.com
+      description: Sora News 24 feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: tokyo-weekender
+      name: Tokyo Weekender
+      url: https://www.tokyoweekender.com/feed/
+      domain: tokyoweekender.com
+      description: Tokyo Weekender feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: ranime
+      name: r/anime
+      url: https://www.reddit.com/r/anime/hot.rss
+      domain: reddit.com
+      description: r/anime feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rmanga
+      name: r/manga
+      url: https://www.reddit.com/r/manga/hot.rss
+      domain: reddit.com
+      description: r/manga feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    science:
+    - id: nhk-science
+      name: NHK Science
+      url: https://www3.nhk.or.jp/rss/news/cat3.xml
+      domain: www3.nhk.or.jp
+      description: NHK Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
   china:
     news:
-      - id: "scmp"
-        name: "South China Morning Post"
-        url: "https://www.scmp.com/rss/91/feed"
-        domain: "scmp.com"
-        description: "Hong Kong and China news"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
-
-      - id: "chinadaily"
-        name: "China Daily"
-        url: "http://www.chinadaily.com.cn/rss/world_rss.xml"
-        domain: "chinadaily.com.cn"
-        description: "Official Chinese news in English"
-        contributor: "worldstream"
-        added_at: "2025-02-03"
+    - id: scmp-china
+      name: SCMP China
+      url: https://www.scmp.com/rss/4/feed
+      domain: scmp.com
+      description: SCMP China feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: global-times
+      name: Global Times
+      url: https://www.globaltimes.cn/rss/outbrain.xml
+      domain: globaltimes.cn
+      description: Global Times feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: china-daily
+      name: China Daily
+      url: http://www.chinadaily.com.cn/rss/world_rss.xml
+      domain: chinadaily.com.cn
+      description: China Daily feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: xinhua
+      name: Xinhua
+      url: http://www.xinhuanet.com/english/rss/worldrss.xml
+      domain: xinhuanet.com
+      description: Xinhua feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: chinanews
+      name: ChinaNews
+      url: https://www.chinanews.com.cn/rss/scroll-news.xml
+      domain: chinanews.com.cn
+      description: ChinaNews feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: nyt-chinese
+      name: NYT Chinese
+      url: https://cn.nytimes.com/rss/
+      domain: cn.nytimes.com
+      description: NYT Chinese feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rchina
+      name: r/China
+      url: https://www.reddit.com/r/China/hot.rss
+      domain: reddit.com
+      description: r/China feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    sports:
+    - id: scmp-sport
+      name: SCMP Sport
+      url: https://www.scmp.com/rss/95/feed
+      domain: scmp.com
+      description: SCMP Sport feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: cgtn-sports
+      name: CGTN Sports
+      url: https://www.cgtn.com/subscribe/rss/section/sports.xml
+      domain: cgtn.com
+      description: CGTN Sports feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: china-daily-sports
+      name: China Daily Sports
+      url: http://www.chinadaily.com.cn/rss/sports_rss.xml
+      domain: chinadaily.com.cn
+      description: China Daily Sports feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    markets:
+    - id: scmp-business
+      name: SCMP Business
+      url: https://www.scmp.com/rss/92/feed
+      domain: scmp.com
+      description: SCMP Business feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: cgtn-business
+      name: CGTN Business
+      url: https://www.cgtn.com/subscribe/rss/section/business.xml
+      domain: cgtn.com
+      description: CGTN Business feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    tech:
+    - id: scmp-tech
+      name: SCMP Tech
+      url: https://www.scmp.com/rss/36/feed
+      domain: scmp.com
+      description: SCMP Tech feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: technode
+      name: TechNode
+      url: https://technode.com/feed/
+      domain: technode.com
+      description: TechNode feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    entertainment:
+    - id: scmp-lifestyle
+      name: SCMP Lifestyle
+      url: https://www.scmp.com/rss/94/feed
+      domain: scmp.com
+      description: SCMP Lifestyle feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: whats-on-weibo
+      name: What's On Weibo
+      url: https://www.whatsonweibo.com/feed/
+      domain: whatsonweibo.com
+      description: What's On Weibo feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: rchineselanguage
+      name: r/ChineseLanguage
+      url: https://www.reddit.com/r/ChineseLanguage/hot.rss
+      domain: reddit.com
+      description: r/ChineseLanguage feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    science:
+    - id: scmp-science
+      name: SCMP Science
+      url: https://www.scmp.com/rss/17/feed
+      domain: scmp.com
+      description: SCMP Science feed
+      contributor: worldstream
+      added_at: '2026-02-03'
+    - id: scmp-health
+      name: SCMP Health
+      url: https://www.scmp.com/rss/71/feed
+      domain: scmp.com
+      description: SCMP Health feed
+      contributor: worldstream
+      added_at: '2026-02-03'
