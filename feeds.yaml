@@ -1981,6 +1981,188 @@ global:
     description: Research methods, statistical issues, and reproducibility
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: dan-wang
+    name: Dan Wang
+    url: https://danwang.co/feed/
+    domain: danwang.co
+    description: Long-form essays on technology, China, economics, and innovation
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: eugene-wei
+    name: Remains of the Day
+    url: https://www.eugenewei.com/blog?format=rss
+    domain: eugenewei.com
+    description: Tech strategy, product analysis, and digital culture by Eugene Wei
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: daniel-lemire
+    name: Daniel Lemire's blog
+    url: https://feeds.feedburner.com/daniel-lemire/atom
+    domain: feeds.feedburner.com
+    description: Computer science, algorithms, performance optimization, and software engineering
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: robin-sloan
+    name: Robin Sloan
+    url: https://www.robinsloan.com/feed.xml
+    domain: robinsloan.com
+    description: Writing, technology culture, and creative experiments by author Robin Sloan
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: charlie-stross
+    name: Charlie's Diary
+    url: http://www.antipope.org/charlie/blog-static/atom.xml
+    domain: antipope.org
+    description: Science fiction author Charles Stross on technology, politics, and culture
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bldgblog
+    name: BLDGBLOG
+    url: https://www.bldgblog.com/feed/
+    domain: bldgblog.com
+    description: Architecture, urbanism, landscape, and speculative design by Geoff Manaugh
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: qntm
+    name: Things Of Interest
+    url: https://qntm.org/rss.php
+    domain: qntm.org
+    description: Science fiction, programming, and speculative tech writing by Sam Hughes (qntm)
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: if50
+    name: 50 Years of Text Games
+    url: https://if50.substack.com/feed/
+    domain: if50.substack.com
+    description: History and analysis of interactive fiction and text-based games
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: technics-history
+    name: Technics History
+    url: https://technicshistory.com/feed/
+    domain: technicshistory.com
+    description: History of technology, engineering, and industrial development
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: typeset-in-future
+    name: Typeset In The Future
+    url: https://typesetinthefuture.com/feed/
+    domain: typesetinthefuture.com
+    description: Typography and design in science fiction films
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: nayafia
+    name: Monomythical
+    url: https://nayafia.substack.com/feed
+    domain: nayafia.substack.com
+    description: Open source sustainability, digital infrastructure by Nadia Asparouhova
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: brad-ideas
+    name: Brad Ideas
+    url: https://ideas.4brad.com/index.rdf
+    domain: ideas.4brad.com
+    description: Technology, autonomous vehicles, and digital society by Brad Templeton
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: geoff-greer
+    name: Geoff's Site
+    url: https://geoff.greer.fm/feed.atom
+    domain: geoff.greer.fm
+    description: Software engineering, tools, and programming by Geoff Greer
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: three-toed-sloth
+    name: Three-Toed Sloth
+    url: http://bactra.org/weblog/index.rss
+    domain: bactra.org
+    description: Statistics, machine learning, complex systems by Cosma Shalizi
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: cold-takes
+    name: Cold Takes
+    url: https://www.cold-takes.com/rss/
+    domain: cold-takes.com
+    description: Effective altruism, longtermism, AI safety by Holden Karnofsky
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: dont-worry-vase
+    name: Don't Worry About the Vase
+    url: https://thezvi.wordpress.com/feed/
+    domain: thezvi.wordpress.com
+    description: Rationality, decision theory, game theory by Zvi Mowshowitz
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: stanford-encyclopedia
+    name: Stanford Encyclopedia of Philosophy
+    url: https://plato.stanford.edu/rss/sep.xml
+    domain: plato.stanford.edu
+    description: Academic philosophy reference and research articles
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: qualia-computing
+    name: Qualia Computing
+    url: https://qualiacomputing.com/feed/
+    domain: qualiacomputing.com
+    description: Consciousness, phenomenology, and computational theory of mind
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: meteuphoric
+    name: Meteuphoric
+    url: https://meteuphoric.com/feed/
+    domain: meteuphoric.com
+    description: Rationality, philosophy, and personal development
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bayesian-investor
+    name: Bayesian Investor Blog
+    url: https://bayesianinvestor.com/blog/index.php/feed/
+    domain: bayesianinvestor.com
+    description: Bayesian reasoning, probability, and investment analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: econtalk
+    name: EconTalk
+    url: http://www.econtalk.org/feed/
+    domain: econtalk.org
+    description: Economics podcast and essays by Russ Roberts
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: econlog
+    name: EconLog
+    url: https://www.econlib.org/feed/main
+    domain: econlib.org
+    description: Economic analysis and commentary from multiple contributors
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bet-on-it
+    name: Bet On It
+    url: https://betonit.substack.com/feed
+    domain: betonit.substack.com
+    description: Economics, contrarian views, and social science by Bryan Caplan
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: money-illusion
+    name: TheMoneyIllusion
+    url: https://feeds.feedburner.com/Themoneyillusion
+    domain: feeds.feedburner.com
+    description: Monetary economics and macroeconomic policy by Scott Sumner
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: res-obscura
+    name: Res Obscura
+    url: https://resobscura.substack.com/feed
+    domain: resobscura.substack.com
+    description: History, economics, and cultural analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: best-econtwitter
+    name: Best of Econtwitter
+    url: https://www.bestofecontwitter.com/feed
+    domain: bestofecontwitter.com
+    description: Curated economics discussions and insights from Twitter
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
