@@ -3445,6 +3445,27 @@ regional:
       description: TechNode feed
       contributor: worldstream
       added_at: '2026-02-03'
+    - id: krasia
+      name: KrASIA
+      url: https://kr-asia.com/feed
+      domain: kr-asia.com
+      description: Tech and startup ecosystem news from China, Southeast Asia, and India
+      contributor: worldstream
+      added_at: '2026-02-07'
+    - id: pandaily
+      name: Pandaily
+      url: https://pandaily.com/feed/
+      domain: pandaily.com
+      description: Chinese technology, business, and innovation news
+      contributor: worldstream
+      added_at: '2026-02-07'
+    - id: techcrunch-china
+      name: TechCrunch China
+      url: https://techcrunch.com/tag/china/feed/
+      domain: techcrunch.com
+      description: China startup and technology news from TechCrunch
+      contributor: worldstream
+      added_at: '2026-02-07'
     entertainment:
     - id: scmp-lifestyle
       name: SCMP Lifestyle
