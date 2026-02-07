@@ -557,6 +557,13 @@ global:
     description: New Scientist feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: pnas
+    name: PNAS
+    url: https://www.pnas.org/rss/current.xml
+    domain: www.pnas.org
+    description: Proceedings of the National Academy of Sciences research articles
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: stat-news
     name: STAT News
     url: https://www.statnews.com/feed/
