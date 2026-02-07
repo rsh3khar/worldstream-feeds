@@ -1925,6 +1925,41 @@ global:
     description: Progress studies, history of technology and science
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: xkcd
+    name: xkcd
+    url: https://xkcd.com/atom.xml
+    domain: xkcd.com
+    description: Nerdy webcomic about science, math, technology, and language
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: smbc
+    name: Saturday Morning Breakfast Cereal
+    url: https://www.smbc-comics.com/comic/rss
+    domain: smbc-comics.com
+    description: Science, philosophy, and humor webcomic by Zach Weinersmith
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: terence-tao
+    name: What's new
+    url: https://terrytao.wordpress.com/feed/
+    domain: terrytao.wordpress.com
+    description: Research mathematics and expository papers by Fields medalist Terence Tao
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: andrew-gelman
+    name: Statistical Modeling, Causal Inference, and Social Science
+    url: https://statmodeling.stat.columbia.edu/feed/
+    domain: statmodeling.stat.columbia.edu
+    description: Statistical modeling and research methods by Andrew Gelman
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: data-colada
+    name: Data Colada
+    url: http://datacolada.org/feed
+    domain: datacolada.org
+    description: Research methods, statistical issues, and reproducibility
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
