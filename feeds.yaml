@@ -649,6 +649,118 @@ global:
     description: Expert-level JavaScript, CSS, and web development tutorials and insights
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: blog-cloudflare-com
+    name: Cloudflare Blog
+    url: https://blog.cloudflare.com/rss/
+    domain: blog.cloudflare.com
+    description: Infrastructure Cloud
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: datadoghq-com
+    name: Datadog Blog
+    url: https://www.datadoghq.com/blog/rss.xml
+    domain: datadoghq.com
+    description: Observability
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: airbnb-engineering
+    name: Airbnb Engineering
+    url: https://medium.com/feed/airbnb-engineering
+    domain: medium.com
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: openai-com
+    name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    domain: openai.com
+    description: Ai Ml
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: deepmind-google
+    name: DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    domain: deepmind.google
+    description: Ai Ml
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: huggingface-co
+    name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    domain: huggingface.co
+    description: Ai Ml
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: neon-tech
+    name: Neon Blog
+    url: https://neon.tech/blog/rss.xml
+    domain: neon.tech
+    description: Databases
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: elastic-co
+    name: Elastic Blog
+    url: https://www.elastic.co/blog/feed
+    domain: elastic.co
+    description: Specialized
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: planetscale-com
+    name: PlanetScale Blog
+    url: https://planetscale.com/blog/rss.xml
+    domain: planetscale.com
+    description: Databases
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-jetbrains-com
+    name: JetBrains Blog
+    url: https://blog.jetbrains.com/feed/
+    domain: blog.jetbrains.com
+    description: Developer Tools
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: nodejs-org
+    name: Node.js Blog
+    url: https://nodejs.org/en/feed/blog.xml
+    domain: nodejs.org
+    description: Language Compiler
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: julialang-org
+    name: Julia Blog
+    url: https://julialang.org/feed.xml
+    domain: julialang.org
+    description: Language Compiler
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: stripe-com
+    name: Stripe Engineering
+    url: https://stripe.com/blog/feed.rss
+    domain: stripe.com
+    description: Fintech Payments
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: discord-com
+    name: Discord Blog
+    url: https://discord.com/blog/rss.xml
+    domain: discord.com
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-rust-lang-org
+    name: Rust Blog
+    url: https://blog.rust-lang.org/feed.xml
+    domain: blog.rust-lang.org
+    description: Language Compiler
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: hashicorp-com
+    name: HashiCorp Blog
+    url: https://www.hashicorp.com/blog/feed.xml
+    domain: hashicorp.com
+    description: Developer Tools
+    contributor: worldstream
+    added_at: '2026-02-07'
   science:
   - id: physorg
     name: Phys.org
@@ -3075,6 +3187,104 @@ global:
     url: https://jonathanbossenger.com/feed/
     domain: jonathanbossenger.com
     description: jonathanbossenger.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: percona-com
+    name: Percona Database
+    url: https://www.percona.com/blog/feed/
+    domain: percona.com
+    description: Databases
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: tailscale-com
+    name: Tailscale Blog
+    url: https://tailscale.com/blog/index.xml
+    domain: tailscale.com
+    description: Specialized
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: tech-instacart-com
+    name: Instacart Tech
+    url: https://tech.instacart.com/feed
+    domain: tech.instacart.com
+    description: Other Quality
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: dropbox-tech
+    name: Dropbox Tech
+    url: https://dropbox.tech/feed
+    domain: dropbox.tech
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: github-blog
+    name: GitHub Engineering
+    url: https://github.blog/engineering/feed/
+    domain: github.blog
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-janestreet-com
+    name: Jane Street Tech Blog
+    url: https://blog.janestreet.com/feed.xml
+    domain: blog.janestreet.com
+    description: Specialized
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: etsy-com
+    name: Etsy Engineering
+    url: https://www.etsy.com/codeascraft/rss
+    domain: etsy.com
+    description: Other Quality
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: auth0-com
+    name: Auth0 Blog
+    url: https://auth0.com/blog/rss.xml
+    domain: auth0.com
+    description: Developer Tools
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: pinterest-engineering
+    name: Pinterest Engineering
+    url: https://medium.com/feed/@Pinterest_Engineering
+    domain: medium.com
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: engineeringblog-yelp-com
+    name: Yelp Engineering
+    url: https://engineeringblog.yelp.com/feed.xml
+    domain: engineeringblog.yelp.com
+    description: Other Quality
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: engineering-atspotify-com
+    name: Spotify Engineering
+    url: https://engineering.atspotify.com/feed/
+    domain: engineering.atspotify.com
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: fly-io
+    name: Fly.io Blog
+    url: https://fly.io/blog/feed.xml
+    domain: fly.io
+    description: Infrastructure Cloud
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: slack-engineering
+    name: Slack Engineering
+    url: https://slack.engineering/feed/
+    domain: slack.engineering
+    description: Major Tech
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: deliveroo-engineering
+    name: Deliveroo Engineering
+    url: https://deliveroo.engineering/feed.xml
+    domain: deliveroo.engineering
+    description: Other Quality
     contributor: worldstream
     added_at: '2026-02-07'
 regional:
