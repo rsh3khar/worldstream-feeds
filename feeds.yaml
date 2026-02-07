@@ -1393,6 +1393,41 @@ global:
     description: gwern.net blog
     contributor: hn-popular
     added_at: '2026-02-03'
+  - id: every-chain-of-thought
+    name: Chain of Thought (Every)
+    url: https://every.to/chain-of-thought/feed
+    domain: every.to
+    description: AI, coding agents, future of work by Dan Shipper
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: every-context-window
+    name: Context Window (Every)
+    url: https://every.to/context-window/feed
+    domain: every.to
+    description: AI news, product updates, coding trends
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: every-vibe-check
+    name: Vibe Check (Every)
+    url: https://every.to/vibe-check/feed
+    domain: every.to
+    description: AI model reviews, coding tool comparisons
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: every-source-code
+    name: Source Code (Every)
+    url: https://every.to/source-code/feed
+    domain: every.to
+    description: Coding with AI, engineering practices
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: every-napkin-math
+    name: Napkin Math (Every)
+    url: https://every.to/napkin-math/feed
+    domain: every.to
+    description: Tech business analysis, startups
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: berthubeu
     name: berthub.eu
     url: https://berthub.eu/articles/index.xml
