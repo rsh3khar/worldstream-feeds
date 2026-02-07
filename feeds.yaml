@@ -2282,6 +2282,125 @@ global:
     description: Governance, society, and civilization-level thinking
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: codahale
+    name: codahale.com
+    url: https://feeds.feedburner.com/codahale
+    domain: feeds.feedburner.com
+    description: Distributed systems and infrastructure engineering by Coda Hale
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: nearlyfreespeech
+    name: NearlyFreeSpeech.NET Blog
+    url: https://blog.nearlyfreespeech.net/feed/
+    domain: blog.nearlyfreespeech.net
+    description: Web hosting, internet freedom, and technical operations
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: rifters
+    name: No Moods, Ads or Cutesy Icons
+    url: https://www.rifters.com/crawl/?feed=rss2
+    domain: rifters.com
+    description: Science fiction author Peter Watts on biology, technology, and dystopia
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: andart
+    name: Andart
+    url: http://aleph.se/andart2/feed/
+    domain: aleph.se
+    description: Transhumanism, philosophy, and future scenarios by Anders Sandberg
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: quodlibeta
+    name: Quodlibeta
+    url: https://feeds.feedburner.com/Quodlibeta
+    domain: feeds.feedburner.com
+    description: History of science, religion, and skepticism
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: richard-carrier
+    name: Richard Carrier Blogs
+    url: https://www.richardcarrier.info/feed
+    domain: richardcarrier.info
+    description: Ancient history, philosophy, and critical thinking
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: slatestarscratchpad
+    name: Slate Star Scratchpad
+    url: https://slatestarscratchpad.tumblr.com/rss
+    domain: slatestarscratchpad.tumblr.com
+    description: Scott Alexander's secondary blog and notes
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: trivium-neukirchen
+    name: Trivium
+    url: http://leahneukirchen.org/trivium/index.atom
+    domain: leahneukirchen.org
+    description: Programming, Unix, and technical writing by Leah Neukirchen
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: entitled-opinion
+    name: Entitled to an Opinion
+    url: https://entitledtoanopinion.wordpress.com/feed/
+    domain: entitledtoanopinion.wordpress.com
+    description: Australian politics, media, and culture commentary
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: abandoned-footnotes
+    name: Abandoned Footnotes
+    url: https://feeds.feedburner.com/AbandonedFootnotes
+    domain: feeds.feedburner.com
+    description: History, politics, and long-form analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: new-yorker
+    name: The New Yorker
+    url: https://www.newyorker.com/feed/everything
+    domain: newyorker.com
+    description: Literature, culture, politics, and journalism
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: geeking-greg
+    name: Geeking with Greg
+    url: https://feeds.feedburner.com/GeekingWithGreg
+    domain: feeds.feedburner.com
+    description: Innovation, search, and technology insights by Greg Linden
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: abstract-heresies
+    name: Abstract Heresies
+    url: http://funcall.blogspot.com/feeds/posts/default
+    domain: funcall.blogspot.com
+    description: Programming language theory and functional programming
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: ascii-textfiles
+    name: ASCII by Jason Scott
+    url: http://ascii.textfiles.com/feed/atom
+    domain: ascii.textfiles.com
+    description: Digital history, archiving, and technology culture
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: lesswrong-reddit
+    name: LessWrong Reddit submissions
+    url: https://www.reddit.com/domain/lesswrong.com/.rss
+    domain: reddit.com
+    description: LessWrong content discussions on Reddit
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: nyt-magazine
+    name: NYT Magazine
+    url: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/magazine/rss.xml
+    domain: nytimes.com
+    description: In-depth features, essays, and investigative journalism
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: infoproc
+    name: Information Processing
+    url: https://infoproc.blogspot.com/feeds/posts/default
+    domain: infoproc.blogspot.com
+    description: Genomics, physics, and quantitative social science by Steve Hsu
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
