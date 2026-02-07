@@ -1015,6 +1015,69 @@ global:
     description: antirez.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
+  - id: alexirpancom
+    name: Sorta Insightful
+    url: https://www.alexirpan.com/feed.xml
+    domain: alexirpan.com
+    description: Machine learning research and deep analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: apenwarrca
+    name: apenwarr
+    url: https://apenwarr.ca/log/rss.php
+    domain: apenwarr.ca
+    description: Systems programming and software design essays
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bairberkeleyedu
+    name: The Berkeley Artificial Intelligence Research Blog
+    url: https://bair.berkeley.edu/blog/feed.xml
+    domain: bair.berkeley.edu
+    description: Berkeley AI research blog
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blogacolyerorg
+    name: the morning paper
+    url: https://blog.acolyer.org/feed/
+    domain: blog.acolyer.org
+    description: Daily CS paper summaries and analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blogmlcmuedu
+    name: Machine Learning Blog | ML@CMU
+    url: https://blog.ml.cmu.edu/feed
+    domain: blog.ml.cmu.edu
+    description: Carnegie Mellon University machine learning research
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blogregehrrorg
+    name: Embedded in Academia
+    url: https://blog.regehr.org/feed
+    domain: blog.regehr.org
+    description: Compilers, LLVM, and software verification
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: danluu
+    name: Dan Luu
+    url: https://danluu.com/atom.xml
+    domain: danluu.com
+    description: Systems programming and performance analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: huyenchipcom
+    name: Chip Huyen
+    url: https://huyenchip.com/feed
+    domain: huyenchip.com
+    description: MLOps and AI systems design
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: karpathygithubio
+    name: Andrej Karpathy blog
+    url: https://karpathy.github.io/feed.xml
+    domain: karpathy.github.io
+    description: Deep learning and neural networks
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: idiallocom
     name: idiallo.com
     url: https://idiallo.com/feed.rss
@@ -1029,6 +1092,13 @@ global:
     description: maurycyz.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
+  - id: newsletterruderio
+    name: NLP News
+    url: https://newsletter.ruder.io/feed
+    domain: newsletter.ruder.io
+    description: NLP and machine learning research updates
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: pluralisticnet
     name: pluralistic.net
     url: https://pluralistic.net/feed/
@@ -1043,6 +1113,13 @@ global:
     description: shkspr.mobi blog
     contributor: hn-popular
     added_at: '2026-02-03'
+  - id: timdettmerscom
+    name: Tim Dettmers
+    url: https://timdettmers.com/feed/
+    domain: timdettmers.com
+    description: Deep learning hardware and optimization
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: lcamtufsubstackcom
     name: lcamtuf.substack.com
     url: https://lcamtuf.substack.com/feed
