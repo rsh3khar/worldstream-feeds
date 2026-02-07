@@ -2629,6 +2629,454 @@ global:
     description: Frontend, performance, web standards
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: peterthaleikis-com
+    name: Peter Thaleikis
+    url: https://peterthaleikis.com/feed.xml
+    domain: peterthaleikis.com
+    description: Peter Thaleikis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: allinthehead-com
+    name: All In the Head - Ponderings and Code By Drew McLellan
+    url: http://allinthehead.com/rss.xml
+    domain: allinthehead.com
+    description: All In the Head - Ponderings and Code By Drew McLellan
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: adriancourreges-com
+    name: Adrian Courrages
+    url: http://www.adriancourreges.com/atom.xml
+    domain: adriancourreges.com
+    description: Adrian Courrages
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: redblobgames-com
+    name: Amit Patel
+    url: https://www.redblobgames.com/feed
+    domain: redblobgames.com
+    description: Amit Patel
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: box2d-org
+    name: Erin Catto
+    url: https://box2d.org/index.xml
+    domain: box2d.org
+    description: Erin Catto
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: etodd-io
+    name: Evan Todd
+    url: http://etodd.io/feed/
+    domain: etodd.io
+    description: Evan Todd
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: eev-ee
+    name: Eevee
+    url: https://eev.ee/atom.xml
+    domain: eev.ee
+    description: Eevee
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: ncase-me
+    name: Nicky Case
+    url: https://ncase.me/feed.xml
+    domain: ncase.me
+    description: Nicky Case
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: engineering-riotgames-com
+    name: Riot Games Engineering
+    url: https://engineering.riotgames.com/rss.xml
+    domain: engineering.riotgames.com
+    description: Riot Games Engineering
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: 50linesofco-de
+    name: 50linesofco.de
+    url: http://50linesofco.de/feed/
+    domain: 50linesofco.de
+    description: 50linesofco.de
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: andrewtarry-com
+    name: Andrew Tarry
+    url: https://andrewtarry.com/feed.xml
+    domain: andrewtarry.com
+    description: Andrew Tarry
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: ar-al
+    name: ar.al
+    url: https://ar.al/rss.xml
+    domain: ar.al
+    description: ar.al
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: awik-io
+    name: awik.io
+    url: https://awik.io/feed/
+    domain: awik.io
+    description: awik.io
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-frankmtaylor-com
+    name: blog.frankmtaylor.com
+    url: https://blog.frankmtaylor.com/feed/
+    domain: blog.frankmtaylor.com
+    description: blog.frankmtaylor.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: brucelawson-co-uk
+    name: brucelawson.co.uk
+    url: https://www.brucelawson.co.uk/feed/
+    domain: brucelawson.co.uk
+    description: brucelawson.co.uk
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: davidosomething-com
+    name: davidosomething.com
+    url: https://davidosomething.com/rss.xml
+    domain: davidosomething.com
+    description: davidosomething.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: deliciousreverie-co-uk
+    name: deliciousreverie.co.uk
+    url: https://deliciousreverie.co.uk/rss.xml
+    domain: deliciousreverie.co.uk
+    description: deliciousreverie.co.uk
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: meiert-com
+    name: Jens Oliver Meiert
+    url: https://meiert.com/feed.xml
+    domain: meiert.com
+    description: Jens Oliver Meiert
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: jordanm-co-uk
+    name: jordanm.co.uk
+    url: https://jordanm.co.uk/feed.xml
+    domain: jordanm.co.uk
+    description: jordanm.co.uk
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: logit-io
+    name: Logit.io
+    url: https://logit.io/blog/rss.xml
+    domain: logit.io
+    description: Logit.io
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: marcus-io
+    name: marcus.io
+    url: https://marcus.io/feed/
+    domain: marcus.io
+    description: marcus.io
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: markodenic-com
+    name: Marko Denic
+    url: https://markodenic.com/feed/
+    domain: markodenic.com
+    description: Marko Denic
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: mazepress-com
+    name: Mazepress
+    url: https://mazepress.com/feed/
+    domain: mazepress.com
+    description: Mazepress
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: mearso-co-uk
+    name: mearso.co.uk
+    url: http://www.mearso.co.uk/feed.xml
+    domain: mearso.co.uk
+    description: mearso.co.uk
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: nicolas-hoizey-com
+    name: nicolas-hoizey.com
+    url: https://nicolas-hoizey.com/atom.xml
+    domain: nicolas-hoizey.com
+    description: nicolas-hoizey.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: philna-sh
+    name: philna.sh
+    url: https://philna.sh/feed.xml
+    domain: philna.sh
+    description: philna.sh
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: qubyte-codes
+    name: qubyte.codes
+    url: https://qubyte.codes/atom.xml
+    domain: qubyte.codes
+    description: qubyte.codes
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: rosswintle-uk
+    name: Ross Wintle
+    url: https://rosswintle.uk/feed/
+    domain: rosswintle.uk
+    description: Ross Wintle
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: scottohara-me
+    name: scottohara.me
+    url: https://www.scottohara.me/feed.xml
+    domain: scottohara.me
+    description: scottohara.me
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: sirarsalih-com
+    name: sirarsalih.com
+    url: https://sirarsalih.com/atom.xml
+    domain: sirarsalih.com
+    description: sirarsalih.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: suze-dev
+    name: Suze Shardlow
+    url: https://suze.dev/feed.xml
+    domain: suze.dev
+    description: Suze Shardlow
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: themaninblue-com
+    name: themaninblue.com
+    url: https://themaninblue.com/feed/
+    domain: themaninblue.com
+    description: themaninblue.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: thomasdeneuville-com
+    name: thomasdeneuville.com
+    url: https://thomasdeneuville.com/feed/
+    domain: thomasdeneuville.com
+    description: thomasdeneuville.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: til-hashrocket-com
+    name: til.hashrocket.com
+    url: https://til.hashrocket.com/rss/
+    domain: til.hashrocket.com
+    description: til.hashrocket.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: timnash-co-uk
+    name: Tim Nash
+    url: https://timnash.co.uk/feed/
+    domain: timnash.co.uk
+    description: Tim Nash
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: iamtk-co
+    name: TK
+    url: https://iamtk.co/rss.xml
+    domain: iamtk.co
+    description: TK
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-cleancoder-com
+    name: Uncle Bob
+    url: http://blog.cleancoder.com/atom.xml
+    domain: blog.cleancoder.com
+    description: Uncle Bob
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: uxcellence-com
+    name: uxcellence.com
+    url: https://uxcellence.com/rss/
+    domain: uxcellence.com
+    description: uxcellence.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: valhead-com
+    name: valhead.com
+    url: https://valhead.com/rss.xml
+    domain: valhead.com
+    description: valhead.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bp-io
+    name: Ben Porter
+    url: https://bp.io/index.xml
+    domain: bp.io
+    description: Ben Porter
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: jennsand-com
+    name: Jenn Sandercock
+    url: https://jennsand.com/feed/
+    domain: jennsand.com
+    description: Jenn Sandercock
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: alanzucconi-com
+    name: Alan Zucconi
+    url: https://www.alanzucconi.com/feed/
+    domain: alanzucconi.com
+    description: Alan Zucconi
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: alexanderameye-github-io
+    name: Alexander Ameye
+    url: https://alexanderameye.github.io/notes/feed.xml
+    domain: alexanderameye.github.io
+    description: Alexander Ameye
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: fasterthanli-me
+    name: Amos
+    url: https://fasterthanli.me/index.xml
+    domain: fasterthanli.me
+    description: Amos
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: benui-ca
+    name: 'ben :seedling: ui'
+    url: https://benui.ca/feed.xml
+    domain: benui.ca
+    description: 'ben :seedling: ui'
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: journal-stuffwithstuff-com
+    name: Bob Nystrom
+    url: http://journal.stuffwithstuff.com/rss.xml
+    domain: journal.stuffwithstuff.com
+    description: Bob Nystrom
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: randomascii-wordpress-com
+    name: Bruce Dawson
+    url: https://randomascii.wordpress.com/rss.xml
+    domain: randomascii.wordpress.com
+    description: Bruce Dawson
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: mas-bandwidth-com
+    name: Más Bandwidth
+    url: https://mas-bandwidth.com/feed/
+    domain: mas-bandwidth.com
+    description: Más Bandwidth
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: internalpointers-com
+    name: Internal Pointers
+    url: https://www.internalpointers.com/rss.xml
+    domain: internalpointers.com
+    description: Internal Pointers
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: joewintergreen-com
+    name: Joe Wintergreen Internet Zone
+    url: https://www.joewintergreen.com/feed/
+    domain: joewintergreen.com
+    description: Joe Wintergreen Internet Zone
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: lizengland-com
+    name: Liz England
+    url: https://lizengland.com/blog/feed/
+    domain: lizengland.com
+    description: Liz England
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: piratportfolio-com
+    name: Michal "Pirat" Kubas
+    url: https://piratportfolio.com/feed/
+    domain: piratportfolio.com
+    description: Michal "Pirat" Kubas
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: noelberry-ca
+    name: Noel Berry
+    url: http://noelberry.ca/rss.xml
+    domain: noelberry.ca
+    description: Noel Berry
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: simonschreibt-de
+    name: Blog
+    url: https://www.simonschreibt.de/feed/
+    domain: simonschreibt.de
+    description: Blog
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: tomlooman-com
+    name: Tom Looman
+    url: https://www.tomlooman.com/feed.xml
+    domain: tomlooman.com
+    description: Tom Looman
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-camposanto-com
+    name: Campo Santo
+    url: http://blog.camposanto.com/rss.xml
+    domain: blog.camposanto.com
+    description: Campo Santo
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-redbluegames-com
+    name: Red Blue Games
+    url: https://blog.redbluegames.com/rss.xml
+    domain: blog.redbluegames.com
+    description: Red Blue Games
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: spotify-design
+    name: Spotify Design
+    url: https://spotify.design/rss.xml
+    domain: spotify.design
+    description: Spotify Design
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: gamedeveloper-com
+    name: Game Developer
+    url: https://www.gamedeveloper.com/blogs/rss.xml
+    domain: gamedeveloper.com
+    description: Game Developer
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: iridakos-com
+    name: Lazarus Lazaridis
+    url: https://iridakos.com/feed.xml
+    domain: iridakos.com
+    description: Lazarus Lazaridis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: l1cafe-blog
+    name: León Castillejos
+    url: https://L1Cafe.blog/atom.xml
+    domain: l1cafe.blog
+    description: León Castillejos
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: boffosocko-com
+    name: boffosocko.com
+    url: https://boffosocko.com/rss.xml
+    domain: boffosocko.com
+    description: boffosocko.com
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bradfrost-com
+    name: Brad Frost
+    url: http://bradfrost.com/feed/
+    domain: bradfrost.com
+    description: Brad Frost
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: jonathanbossenger-com
+    name: jonathanbossenger.com
+    url: https://jonathanbossenger.com/feed/
+    domain: jonathanbossenger.com
+    description: jonathanbossenger.com
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
