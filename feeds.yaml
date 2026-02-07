@@ -514,6 +514,141 @@ global:
     description: Quality journalism about Europe's startup and VC ecosystem (FT-backed)
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: bellingcat
+    name: Bellingcat
+    url: https://www.bellingcat.com/feed/
+    domain: bellingcat.com
+    description: Open source investigative journalism collective
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bairberkeleyedu
+    name: The Berkeley Artificial Intelligence Research Blog
+    url: https://bair.berkeley.edu/blog/feed.xml
+    domain: bair.berkeley.edu
+    description: Berkeley AI research blog
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blogacolyerorg
+    name: the morning paper
+    url: https://blog.acolyer.org/feed/
+    domain: blog.acolyer.org
+    description: Daily CS paper summaries and analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blogmlcmuedu
+    name: Machine Learning Blog | ML@CMU
+    url: https://blog.ml.cmu.edu/feed
+    domain: blog.ml.cmu.edu
+    description: Carnegie Mellon University machine learning research
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: newsletterruderio
+    name: NLP News
+    url: https://newsletter.ruder.io/feed
+    domain: newsletter.ruder.io
+    description: NLP and machine learning research updates
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: devblogsmicrosoftcomoldnewthing
+    name: devblogs.microsoft.com/oldnewthing
+    url: https://devblogs.microsoft.com/oldnewthing/feed
+    domain: devblogs.microsoft.com
+    description: devblogs.microsoft.com/oldnewthing blog
+    contributor: hn-popular
+    added_at: '2026-02-03'
+  - id: itch-io-blog
+    name: itch.io Blog
+    url: https://itch.io/blog.rss
+    domain: itch.io
+    description: Updates and editorials from indie game platform itch.io
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: ux-collective
+    name: UX Collective
+    url: https://uxdesign.cc/feed
+    domain: uxdesign.cc
+    description: UX design stories and insights from Medium
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: paris-review
+    name: The Paris Review
+    url: https://www.theparisreview.org/blog/feed/
+    domain: theparisreview.org
+    description: Literary magazine featuring fiction, poetry, and essays
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: works-in-progress
+    name: Works in Progress
+    url: https://www.worksinprogress.news/feed
+    domain: worksinprogress.news
+    description: Progress studies, history of technology and science
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bldgblog
+    name: BLDGBLOG
+    url: https://www.bldgblog.com/feed/
+    domain: bldgblog.com
+    description: Architecture, urbanism, landscape, and speculative design by Geoff
+      Manaugh
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: google-research
+    name: Google Research Blog
+    url: https://feeds.feedburner.com/blogspot/gJZg
+    domain: feeds.feedburner.com
+    description: Latest research and innovations from Google AI and Research
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: alistapart
+    name: A List Apart
+    url: https://alistapart.com/main/feed/
+    domain: alistapart.com
+    description: Web design, development, and content strategy for people who make
+      websites
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: css-tricks
+    name: CSS-Tricks
+    url: https://css-tricks.com/feed/
+    domain: css-tricks.com
+    description: Daily articles about CSS, HTML, JavaScript, and web design
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: mozilla-hacks
+    name: Mozilla Hacks
+    url: https://hacks.mozilla.org/feed/
+    domain: hacks.mozilla.org
+    description: Mozilla's blog for web developers and platform engineers
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: smashing-magazine
+    name: Smashing Magazine
+    url: https://www.smashingmagazine.com/feed
+    domain: www.smashingmagazine.com
+    description: Web design, UX, accessibility, performance, and modern web development
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: codrops
+    name: Codrops
+    url: https://tympanus.net/codrops/feed/
+    domain: tympanus.net
+    description: Creative front-end resources and inspiration for web professionals
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: devto
+    name: DEV Community
+    url: https://dev.to/feed
+    domain: dev.to
+    description: Community of software developers sharing knowledge and experiences
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: frontend-masters
+    name: Frontend Masters
+    url: https://frontendmasters.com/blog/feed/
+    domain: frontendmasters.com
+    description: Expert-level JavaScript, CSS, and web development tutorials and insights
+    contributor: worldstream
+    added_at: '2026-02-07'
   science:
   - id: physorg
     name: Phys.org
@@ -1060,7 +1195,8 @@ global:
     name: Fortune
     url: https://fortune.com/feed/
     domain: fortune.com
-    description: Business news, analysis, and leadership insights from Fortune 500 companies
+    description: Business news, analysis, and leadership insights from Fortune 500
+      companies
     contributor: worldstream
     added_at: '2026-02-07'
   - id: business-insider
@@ -1071,13 +1207,6 @@ global:
     contributor: worldstream
     added_at: '2026-02-07'
   blogs:
-  - id: bellingcat
-    name: Bellingcat
-    url: https://www.bellingcat.com/feed/
-    domain: bellingcat.com
-    description: Open source investigative journalism collective
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: bits-about-money
     name: Bits About Money
     url: https://www.bitsaboutmoney.com/archive/rss/
@@ -1155,27 +1284,6 @@ global:
     description: Systems programming and software design essays
     contributor: worldstream
     added_at: '2026-02-07'
-  - id: bairberkeleyedu
-    name: The Berkeley Artificial Intelligence Research Blog
-    url: https://bair.berkeley.edu/blog/feed.xml
-    domain: bair.berkeley.edu
-    description: Berkeley AI research blog
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: blogacolyerorg
-    name: the morning paper
-    url: https://blog.acolyer.org/feed/
-    domain: blog.acolyer.org
-    description: Daily CS paper summaries and analysis
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: blogmlcmuedu
-    name: Machine Learning Blog | ML@CMU
-    url: https://blog.ml.cmu.edu/feed
-    domain: blog.ml.cmu.edu
-    description: Carnegie Mellon University machine learning research
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: blogregehrrorg
     name: Embedded in Academia
     url: https://blog.regehr.org/feed
@@ -1218,13 +1326,6 @@ global:
     description: maurycyz.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
-  - id: newsletterruderio
-    name: NLP News
-    url: https://newsletter.ruder.io/feed
-    domain: newsletter.ruder.io
-    description: NLP and machine learning research updates
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: pluralisticnet
     name: pluralistic.net
     url: https://pluralistic.net/feed/
@@ -1236,7 +1337,8 @@ global:
     name: Schneier on Security
     url: https://www.schneier.com/blog/atom.xml
     domain: schneier.com
-    description: Security expert Bruce Schneier on policy, cryptography, and security news
+    description: Security expert Bruce Schneier on policy, cryptography, and security
+      news
     contributor: worldstream
     added_at: '2026-02-07'
   - id: shksprmobi
@@ -1286,13 +1388,6 @@ global:
     url: https://xeiaso.net/blog.rss
     domain: xeiaso.net
     description: xeiaso.net blog
-    contributor: hn-popular
-    added_at: '2026-02-03'
-  - id: devblogsmicrosoftcomoldnewthing
-    name: devblogs.microsoft.com/oldnewthing
-    url: https://devblogs.microsoft.com/oldnewthing/feed
-    domain: devblogs.microsoft.com
-    description: devblogs.microsoft.com/oldnewthing blog
     contributor: hn-popular
     added_at: '2026-02-03'
   - id: rightocom
@@ -1904,20 +1999,6 @@ global:
     description: Derek Lowe on drug discovery and pharmaceutical industry
     contributor: worldstream
     added_at: '2026-02-07'
-  - id: itch-io-blog
-    name: itch.io Blog
-    url: https://itch.io/blog.rss
-    domain: itch.io
-    description: Updates and editorials from indie game platform itch.io
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: ux-collective
-    name: UX Collective
-    url: https://uxdesign.cc/feed
-    domain: uxdesign.cc
-    description: UX design stories and insights from Medium
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: flowingdata
     name: FlowingData
     url: https://flowingdata.com/feed
@@ -1960,25 +2041,11 @@ global:
     description: Curated longform stories and journalism
     contributor: worldstream
     added_at: '2026-02-07'
-  - id: paris-review
-    name: The Paris Review
-    url: https://www.theparisreview.org/blog/feed/
-    domain: theparisreview.org
-    description: Literary magazine featuring fiction, poetry, and essays
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: scholars-stage
     name: The Scholar's Stage
     url: https://scholars-stage.org/feed/
     domain: scholars-stage.org
     description: Essays on history, culture, and strategy by T. Greer
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: works-in-progress
-    name: Works in Progress
-    url: https://www.worksinprogress.news/feed
-    domain: worksinprogress.news
-    description: Progress studies, history of technology and science
     contributor: worldstream
     added_at: '2026-02-07'
   - id: xkcd
@@ -1999,7 +2066,8 @@ global:
     name: What's new
     url: https://terrytao.wordpress.com/feed/
     domain: terrytao.wordpress.com
-    description: Research mathematics and expository papers by Fields medalist Terence Tao
+    description: Research mathematics and expository papers by Fields medalist Terence
+      Tao
     contributor: worldstream
     added_at: '2026-02-07'
   - id: andrew-gelman
@@ -2034,35 +2102,32 @@ global:
     name: Daniel Lemire's blog
     url: https://feeds.feedburner.com/daniel-lemire/atom
     domain: feeds.feedburner.com
-    description: Computer science, algorithms, performance optimization, and software engineering
+    description: Computer science, algorithms, performance optimization, and software
+      engineering
     contributor: worldstream
     added_at: '2026-02-07'
   - id: robin-sloan
     name: Robin Sloan
     url: https://www.robinsloan.com/feed.xml
     domain: robinsloan.com
-    description: Writing, technology culture, and creative experiments by author Robin Sloan
+    description: Writing, technology culture, and creative experiments by author Robin
+      Sloan
     contributor: worldstream
     added_at: '2026-02-07'
   - id: charlie-stross
     name: Charlie's Diary
     url: http://www.antipope.org/charlie/blog-static/atom.xml
     domain: antipope.org
-    description: Science fiction author Charles Stross on technology, politics, and culture
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: bldgblog
-    name: BLDGBLOG
-    url: https://www.bldgblog.com/feed/
-    domain: bldgblog.com
-    description: Architecture, urbanism, landscape, and speculative design by Geoff Manaugh
+    description: Science fiction author Charles Stross on technology, politics, and
+      culture
     contributor: worldstream
     added_at: '2026-02-07'
   - id: qntm
     name: Things Of Interest
     url: https://qntm.org/rss.php
     domain: qntm.org
-    description: Science fiction, programming, and speculative tech writing by Sam Hughes (qntm)
+    description: Science fiction, programming, and speculative tech writing by Sam
+      Hughes (qntm)
     contributor: worldstream
     added_at: '2026-02-07'
   - id: if50
@@ -2226,13 +2291,6 @@ global:
     description: Economics of innovation and technological progress
     contributor: worldstream
     added_at: '2026-02-07'
-  - id: google-research
-    name: Google Research Blog
-    url: https://feeds.feedburner.com/blogspot/gJZg
-    domain: feeds.feedburner.com
-    description: Latest research and innovations from Google AI and Research
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: miri-blog
     name: Machine Intelligence Research Institute
     url: https://feeds.feedburner.com/miriblog
@@ -2279,7 +2337,8 @@ global:
     name: The Public Domain Review
     url: https://publicdomainreview.org/feed/
     domain: publicdomainreview.org
-    description: Curious and unusual works from the history of art, literature, and ideas
+    description: Curious and unusual works from the history of art, literature, and
+      ideas
     contributor: worldstream
     added_at: '2026-02-07'
   - id: matt-lakeman
@@ -2436,60 +2495,11 @@ global:
     description: Genomics, physics, and quantitative social science by Steve Hsu
     contributor: worldstream
     added_at: '2026-02-07'
-  - id: alistapart
-    name: A List Apart
-    url: https://alistapart.com/main/feed/
-    domain: alistapart.com
-    description: Web design, development, and content strategy for people who make websites
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: css-tricks
-    name: CSS-Tricks
-    url: https://css-tricks.com/feed/
-    domain: css-tricks.com
-    description: Daily articles about CSS, HTML, JavaScript, and web design
-    contributor: worldstream
-    added_at: '2026-02-07'
   - id: davidwalsh
     name: David Walsh Blog
     url: https://davidwalsh.name/feed
     domain: davidwalsh.name
     description: JavaScript, CSS, HTML tutorials and insights by Mozilla engineer
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: mozilla-hacks
-    name: Mozilla Hacks
-    url: https://hacks.mozilla.org/feed/
-    domain: hacks.mozilla.org
-    description: Mozilla's blog for web developers and platform engineers
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: smashing-magazine
-    name: Smashing Magazine
-    url: https://www.smashingmagazine.com/feed
-    domain: www.smashingmagazine.com
-    description: Web design, UX, accessibility, performance, and modern web development
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: codrops
-    name: Codrops
-    url: https://tympanus.net/codrops/feed/
-    domain: tympanus.net
-    description: Creative front-end resources and inspiration for web professionals
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: devto
-    name: DEV Community
-    url: https://dev.to/feed
-    domain: dev.to
-    description: Community of software developers sharing knowledge and experiences
-    contributor: worldstream
-    added_at: '2026-02-07'
-  - id: frontend-masters
-    name: Frontend Masters
-    url: https://frontendmasters.com/blog/feed/
-    domain: frontendmasters.com
-    description: Expert-level JavaScript, CSS, and web development tutorials and insights
     contributor: worldstream
     added_at: '2026-02-07'
   - id: addyosmani
@@ -2524,7 +2534,8 @@ global:
     name: CSS Wizardry
     url: https://csswizardry.com/feed
     domain: csswizardry.com
-    description: Web performance, CSS architecture, and front-end consultancy by Harry Roberts
+    description: Web performance, CSS architecture, and front-end consultancy by Harry
+      Roberts
     contributor: worldstream
     added_at: '2026-02-07'
   - id: rachelandrew
@@ -3449,7 +3460,8 @@ regional:
       name: KrASIA
       url: https://kr-asia.com/feed
       domain: kr-asia.com
-      description: Tech and startup ecosystem news from China, Southeast Asia, and India
+      description: Tech and startup ecosystem news from China, Southeast Asia, and
+        India
       contributor: worldstream
       added_at: '2026-02-07'
     - id: pandaily
