@@ -1795,7 +1795,7 @@ global:
   - id: marginal-revolution
     name: Marginal Revolution
     url: https://feeds.feedblitz.com/marginalrevolution&x=1
-    domain: marginalrevolution.com
+    domain: feeds.feedblitz.com
     description: Tyler Cowen & Alex Tabarrok on economics
     contributor: worldstream
     added_at: '2026-02-07'
