@@ -536,6 +536,27 @@ global:
     description: STAT News feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: nasa-news
+    name: NASA News
+    url: https://www.nasa.gov/rss/dyn/breaking_news.rss
+    domain: nasa.gov
+    description: Official NASA breaking news and announcements
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: space-com
+    name: Space.com
+    url: https://www.space.com/feeds/all
+    domain: space.com
+    description: Space exploration news, astronomy, and science
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: yale-climate-connections
+    name: Yale Climate Connections
+    url: https://yaleclimateconnections.org/feed/
+    domain: yaleclimateconnections.org
+    description: Climate science reporting and analysis from Yale
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: ars-science
     name: Ars Science
     url: https://feeds.arstechnica.com/arstechnica/science
@@ -1818,6 +1839,20 @@ global:
     url: https://www.overcomingbias.com/feed
     domain: overcomingbias.com
     description: Robin Hanson on cognitive biases, prediction
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: quanta-magazine
+    name: Quanta Magazine
+    url: https://www.quantamagazine.org/feed/
+    domain: quantamagazine.org
+    description: Exceptional long-form science writing on math, physics, biology
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: in-the-pipeline
+    name: In the Pipeline
+    url: https://www.science.org/blogs/pipeline/feed
+    domain: science.org
+    description: Derek Lowe on drug discovery and pharmaceutical industry
     contributor: worldstream
     added_at: '2026-02-07'
 regional:
