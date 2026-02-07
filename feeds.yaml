@@ -2163,6 +2163,125 @@ global:
     description: Curated economics discussions and insights from Twitter
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: godel-lost-letter
+    name: Gödel's Lost Letter and P=NP
+    url: https://rjlipton.wpcomstaging.com/feed/
+    domain: rjlipton.wpcomstaging.com
+    description: Computational complexity theory and theoretical computer science
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: atlas-obscura
+    name: Atlas Obscura
+    url: https://www.atlasobscura.com/feeds/latest
+    domain: atlasobscura.com
+    description: Curious and wondrous travel destinations, history, and culture
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: guzey-twitter
+    name: Guzey's Best of Twitter
+    url: https://bestoftwitter.substack.com/feed/
+    domain: bestoftwitter.substack.com
+    description: Curated science and research discussions from Twitter
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: matt-clancy
+    name: What's New Under the Sun
+    url: https://mattsclancy.substack.com/feed/
+    domain: mattsclancy.substack.com
+    description: Economics of innovation and technological progress
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: google-research
+    name: Google Research Blog
+    url: https://feeds.feedburner.com/blogspot/gJZg
+    domain: feeds.feedburner.com
+    description: Latest research and innovations from Google AI and Research
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: miri-blog
+    name: Machine Intelligence Research Institute
+    url: https://feeds.feedburner.com/miriblog
+    domain: feeds.feedburner.com
+    description: AI safety, decision theory, and existential risk research
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: import-ai
+    name: Import AI
+    url: https://jack-clark.net/feed/
+    domain: jack-clark.net
+    description: Weekly AI newsletter covering research, policy, and developments
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: chinai
+    name: ChinAI Newsletter
+    url: https://chinai.substack.com/feed/
+    domain: chinai.substack.com
+    description: China's AI ecosystem, policy, and technological developments
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: 80000hours
+    name: 80,000 Hours Podcast
+    url: https://feeds.feedburner.com/80000HoursPodcast
+    domain: feeds.feedburner.com
+    description: Career advice and effective altruism podcast
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: isegoria
+    name: Isegoria
+    url: http://www.isegoria.net/feed/
+    domain: isegoria.net
+    description: Military history, technology, and unconventional perspectives
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: rajiv-sethi
+    name: Rajiv Sethi
+    url: https://rajivsethi.substack.com/feed/
+    domain: rajivsethi.substack.com
+    description: Economics, inequality, and social dynamics
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: public-domain-review
+    name: The Public Domain Review
+    url: https://publicdomainreview.org/feed/
+    domain: publicdomainreview.org
+    description: Curious and unusual works from the history of art, literature, and ideas
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: matt-lakeman
+    name: Matt Lakeman
+    url: https://mattlakeman.org/feed/
+    domain: mattlakeman.org
+    description: Travel writing, cultural analysis, and exploration
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: damn-interesting
+    name: Damn Interesting
+    url: https://feeds.feedburner.com/damninteresting/all
+    domain: feeds.feedburner.com
+    description: Fascinating true stories about science, history, and the unexpected
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: common-reader
+    name: The Common Reader
+    url: https://www.commonreader.co.uk/feed
+    domain: commonreader.co.uk
+    description: Books, literary criticism, and cultural commentary
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: war-on-rocks
+    name: War on the Rocks
+    url: https://warontherocks.com/feed/
+    domain: warontherocks.com
+    description: National security, defense policy, and military affairs analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: palladium
+    name: Palladium
+    url: https://www.palladiummag.com/feed/index.xml
+    domain: palladiummag.com
+    description: Governance, society, and civilization-level thinking
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
