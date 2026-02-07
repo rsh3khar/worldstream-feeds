@@ -3284,6 +3284,20 @@ regional:
       description: Automaton feed
       contributor: worldstream
       added_at: '2026-02-03'
+    - id: akihabara-news
+      name: Akihabara News
+      url: https://www.akihabaranews.com/feed
+      domain: www.akihabaranews.com
+      description: Japanese technology, electronics, and anime culture news
+      contributor: worldstream
+      added_at: '2026-02-07'
+    - id: techcrunch-japan
+      name: TechCrunch Japan
+      url: https://techcrunch.com/region/asia/japan/feed/
+      domain: techcrunch.com
+      description: Startup and technology news from Japan
+      contributor: worldstream
+      added_at: '2026-02-07'
     entertainment:
     - id: anime-news-network
       name: Anime News Network
