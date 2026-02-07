@@ -281,6 +281,13 @@ global:
     description: Sky Sports feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: wisden
+    name: Wisden
+    url: https://www.wisden.com/feed
+    domain: wisden.com
+    description: Cricket news, scores, analysis from the leading cricket publication
+    contributor: worldstream
+    added_at: '2026-02-07'
   entertainment:
   - id: variety
     name: Variety
@@ -2401,6 +2408,34 @@ global:
     description: Genomics, physics, and quantitative social science by Steve Hsu
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: alistapart
+    name: A List Apart
+    url: https://alistapart.com/main/feed/
+    domain: alistapart.com
+    description: Web design, development, and content strategy for people who make websites
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: css-tricks
+    name: CSS-Tricks
+    url: https://css-tricks.com/feed/
+    domain: css-tricks.com
+    description: Daily articles about CSS, HTML, JavaScript, and web design
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: davidwalsh
+    name: David Walsh Blog
+    url: https://davidwalsh.name/feed
+    domain: davidwalsh.name
+    description: JavaScript, CSS, HTML tutorials and insights by Mozilla engineer
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: mozilla-hacks
+    name: Mozilla Hacks
+    url: https://hacks.mozilla.org/feed/
+    domain: hacks.mozilla.org
+    description: Mozilla's blog for web developers and platform engineers
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
@@ -2953,6 +2988,13 @@ regional:
       description: Gadgets360 feed
       contributor: worldstream
       added_at: '2026-02-03'
+    - id: fossbytes
+      name: Fossbytes
+      url: https://fossbytes.com/feed/
+      domain: fossbytes.com
+      description: Technology news and guides from India
+      contributor: worldstream
+      added_at: '2026-02-07'
     science:
     - id: the-wire-science
       name: The Wire Science
