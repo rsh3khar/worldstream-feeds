@@ -77,6 +77,20 @@ global:
     description: ProPublica feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: the-intercept
+    name: The Intercept
+    url: https://theintercept.com/feed/
+    domain: theintercept.com
+    description: Fearless investigative journalism
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: inside-climate-news
+    name: Inside Climate News
+    url: https://insideclimatenews.org/feed/
+    domain: insideclimatenews.org
+    description: Pulitzer Prize-winning nonprofit climate journalism
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: the-hill
     name: The Hill
     url: https://thehill.com/feed/
@@ -966,6 +980,13 @@ global:
     contributor: worldstream
     added_at: '2026-02-03'
   blogs:
+  - id: bellingcat
+    name: Bellingcat
+    url: https://www.bellingcat.com/feed/
+    domain: bellingcat.com
+    description: Open source investigative journalism collective
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: simonwillisonnet
     name: simonwillison.net
     url: https://simonwillison.net/atom/everything/
