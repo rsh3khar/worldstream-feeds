@@ -1890,6 +1890,41 @@ global:
     description: Football (soccer) analytics and data-driven analysis
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: age-of-invention
+    name: Age of Invention
+    url: https://www.ageofinvention.xyz/feed
+    domain: ageofinvention.xyz
+    description: History of innovation and technological change by Anton Howes
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: longreads
+    name: Longreads
+    url: https://longreads.com/feed/
+    domain: longreads.com
+    description: Curated longform stories and journalism
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: paris-review
+    name: The Paris Review
+    url: https://www.theparisreview.org/blog/feed/
+    domain: theparisreview.org
+    description: Literary magazine featuring fiction, poetry, and essays
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: scholars-stage
+    name: The Scholar's Stage
+    url: https://scholars-stage.org/feed/
+    domain: scholars-stage.org
+    description: Essays on history, culture, and strategy by T. Greer
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: works-in-progress
+    name: Works in Progress
+    url: https://www.worksinprogress.news/feed
+    domain: worksinprogress.news
+    description: Progress studies, history of technology and science
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
