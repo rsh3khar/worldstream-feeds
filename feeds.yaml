@@ -2545,6 +2545,90 @@ global:
     description: CSS Grid, modern layout techniques, and web standards advocacy
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: max-stoiber
+    name: Max Stoiber
+    url: https://mxstbr.com/rss.xml
+    domain: mxstbr.com
+    description: React, styled-components creator, open source
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: glenn-fiedler
+    name: Glenn Fiedler
+    url: https://gafferongames.com/rss/
+    domain: gafferongames.com
+    description: Game networking, multiplayer architecture
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: hugo-di-francesco
+    name: Hugo Di Francesco
+    url: https://codewithhugo.com/rss/
+    domain: codewithhugo.com
+    description: JavaScript, Node.js, testing
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: joel-spolsky
+    name: Joel Spolsky
+    url: https://www.joelonsoftware.com/feed/
+    domain: joelonsoftware.com
+    description: Stack Overflow co-founder, software management
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: ire-aderinokun
+    name: Ire Aderinokun
+    url: https://bitsofco.de/rss/
+    domain: bitsofco.de
+    description: Frontend development, accessibility
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: sophie-alpert
+    name: Sophie Alpert
+    url: https://sophiebits.com/rss.xml
+    domain: sophiebits.com
+    description: Former React core team lead
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: marius-schulz
+    name: Marius Schulz
+    url: https://mariusschulz.com/feed
+    domain: mariusschulz.com
+    description: TypeScript, JavaScript deep dives
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: lindsey-kopacz
+    name: Lindsey Kopacz
+    url: https://www.a11ywithlindsey.com/rss.xml
+    domain: a11ywithlindsey.com
+    description: Web accessibility, inclusive design
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: charity-majors
+    name: Charity Majors
+    url: https://charity.wtf/feed/
+    domain: charity.wtf
+    description: Observability, operations, engineering culture
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: hui-jing-chen
+    name: Hui Jing Chen
+    url: https://www.chenhuijing.com/feed.xml
+    domain: chenhuijing.com
+    description: CSS, layouts, web typography
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: matthias-ott
+    name: Matthias Ott
+    url: https://matthiasott.com/rss
+    domain: matthiasott.com
+    description: Design systems, user experience
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: max-boeck
+    name: Max Böck
+    url: https://mxb.at/feed.xml
+    domain: mxb.at
+    description: Frontend, performance, web standards
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
