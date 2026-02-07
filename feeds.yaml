@@ -2870,6 +2870,20 @@ regional:
       description: BBC Tech feed
       contributor: worldstream
       added_at: '2026-02-03'
+    - id: silicon-canals
+      name: Silicon Canals
+      url: https://siliconcanals.com/feed/
+      domain: siliconcanals.com
+      description: European startup and technology ecosystem news
+      contributor: worldstream
+      added_at: '2026-02-07'
+    - id: zdnet-uk
+      name: ZDNet UK
+      url: https://www.zdnet.com/news/rss.xml
+      domain: www.zdnet.com
+      description: Technology news, analysis, and product reviews
+      contributor: worldstream
+      added_at: '2026-02-07'
     science:
     - id: bbc-science
       name: BBC Science
