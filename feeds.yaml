@@ -1317,10 +1317,10 @@ global:
     contributor: hn-popular
     added_at: '2026-02-03'
   - id: construction-physicscom
-    name: construction-physics.com
+    name: Construction Physics
     url: https://www.construction-physics.com/feed
     domain: construction-physics.com
-    description: construction-physics.com blog
+    description: How things get built at scale
     contributor: hn-popular
     added_at: '2026-02-03'
   - id: tediumco
@@ -1750,6 +1750,48 @@ global:
     description: tedunangst.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
+  - id: astral-codex-ten
+    name: Astral Codex Ten
+    url: https://www.astralcodexten.com/feed
+    domain: astralcodexten.com
+    description: Scott Alexander - Rationality, medicine, society, book reviews
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: lesswrong
+    name: LessWrong
+    url: https://www.lesswrong.com/feed.xml
+    domain: lesswrong.com
+    description: Rationality community blog
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: marginal-revolution
+    name: Marginal Revolution
+    url: https://feeds.feedblitz.com/marginalrevolution&x=1
+    domain: marginalrevolution.com
+    description: Tyler Cowen & Alex Tabarrok on economics
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: ribbonfarm
+    name: ribbonfarm
+    url: https://www.ribbonfarm.com/feed/
+    domain: ribbonfarm.com
+    description: Venkatesh Rao on systems thinking
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: shtetl-optimized
+    name: Shtetl-Optimized
+    url: https://scottaaronson.blog/?feed=rss2
+    domain: scottaaronson.blog
+    description: Scott Aaronson on quantum computing, philosophy
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: overcoming-bias
+    name: Overcoming Bias
+    url: https://www.overcomingbias.com/feed
+    domain: overcomingbias.com
+    description: Robin Hanson on cognitive biases, prediction
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
