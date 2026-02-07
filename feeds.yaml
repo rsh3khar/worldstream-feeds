@@ -979,12 +979,40 @@ global:
     description: Seeking Alpha feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: matt-levine
+    name: Matt Levine - Money Stuff
+    url: https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss
+    domain: bloomberg.com
+    description: Daily Bloomberg newsletter on financial news and market developments
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: calculated-risk
+    name: Calculated Risk
+    url: https://www.calculatedriskblog.com/feeds/posts/default
+    domain: calculatedriskblog.com
+    description: Housing and macro economic data analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
   blogs:
   - id: bellingcat
     name: Bellingcat
     url: https://www.bellingcat.com/feed/
     domain: bellingcat.com
     description: Open source investigative journalism collective
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bits-about-money
+    name: Bits About Money
+    url: https://www.bitsaboutmoney.com/archive/rss/
+    domain: bitsaboutmoney.com
+    description: Patrick McKenzie (patio11) on fintech, payments, and software business
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: econbrowser
+    name: EconBrowser
+    url: https://econbrowser.com/feed
+    domain: econbrowser.com
+    description: Academic economics analysis and policy commentary
     contributor: worldstream
     added_at: '2026-02-07'
   - id: simonwillisonnet
