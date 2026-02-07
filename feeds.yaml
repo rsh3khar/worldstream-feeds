@@ -2436,6 +2436,76 @@ global:
     description: Mozilla's blog for web developers and platform engineers
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: smashing-magazine
+    name: Smashing Magazine
+    url: https://www.smashingmagazine.com/feed
+    domain: www.smashingmagazine.com
+    description: Web design, UX, accessibility, performance, and modern web development
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: codrops
+    name: Codrops
+    url: https://tympanus.net/codrops/feed/
+    domain: tympanus.net
+    description: Creative front-end resources and inspiration for web professionals
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: devto
+    name: DEV Community
+    url: https://dev.to/feed
+    domain: dev.to
+    description: Community of software developers sharing knowledge and experiences
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: frontend-masters
+    name: Frontend Masters
+    url: https://frontendmasters.com/blog/feed/
+    domain: frontendmasters.com
+    description: Expert-level JavaScript, CSS, and web development tutorials and insights
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: addyosmani
+    name: Addy Osmani
+    url: https://addyosmani.com/rss.xml
+    domain: addyosmani.com
+    description: Chrome engineer writing about web performance and JavaScript patterns
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: bradfrost
+    name: Brad Frost
+    url: https://feeds.feedburner.com/brad-frosts-blog
+    domain: feeds.feedburner.com
+    description: Design systems, atomic design, and front-end architecture
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: christian-heilmann
+    name: Christian Heilmann
+    url: https://christianheilmann.com/feed/
+    domain: christianheilmann.com
+    description: Developer advocacy, web standards, and open web technologies
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: sara-soueidan
+    name: Sara Soueidan
+    url: https://www.sarasoueidan.com/blog/index.xml
+    domain: www.sarasoueidan.com
+    description: SVG, CSS, accessibility, and inclusive design expertise
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: csswizardry
+    name: CSS Wizardry
+    url: https://csswizardry.com/feed
+    domain: csswizardry.com
+    description: Web performance, CSS architecture, and front-end consultancy by Harry Roberts
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: rachelandrew
+    name: Rachel Andrew
+    url: https://rachelandrew.co.uk/archives/rss
+    domain: rachelandrew.co.uk
+    description: CSS Grid, modern layout techniques, and web standards advocacy
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
