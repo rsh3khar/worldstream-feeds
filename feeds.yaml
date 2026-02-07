@@ -901,6 +901,20 @@ global:
     description: Destructoid feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: game-developer
+    name: Game Developer
+    url: https://www.gamedeveloper.com/rss.xml
+    domain: gamedeveloper.com
+    description: Game industry news, development, and business
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: dot-esports
+    name: Dot Esports
+    url: https://dotesports.com/feed
+    domain: dotesports.com
+    description: Esports news, tournament results, and competitive gaming
+    contributor: worldstream
+    added_at: '2026-02-07'
   markets:
   - id: investingcom-crypto
     name: Investing.com Crypto
@@ -1832,6 +1846,13 @@ global:
     url: https://www.science.org/blogs/pipeline/feed
     domain: science.org
     description: Derek Lowe on drug discovery and pharmaceutical industry
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: itch-io-blog
+    name: itch.io Blog
+    url: https://itch.io/blog.rss
+    domain: itch.io
+    description: Updates and editorials from indie game platform itch.io
     contributor: worldstream
     added_at: '2026-02-07'
 regional:
