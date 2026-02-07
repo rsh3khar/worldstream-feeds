@@ -1106,6 +1106,13 @@ global:
     description: pluralistic.net blog
     contributor: hn-popular
     added_at: '2026-02-03'
+  - id: schneiercom
+    name: Schneier on Security
+    url: https://www.schneier.com/blog/atom.xml
+    domain: schneier.com
+    description: Security expert Bruce Schneier on policy, cryptography, and security news
+    contributor: worldstream
+    added_at: '2026-02-07'
   - id: shksprmobi
     name: shkspr.mobi
     url: https://shkspr.mobi/blog/feed/
