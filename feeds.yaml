@@ -1883,6 +1883,13 @@ global:
     description: Typography, font design, and type culture
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: analytics-fc
+    name: Analytics FC
+    url: https://analyticsfc.co.uk/feed
+    domain: analyticsfc.co.uk
+    description: Football (soccer) analytics and data-driven analysis
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
