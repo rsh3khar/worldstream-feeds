@@ -1,1 +1,4 @@
 FEED_EXPANSION_TRACKER.md
+*.opml
+gwern-opml.xml
+hn-blogs-opml.xml
