@@ -486,6 +486,27 @@ global:
     description: The Register feed
     contributor: worldstream
     added_at: '2026-02-03'
+  - id: eu-startups
+    name: EU-Startups
+    url: https://www.eu-startups.com/feed/
+    domain: eu-startups.com
+    description: Spotlight on European startups, funding rounds, and ecosystem news
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: tech-eu
+    name: Tech.eu
+    url: https://tech.eu/feed/
+    domain: tech.eu
+    description: European technology news, data, research, and market intelligence
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: sifted
+    name: Sifted
+    url: https://sifted.eu/feed
+    domain: sifted.eu
+    description: Quality journalism about Europe's startup and VC ecosystem (FT-backed)
+    contributor: worldstream
+    added_at: '2026-02-07'
   science:
   - id: physorg
     name: Phys.org
