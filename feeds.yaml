@@ -1855,6 +1855,34 @@ global:
     description: Updates and editorials from indie game platform itch.io
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: ux-collective
+    name: UX Collective
+    url: https://uxdesign.cc/feed
+    domain: uxdesign.cc
+    description: UX design stories and insights from Medium
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: flowingdata
+    name: FlowingData
+    url: https://flowingdata.com/feed
+    domain: flowingdata.com
+    description: Data visualization and statistical analysis blog
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: visual-capitalist
+    name: Visual Capitalist
+    url: https://www.visualcapitalist.com/feed/
+    domain: visualcapitalist.com
+    description: Data-driven visual storytelling and infographics
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: i-love-typography
+    name: I Love Typography
+    url: https://ilovetypography.com/feed/
+    domain: ilovetypography.com
+    description: Typography, font design, and type culture
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
