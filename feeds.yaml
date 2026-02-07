@@ -1042,6 +1042,27 @@ global:
     description: Housing and macro economic data analysis
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: economist
+    name: The Economist
+    url: https://www.economist.com/latest/rss.xml
+    domain: www.economist.com
+    description: International news, politics, business, finance, science, and technology
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: fortune
+    name: Fortune
+    url: https://fortune.com/feed/
+    domain: fortune.com
+    description: Business news, analysis, and leadership insights from Fortune 500 companies
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: business-insider
+    name: Business Insider
+    url: https://www.businessinsider.com/rss
+    domain: www.businessinsider.com
+    description: Business, technology, finance, and lifestyle news
+    contributor: worldstream
+    added_at: '2026-02-07'
   blogs:
   - id: bellingcat
     name: Bellingcat
