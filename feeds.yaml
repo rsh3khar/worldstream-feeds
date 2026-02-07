@@ -3287,6 +3287,111 @@ global:
     description: Other Quality
     contributor: worldstream
     added_at: '2026-02-07'
+  - id: danielmiessler-com
+    name: Daniel Miessler
+    url: https://danielmiessler.com/feed.rss
+    domain: danielmiessler.com
+    description: Daniel Miessler
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: elie-bursztein-feedburner
+    name: Elie Bursztein
+    url: https://feeds.feedburner.com/inftoint
+    domain: feeds.feedburner.com
+    description: Elie Bursztein
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-cryptographyengineering-com
+    name: Matthew Green
+    url: https://blog.cryptographyengineering.com/feed/
+    domain: blog.cryptographyengineering.com
+    description: Matthew Green
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: jvns-ca
+    name: Julia Evans
+    url: https://jvns.ca/blog/2023/03/31/zine-feedback-site/
+    domain: jvns.ca
+    description: Julia Evans
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-jessfraz-com
+    name: Jessie Frazelle
+    url: https://blog.jessfraz.com/index.xml
+    domain: blog.jessfraz.com
+    description: Jessie Frazelle
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: brendangregg-com
+    name: Brendan Gregg
+    url: https://www.brendangregg.com/blog/rss.xml
+    domain: brendangregg.com
+    description: Brendan Gregg
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: nullprogram-com
+    name: Chris Wellons
+    url: https://nullprogram.com/feed/
+    domain: nullprogram.com
+    description: Chris Wellons
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: brandur-org
+    name: Brandur Leach
+    url: https://brandur.org/articles.atom
+    domain: brandur.org
+    description: Brandur Leach
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: aphyr-com
+    name: Kyle Kingsbury (Aphyr)
+    url: https://aphyr.com/posts.atom
+    domain: aphyr.com
+    description: Kyle Kingsbury (Aphyr)
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: notes-eatonphil-com
+    name: Phil Eaton
+    url: https://notes.eatonphil.com/rss.xml
+    domain: notes.eatonphil.com
+    description: Phil Eaton
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: brooker-co-za
+    name: Marc Brooker
+    url: https://brooker.co.za/blog/rss.xml
+    domain: brooker.co.za
+    description: Marc Brooker
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: steveklabnik-com
+    name: Steve Klabnik
+    url: https://steveklabnik.com/feed.xml
+    domain: steveklabnik.com
+    description: Steve Klabnik
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: hillelwayne-com
+    name: Hillel Wayne
+    url: https://www.hillelwayne.com/index.xml
+    domain: hillelwayne.com
+    description: Hillel Wayne
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: copyconstruct-medium-com
+    name: Cindy Sridharan
+    url: https://copyconstruct.medium.com/feed
+    domain: copyconstruct.medium.com
+    description: Cindy Sridharan
+    contributor: worldstream
+    added_at: '2026-02-07'
+  - id: blog-pragmaticengineer-com
+    name: Gergely Orosz
+    url: https://blog.pragmaticengineer.com/rss/
+    domain: blog.pragmaticengineer.com
+    description: Gergely Orosz
+    contributor: worldstream
+    added_at: '2026-02-07'
 regional:
   us:
     news:
