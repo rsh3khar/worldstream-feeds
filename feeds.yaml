@@ -3455,8 +3455,8 @@ regional:
     science:
     - id: npr-science
       name: NPR Science
-      url: https://www.npr.org/rss/rss.php?id=1007
-      domain: npr.org
+      url: https://feeds.npr.org/1007/rss.xml
+      domain: feeds.npr.org
       description: NPR Science feed
       contributor: worldstream
       added_at: '2026-02-03'
