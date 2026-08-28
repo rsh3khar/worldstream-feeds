@@ -149,7 +149,7 @@ global:
     added_at: '2026-02-03'
   - id: south-china-morning-post
     name: South China Morning Post
-    url: https://www.scmp.com/rss/91/feed
+    url: https://www.scmp.com/rss/91/feed/
     domain: scmp.com
     description: South China Morning Post feed
     contributor: worldstream
@@ -792,7 +792,7 @@ global:
     added_at: '2026-02-03'
   - id: live-science
     name: Live Science
-    url: https://www.livescience.com/feeds/all
+    url: https://www.livescience.com/feeds.xml
     domain: livescience.com
     description: Live Science feed
     contributor: worldstream
@@ -841,7 +841,7 @@ global:
     added_at: '2026-02-03'
   - id: spacecom
     name: Space.com
-    url: https://www.space.com/feeds/all
+    url: https://www.space.com/feeds.xml
     domain: space.com
     description: Space.com feed
     contributor: worldstream
@@ -1665,8 +1665,8 @@ global:
     added_at: '2026-02-03'
   - id: dwarkeshcom
     name: dwarkesh.com
-    url: https://www.dwarkeshpatel.com/feed
-    domain: dwarkeshpatel.com
+    url: https://www.dwarkesh.com/feed
+    domain: dwarkesh.com
     description: dwarkesh.com blog
     contributor: hn-popular
     added_at: '2026-02-03'
@@ -3716,7 +3716,7 @@ regional:
     tech:
     - id: techradar
       name: TechRadar
-      url: https://www.techradar.com/rss
+      url: https://www.techradar.com/feeds.xml
       domain: techradar.com
       description: TechRadar feed
       contributor: worldstream
@@ -4204,7 +4204,7 @@ regional:
     news:
     - id: scmp-china
       name: SCMP China
-      url: https://www.scmp.com/rss/4/feed
+      url: https://www.scmp.com/rss/4/feed/
       domain: scmp.com
       description: SCMP China feed
       contributor: worldstream
@@ -4254,7 +4254,7 @@ regional:
     sports:
     - id: scmp-sport
       name: SCMP Sport
-      url: https://www.scmp.com/rss/95/feed
+      url: https://www.scmp.com/rss/95/feed/
       domain: scmp.com
       description: SCMP Sport feed
       contributor: worldstream
@@ -4276,7 +4276,7 @@ regional:
     markets:
     - id: scmp-business
       name: SCMP Business
-      url: https://www.scmp.com/rss/92/feed
+      url: https://www.scmp.com/rss/92/feed/
       domain: scmp.com
       description: SCMP Business feed
       contributor: worldstream
@@ -4291,7 +4291,7 @@ regional:
     tech:
     - id: scmp-tech
       name: SCMP Tech
-      url: https://www.scmp.com/rss/36/feed
+      url: https://www.scmp.com/rss/36/feed/
       domain: scmp.com
       description: SCMP Tech feed
       contributor: worldstream
@@ -4328,7 +4328,7 @@ regional:
     entertainment:
     - id: scmp-lifestyle
       name: SCMP Lifestyle
-      url: https://www.scmp.com/rss/94/feed
+      url: https://www.scmp.com/rss/94/feed/
       domain: scmp.com
       description: SCMP Lifestyle feed
       contributor: worldstream
@@ -4350,14 +4350,14 @@ regional:
     science:
     - id: scmp-science
       name: SCMP Science
-      url: https://www.scmp.com/rss/17/feed
+      url: https://www.scmp.com/rss/17/feed/
       domain: scmp.com
       description: SCMP Science feed
       contributor: worldstream
       added_at: '2026-02-03'
     - id: scmp-health
       name: SCMP Health
-      url: https://www.scmp.com/rss/71/feed
+      url: https://www.scmp.com/rss/71/feed/
       domain: scmp.com
       description: SCMP Health feed
       contributor: worldstream
