@@ -25,9 +25,10 @@ Worldstream uses a two-tier feed system to deliver relevant content:
 
 ## 📊 Current Stats
 
-- **Global Feeds:** ~50 feeds across 7 categories
-- **Regional Feeds:** ~30 feeds across 5 regions
-- **Categories:** tech, news, sports, entertainment, science, gaming, markets
+- **Feeds:** 1,500 — 1,036 global and 464 regional (October 2026)
+- **Global by category:** blogs 742, tech 104, news 56, science 54, entertainment 29, markets 24, sports 14, gaming 13
+- **Regional:** US 224, UK 116, India 78, Japan 28, China 18
+- **Categories:** tech, news, sports, entertainment, science, gaming, markets, blogs
 - **Regions:** us, uk, india, japan, china
 
 ---
@@ -103,6 +104,7 @@ Manual review checks:
 | **science** | Research, discoveries | Nature, ScienceDaily |
 | **gaming** | Video games, esports | IGN, GameSpot |
 | **markets** | Finance, crypto, stocks | MarketWatch, CoinDesk |
+| **blogs** | Personal and engineering blogs | Julia Evans, Seth's Blog, Real Python |
 
 ---
 
