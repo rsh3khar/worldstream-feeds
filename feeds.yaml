@@ -552,6 +552,44 @@ global:
     description: Hetq - News, Articles, Investigations — news
     contributor: worldstream
     added_at: '2026-10-13'
+  - id: breaking-defense
+    name: Breaking Defense
+    url: https://breakingdefense.com/feed/
+    domain: breakingdefense.com
+    description: Defense technology, policy and national security news
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: euronews
+    name: Euronews
+    url: https://www.euronews.com/rss?level=theme&name=news
+    domain: euronews.com
+    description: Latest news from Euronews
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: politico-2
+    name: POLITICO
+    url: https://www.politico.eu/feed/
+    domain: politico.eu
+    description: European Politics, Policy, Government News
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: the-world-from-prx
+    name: The World from PRX
+    url: https://feeds.theworld.org/feed
+    domain: theworld.org
+    description: A daily public radio broadcast program and podcast from PRX and WGBH,
+      hosted by Marco Werman
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: breakingnews-ie-world
+    name: BreakingNews.ie World
+    url: https://feeds.breakingnews.ie/bnworld
+    domain: breakingnews.ie
+    description: Ireland's premier breaking news website providing up to the minute
+      news and sports reports. With e-mail news releases following breaking stories
+      throughout the day.
+    contributor: worldstream
+    added_at: '2026-10-13'
   sports:
   - id: espn
     name: ESPN
@@ -649,6 +687,14 @@ global:
     url: https://www.soccernews.com/feed/
     domain: soccernews.com
     description: SoccerNews — sports
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: managing-madrid
+    name: Managing Madrid
+    url: https://www.managingmadrid.com/rss/index.xml
+    domain: managingmadrid.com
+    description: Your best source for quality Real Madrid news, rumors, analysis,
+      stats and scores from the fan perspective.
     contributor: worldstream
     added_at: '2026-10-13'
   entertainment:
@@ -1981,6 +2027,35 @@ global:
     url: https://rss.csmonitor.com/feeds/world
     domain: csmonitor.com
     description: Global news coverage from The Christian Science Monitor.
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: neuroscience-news
+    name: Neuroscience News
+    url: https://neurosciencenews.com/feed/
+    domain: neurosciencenews.com
+    description: Neuroscience News provides research news for neuroscience, neurology,
+      psychology, AI, brain science, mental health, robotics and cognitive sciences.
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: sciencealert
+    name: ScienceAlert
+    url: https://www.sciencealert.com/feed
+    domain: sciencealert.com
+    description: The Best in Science News and Amazing Breakthroughs
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: esa-top-news
+    name: ESA Top News
+    url: https://www.esa.int/rssfeed/Our_Activities/Space_News
+    domain: esa.int
+    description: ESA Top News — blogs
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: smithsonian-magazine
+    name: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/rss/latest_articles/
+    domain: smithsonianmag.com
+    description: RSS feed for with the latest articles
     contributor: worldstream
     added_at: '2026-10-13'
   gaming:
@@ -4340,13 +4415,6 @@ global:
     description: Exploring the universe from the inside out
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: three-men-on-a-boat
-    name: Three Men On a Boat
-    url: https://3-mob.com/feed/
-    domain: 3-mob.com
-    description: Zimbabwes leading social commentary and news site
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: stack-overflow-blog
     name: Stack Overflow Blog
     url: https://stackoverflow.blog/feed/
@@ -4410,43 +4478,6 @@ global:
     url: https://www.spring.org.uk/feed
     domain: spring.org.uk
     description: PsyBlog — blogs
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: neuroscience-news
-    name: Neuroscience News
-    url: https://neurosciencenews.com/feed/
-    domain: neurosciencenews.com
-    description: Neuroscience News provides research news for neuroscience, neurology,
-      psychology, AI, brain science, mental health, robotics and cognitive sciences.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: sciencealert
-    name: ScienceAlert
-    url: https://www.sciencealert.com/feed
-    domain: sciencealert.com
-    description: The Best in Science News and Amazing Breakthroughs
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: social-media-examiner
-    name: Social Media Examiner
-    url: https://www.socialmediaexaminer.com/feed/
-    domain: socialmediaexaminer.com
-    description: Your Guide to the Marketing Jungle
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: marketing
-    name: Marketing
-    url: https://blog.hubspot.com/marketing/rss.xml?tabid=6307&moduleid=8441&maxcount=25
-    domain: blog.hubspot.com
-    description: HubSpot’s Marketing Blog – attracting over 4.5 million monthly readers
-      – covers everything you need to know to master inbound marketing.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: breaking-defense
-    name: Breaking Defense
-    url: https://breakingdefense.com/feed/
-    domain: breakingdefense.com
-    description: Defense technology, policy and national security news
     contributor: worldstream
     added_at: '2026-10-13'
   - id: google-research-2
@@ -4517,42 +4548,6 @@ global:
     url: https://golangweekly.com/rss/
     domain: golangweekly.com
     description: A weekly newsletter about the Go programming language
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: managing-madrid
-    name: Managing Madrid
-    url: https://www.managingmadrid.com/rss/index.xml
-    domain: managingmadrid.com
-    description: Your best source for quality Real Madrid news, rumors, analysis,
-      stats and scores from the fan perspective.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: euronews
-    name: Euronews
-    url: https://www.euronews.com/rss?level=theme&name=news
-    domain: euronews.com
-    description: Latest news from Euronews
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: politico-2
-    name: POLITICO
-    url: https://www.politico.eu/feed/
-    domain: politico.eu
-    description: European Politics, Policy, Government News
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: esa-top-news
-    name: ESA Top News
-    url: https://www.esa.int/rssfeed/Our_Activities/Space_News
-    domain: esa.int
-    description: ESA Top News — blogs
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: smithsonian-magazine
-    name: Smithsonian Magazine
-    url: https://www.smithsonianmag.com/rss/latest_articles/
-    domain: smithsonianmag.com
-    description: RSS feed for with the latest articles
     contributor: worldstream
     added_at: '2026-10-13'
   - id: kubernetes-blog
@@ -4699,42 +4694,6 @@ global:
     description: And THAT's Good for YOU!
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: the-next-hint
-    name: The Next Hint
-    url: https://www.thenexthint.com/feed/
-    domain: thenexthint.com
-    description: A News Website
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: editorialge
-    name: Editorialge
-    url: https://editorialge.com/feed/
-    domain: editorialge.com
-    description: Daily Source of Scholarly Articles
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: the-world-from-prx
-    name: The World from PRX
-    url: https://feeds.theworld.org/feed
-    domain: theworld.org
-    description: A daily public radio broadcast program and podcast from PRX and WGBH,
-      hosted by Marco Werman
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: usnn-world-news
-    name: USNN World News
-    url: https://usnn.news/feed/
-    domain: usnn.news
-    description: Real News, Real Time
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: world-s-top-exports
-    name: World's Top Exports
-    url: https://www.worldstopexports.com/feed/
-    domain: worldstopexports.com
-    description: Trade metrics that inspire global thinking
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: ongoing-by-tim-bray
     name: ongoing by Tim Bray
     url: https://www.tbray.org/ongoing/ongoing.atom
@@ -4778,13 +4737,6 @@ global:
     url: https://ma.tt/feed/
     domain: ma.tt
     description: Unlucky in Cards
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: blog-just-world-educational
-    name: Blog - Just World Educational
-    url: https://justworldeducational.org/category/blog/feed/
-    domain: justworldeducational.org
-    description: Educating for a Just and Peaceful World
     contributor: worldstream
     added_at: '2026-10-13'
   - id: tweag-engineering-blog
@@ -4856,13 +4808,6 @@ global:
     url: https://mccormick.cx/news/index.rss
     domain: mccormick.cx
     description: Chris McCormick - News — blogs
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: amazon-news
-    name: Amazon News
-    url: https://blog.aboutamazon.com/day-one.rss
-    domain: aboutamazon.com
-    description: Amazon News RSS Feed
     contributor: worldstream
     added_at: '2026-10-13'
   - id: pixel-envy
@@ -5274,30 +5219,6 @@ global:
     description: Written by thoughtbot, your expert partner for design and development.
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: zyte-blog-posts
-    name: Zyte Blog Posts
-    url: https://www.zyte.com/rss.xml
-    domain: zyte.com
-    description: Latest blog posts from Zyte
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: toptal-blog
-    name: Toptal Blog
-    url: https://www.toptal.com/blog.rss
-    domain: toptal.com
-    description: A hub for in-depth business, design, and technology tutorials and
-      trends. Our research and publications are authored by expert professionals from
-      the Toptal network.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: made-tech
-    name: Made Tech
-    url: https://www.madetech.com/feed/
-    domain: madetech.com
-    description: Made Tech provide Digital, Data and Technology services to the UK
-      public sector
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: dereuromark
     name: DerEuroMark
     url: https://www.dereuromark.de/feed/
@@ -5430,13 +5351,6 @@ global:
     url: https://htmlcssjavascript.com/feed/
     domain: htmlcssjavascript.com
     description: Let's Build the Web We Want
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: newest-questions-tagged-reactjs-stack-overflow
-    name: Newest questions tagged reactjs - Stack Overflow
-    url: https://stackoverflow.com/feeds/tag?tagnames=reactjs&sort=newest
-    domain: stackoverflow.com
-    description: most recent 30 from stackoverflow.com
     contributor: worldstream
     added_at: '2026-10-13'
   - id: st-phanie-walter
@@ -5633,54 +5547,6 @@ global:
     url: https://www.seqrite.com/blog/feed/
     domain: seqrite.com
     description: Cybersecurity Research & Threat Intelligence
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: accidental-tech-podcast
-    name: Accidental Tech Podcast
-    url: https://cdn.atp.fm/rss/public?mnbetgfk
-    domain: atp.fm
-    description: Three nerds discussing tech, Apple, programming, and loosely related
-      matters.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: this-week-in-tech-audio
-    name: This Week in Tech (Audio)
-    url: https://feeds.twit.tv/twit.xml
-    domain: twit.tv
-    description: Weekly tech news with Leo Laporte, and expert guests on AI, Big Tech,
-      and privacy.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: innovation
-    name: Innovation
-    url: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofindustry&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Innovation
-    domain: canada.ca
-    description: Canada News Centre
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: fox-la
-    name: Fox LA
-    url: https://www.foxla.com/rss/tags/us
-    domain: foxla.com
-    description: Find the latest U.S. | FOX 11 Los Angeles news, articles and videos
-      by FOX 11 Los Angeles
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: fox-35-orlando
-    name: FOX 35 Orlando
-    url: https://www.fox35orlando.com/rss/tags/us
-    domain: fox35orlando.com
-    description: Find the latest U.S. | FOX 35 Orlando news, articles and videos by
-      FOX 35 Orlando
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: pravda-en
-    name: Pravda EN
-    url: https://news-pravda.com/rss.xml
-    domain: news-pravda.com
-    description: The latest news from the UK, USA and the world, expert opinions,
-      articles, photos and videos. Pravda EN, Pravda International, pravda news, Pravda
-      in english, Pravda USA, Pravda UK.
     contributor: worldstream
     added_at: '2026-10-13'
   - id: web-dev-blog
@@ -6077,13 +5943,6 @@ global:
     description: code.blender.org
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: brandwatch
-    name: Brandwatch
-    url: https://www.brandwatch.com/feed/
-    domain: brandwatch.com
-    description: Brandwatch's Company Website
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: engineering-blog-wealthfront
     name: Engineering Blog – Wealthfront
     url: https://eng.wealthfront.com/feed/
@@ -6292,13 +6151,6 @@ global:
     description: Making things simple, radical and beautiful
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: surveymonkey
-    name: SurveyMonkey
-    url: https://www.surveymonkey.com/feed/
-    domain: surveymonkey.com
-    description: Curiosity at Work
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: bootstrap-blog
     name: Bootstrap Blog
     url: https://blog.getbootstrap.com/feed.xml
@@ -6311,13 +6163,6 @@ global:
     url: https://signal.org/blog/rss.xml
     domain: signal.org
     description: Signal Blog — blogs
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: grammarly-blog
-    name: Grammarly Blog
-    url: https://www.grammarly.com/blog/feed/
-    domain: grammarly.com
-    description: Grammarly Blog — blogs
     contributor: worldstream
     added_at: '2026-10-13'
   - id: drew-devault-s-blog
@@ -6636,13 +6481,6 @@ global:
     description: Recent content in Yihui's Blog on Yihui Xie | 谢益辉
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: rosehosting
-    name: RoseHosting
-    url: https://www.rosehosting.com/blog/feed/
-    domain: rosehosting.com
-    description: Premium Linux Tutorials Since 2001
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: blog-on-latacora
     name: Blog on Latacora
     url: https://www.latacora.com/blog/index.xml
@@ -6831,15 +6669,6 @@ global:
     description: Programming, philosophy, pedaling.
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: breakingnews-ie-world
-    name: BreakingNews.ie World
-    url: https://feeds.breakingnews.ie/bnworld
-    domain: breakingnews.ie
-    description: Ireland's premier breaking news website providing up to the minute
-      news and sports reports. With e-mail news releases following breaking stories
-      throughout the day.
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: giuseppe-gurgone
     name: Giuseppe Gurgone
     url: https://giuseppegurgone.com/feed.xml?1595325788
@@ -6888,13 +6717,6 @@ global:
     url: https://evjang.com/feed
     domain: evjang.com
     description: Personal website and blog of Eric Jang.
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: backlinko
-    name: Backlinko
-    url: https://backlinko.com/feed
-    domain: backlinko.com
-    description: Backlinko — blogs
     contributor: worldstream
     added_at: '2026-10-13'
   - id: tailwind-css-blog
@@ -6962,14 +6784,6 @@ global:
     url: https://www.thran.uk/rss.xml
     domain: thran.uk
     description: Thranpages — blogs
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: the-internet-protocol
-    name: The Internet Protocol
-    url: https://internetprotocol.co/rss/
-    domain: internetprotocol.co
-    description: Covering breaking news, mind-blowing facts, and handy how-tos, The
-      Internet Protocol brings exciting stories and bright ideas to day-to-day life.
     contributor: worldstream
     added_at: '2026-10-13'
   - id: yosh-wuyts-blog
@@ -7399,13 +7213,6 @@ global:
     description: Postmark (en-US) — blogs
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: cisco-umbrella
-    name: Cisco Umbrella
-    url: https://umbrella.cisco.com/blog/feed
-    domain: umbrella.cisco.com
-    description: Enterprise network security
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: jake-wharton
     name: Jake Wharton
     url: https://jakewharton.com/atom.xml
@@ -7518,14 +7325,6 @@ global:
     url: https://heimdalsecurity.com/blog/category/threat-center/feed/
     domain: heimdalsecurity.com
     description: A blog about all things internet security
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: programming-throwdown
-    name: Programming Throwdown
-    url: https://www.programmingthrowdown.com/rss/pt.rss
-    domain: programmingthrowdown.com
-    description: Programming Throwdown educates Computer Scientists and Software Engineers
-      on a cavalcade of programming and tech topics.
     contributor: worldstream
     added_at: '2026-10-13'
   - id: ryan-lanciaux
