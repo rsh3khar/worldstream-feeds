@@ -1578,10 +1578,7 @@ global:
     name: Mashable
     url: http://feeds.mashable.com/Mashable
     domain: mashable.com
-    description: Mashable is a leading source for news, information & resources for
-      the Connected Generation. Mashable reports on the importance of digital innovation
-      and how it empowers and inspires people around the world. Mashable's 25 million
-      monthly unique visitors and 10 million social media followers have bec
+    description: Technology, digital culture and entertainment news
     contributor: worldstream
     added_at: '2026-10-13'
   - id: android-central
@@ -5509,8 +5506,7 @@ global:
     name: UpGuard Data Breach Research
     url: https://www.upguard.com/breaches/rss.xml
     domain: upguard.com
-    description: Subscribe to UpGuard's data breach research and get notified when
-      new research is released.
+    description: Data breach research from UpGuard
     contributor: worldstream
     added_at: '2026-10-13'
   - id: wiz-blog
@@ -6549,10 +6545,7 @@ global:
     name: Dan Davies
     url: https://www.dan-davies.co.uk/feed
     domain: dan-davies.co.uk
-    description: My name is Dan Davies, an experienced and highly skilled web designer
-      and front-end developer from Flintshire, North Wales and currently working in
-      his dining room. Specialising in Web Design, WordPress, HTML, CSS3 and Sass,
-      I build responsive websites that incorporate modern, clean code and am a bi
+    description: Web design and front-end development by Dan Davies
     contributor: worldstream
     added_at: '2026-10-13'
   - id: unicorn-club
@@ -7085,10 +7078,8 @@ global:
     name: Journal of Computer Graphics Techniques
     url: https://www.jcgt.org/feed.xml
     domain: jcgt.org
-    description: 'The Journal of Computer Graphics Techniques (JCGT) is a diamond
-      open access journal: peer reviewed and free to readers and authors. Its focus
-      is short articles on computer graphics practice. JCGT aims to serve the community
-      by disseminating proven and reliable techniques in all areas of computer gra'
+    description: Diamond open access, peer-reviewed journal of practical computer
+      graphics techniques
     contributor: worldstream
     added_at: '2026-10-13'
   - id: simonas-kazlauskas-blog
@@ -9227,11 +9218,7 @@ regional:
       name: Newslaundry
       url: https://www.newslaundry.com/stories.rss
       domain: newslaundry.com
-      description: We have finally migrated our website to better architecture! While
-        the fancy new website will be up in a few months, we have fixed issues related
-        to payment and login in the meantime. You will need to log in anew. If you
-        have forgotten your password, you can generate one by clicking on the forgot
-        pa
+      description: Independent Indian news and media criticism
       contributor: worldstream
       added_at: '2026-10-13'
     sports:
