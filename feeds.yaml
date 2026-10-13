@@ -282,16 +282,6 @@ global:
     description: 'The Washington Times stories: World — news'
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: nabamart
-    name: Nabamart
-    url: https://www.blogger.com/feeds/468623359017296874/posts/default
-    domain: blogger.com
-    description: The network challenged established narratives and gave a global audience
-      an alternative voice one that put the people back at the centre of the news
-      agenda and quickly made it one of the world's most influential news networks.
-      Each subsidiary in the Human Network follows the same principles and valu
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: slate-magazine
     name: Slate Magazine
     url: https://slate.com/feeds/all.rss
@@ -367,40 +357,11 @@ global:
     description: The Cipher Brief — news
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: internewscast
-    name: Internewscast
-    url: https://internewscast.com/feed/
-    domain: internewscast.com
-    description: Top Leading Independent Trending News Medium
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: world-weekly-news
-    name: World Weekly News
-    url: https://www.worldweeklynews.com/feed/
-    domain: worldweeklynews.com
-    description: Latest News from all around the World
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: radarr-africa
-    name: Radarr Africa
-    url: https://radarr.africa/feed/
-    domain: radarr.africa
-    description: Radarr Africa is a Business News site aggregating, producing and
-      distributing content from the corporate world across Africa.
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: global-issues
     name: Global Issues
     url: https://www.globalissues.org/news/feed
     domain: globalissues.org
     description: Global Issues News Headlines — news
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: newsblaze-news
-    name: NewsBlaze News
-    url: https://newsblaze.com/feed/
-    domain: newsblaze.com
-    description: Independent News
     contributor: worldstream
     added_at: '2026-10-13'
   - id: thisday
@@ -867,13 +828,6 @@ global:
     url: https://www.escapistmagazine.com/feed/
     domain: escapistmagazine.com
     description: Everything fun
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: bored-panda
-    name: Bored Panda
-    url: https://www.boredpanda.com/feed/
-    domain: boredpanda.com
-    description: the only magazine for pandas
     contributor: worldstream
     added_at: '2026-10-13'
   - id: bbc-culture
@@ -2240,13 +2194,6 @@ global:
       economic, property, and stock market news.
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: money-saving-mom
-    name: Money Saving Mom®
-    url: https://moneysavingmom.com/feed/
-    domain: moneysavingmom.com
-    description: Saving Families Money Since 2007
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: inc
     name: Inc
     url: https://www.inc.com/rss/
@@ -2283,13 +2230,6 @@ global:
     url: https://www.financialsamurai.com/feed/
     domain: financialsamurai.com
     description: Slicing Through Money's Mysteries
-    contributor: worldstream
-    added_at: '2026-10-13'
-  - id: the-college-investor
-    name: The College Investor
-    url: https://thecollegeinvestor.com/feed/
-    domain: thecollegeinvestor.com
-    description: Navigating Money And Education
     contributor: worldstream
     added_at: '2026-10-13'
   - id: the-nonprofit-times
@@ -7878,28 +7818,6 @@ regional:
       description: Cronkite News — news (US)
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: talk-business-politics
-      name: Talk Business & Politics
-      url: https://talkbusiness.net/feed/
-      domain: talkbusiness.net
-      description: Talk Business & Politics — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: easy-reader-peninsula
-      name: Easy Reader & Peninsula
-      url: https://easyreadernews.com/feed
-      domain: easyreadernews.com
-      description: The independent community newspaper of the South Bay beach cities
-        of Los Angeles.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: orange-county-business-journal
-      name: Orange County Business Journal
-      url: https://www.ocbj.com/feed/
-      domain: ocbj.com
-      description: The Community of Business™
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: sfist
       name: SFist
       url: https://sfist.com/rss/
@@ -7907,13 +7825,6 @@ regional:
       description: SFist is San Francisco's source for fun, witty, & serious news.
         With updates about restaurants, events, sports, politics & more, SFist reaches
         millions of users in California.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: yellow-scene-magazine
-      name: Yellow Scene Magazine
-      url: https://yellowscene.com/feed/
-      domain: yellowscene.com
-      description: North Metro Diversions
       contributor: worldstream
       added_at: '2026-10-13'
     - id: ct-mirror
@@ -7955,46 +7866,11 @@ regional:
         we live.
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: miami-s-community-news
-      name: Miami’s Community News
-      url: https://communitynewspapers.com/feed/
-      domain: communitynewspapers.com
-      description: Your local connection
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: agrinews
-      name: Agrinews
-      url: https://www.agrinews-pubs.com/arc/outboundfeeds/rss/?outputType=xml
-      domain: agrinews-pubs.com
-      description: Agrinews News Feed
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: kfvs
-      name: KFVS
-      url: https://www.kfvs12.com/arc/outboundfeeds/rss/?outputType=xml
-      domain: kfvs12.com
-      description: KFVS News Feed
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: wibc-93-1-fm
       name: WIBC 93.1 FM
       url: https://wibc.com/feed/
       domain: wibc.com
       description: Indy's Mobile News
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: lewiston-sun-journal
-      name: Lewiston Sun Journal
-      url: https://www.sunjournal.com/feed/
-      domain: sunjournal.com
-      description: Central and Western Maine News
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: vegas-inc
-      name: Vegas Inc
-      url: https://vegasinc.lasvegassun.com/feeds/headlines/all/
-      domain: vegasinc.lasvegassun.com
-      description: 'Vegas Inc Stories: All VegasInc Headlines — news (US)'
       contributor: worldstream
       added_at: '2026-10-13'
     - id: the-forward
@@ -8016,41 +7892,6 @@ regional:
       url: https://triblive.com/feed/
       domain: triblive.com
       description: Western Pennsylvania's Trusted News Source
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: charleston-city-paper
-      name: Charleston City Paper
-      url: https://charlestoncitypaper.com/feed/
-      domain: charlestoncitypaper.com
-      description: Charleston City Paper — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-pulse
-      name: The Pulse
-      url: https://www.chattanoogapulse.com/api/rss/content.rss
-      domain: chattanoogapulse.com
-      description: Chattanooga's Arts & Entertainment Voice Since 2003
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: houston-press
-      name: Houston Press
-      url: https://www.houstonpress.com/feed/
-      domain: houstonpress.com
-      description: The Leading Independent News Source in Houston, Texas
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: san-antonio-current
-      name: San Antonio Current
-      url: https://www.sacurrent.com/feed/?partner-feed=all
-      domain: sacurrent.com
-      description: San Antonio Current — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: texas-border-business
-      name: Texas Border Business
-      url: https://texasborderbusiness.com/feed/
-      domain: texasborderbusiness.com
-      description: We Promote Commerce at All Levels
       contributor: worldstream
       added_at: '2026-10-13'
     - id: alternet
@@ -8089,14 +7930,6 @@ regional:
       description: The New Republic — news (US)
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: the-patriot-post
-      name: The Patriot Post
-      url: https://patriotpost.us/feed.xml
-      domain: patriotpost.us
-      description: The Patriot Post is the nation's leading digest of conservative
-        news, policy and opinion. It's Right. It's Free.
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: truthout
       name: Truthout
       url: https://truthout.org/feed/
@@ -8111,32 +7944,11 @@ regional:
       description: All the political news in one place
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: worldnetdaily
-      name: WorldNetDaily
-      url: https://www.wnd.com/feed/
-      domain: wnd.com
-      description: A Free Press For A Free People Since 1997
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: urban-milwaukee
       name: Urban Milwaukee
       url: https://urbanmilwaukee.com/feed/
       domain: urbanmilwaukee.com
       description: Championing Urban Life In The Cream City
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: orange-observer
-      name: Orange Observer
-      url: https://www.orangeobserver.com/rss/headlines/all/
-      domain: orangeobserver.com
-      description: 'www.orangeobserver.com stories: All'
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: 1390-granite-city-sports
-      name: 1390 Granite City Sports
-      url: https://1390granitecitysports.com/feed/
-      domain: 1390granitecitysports.com
-      description: St. Cloud's Sports Radio
       contributor: worldstream
       added_at: '2026-10-13'
     - id: billy-penn-at-whyy
@@ -8158,14 +7970,6 @@ regional:
       url: https://www.boston.com/feed/
       domain: boston.com
       description: Boston.com
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: maxim
-      name: Maxim
-      url: https://www.maxim.com/feed/
-      domain: maxim.com
-      description: Catering to the modern man with content that promises to seduce,
-        entertain and continuously surprise readers.
       contributor: worldstream
       added_at: '2026-10-13'
     - id: mother-jones
@@ -8204,39 +8008,11 @@ regional:
       description: FA — news (US)
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: the-crimson-white
-      name: The Crimson White
-      url: https://thecrimsonwhite.com/feed/
-      domain: thecrimsonwhite.com
-      description: Serving The University of Alabama since 1894.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-randolph-leader
-      name: The Randolph Leader
-      url: https://www.therandolphleader.com/feed/
-      domain: therandolphleader.com
-      description: The Randolph Leader — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: arizona-capitol-times
       name: Arizona Capitol Times
       url: https://azcapitoltimes.com/feed/
       domain: azcapitoltimes.com
       description: Your Inside Source for Arizona Government, Politics and Business
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: phoenix-new-times
-      name: Phoenix New Times
-      url: https://www.phoenixnewtimes.com/feed/
-      domain: phoenixnewtimes.com
-      description: The Leading Independent News Source in Phoenix, Arizona
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: good-times
-      name: Good Times
-      url: https://www.goodtimes.sc/feed/
-      domain: goodtimes.sc
-      description: Santa Cruz County, California
       contributor: worldstream
       added_at: '2026-10-13'
     - id: indiawest-news
@@ -8253,20 +8029,6 @@ regional:
       description: Connect. Inform. Inspire.
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: the-king-city-rustler
-      name: The King City Rustler
-      url: https://kingcityrustler.com/feed/
-      domain: kingcityrustler.com
-      description: News Leader of the Salinas Valley
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: noozhawk
-      name: Noozhawk
-      url: https://www.noozhawk.com/feed/
-      domain: noozhawk.com
-      description: The freshest news in Santa Barbara County
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: the-san-diego-voice-viewpoint
       name: The San Diego Voice & Viewpoint
       url: https://sdvoice.info/feed/
@@ -8274,103 +8036,11 @@ regional:
       description: The San Diego Voice & Viewpoint Newspaper
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: denver-westword
-      name: Denver Westword
-      url: https://www.westword.com/feed/
-      domain: westword.com
-      description: The Leading Independent News Source in Denver, Colorado
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-daily-campus
-      name: The Daily Campus
-      url: https://dailycampus.com/feed/
-      domain: dailycampus.com
-      description: The Daily Campus — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-hoya
-      name: The Hoya
-      url: https://thehoya.com/feed/
-      domain: thehoya.com
-      description: Georgetown University’s Newspaper of Record since 1920
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: washington-blade
       name: Washington Blade
       url: https://www.washingtonblade.com/feed/
       domain: washingtonblade.com
       description: America's Leading LGBT News Source
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: central-florida-lifestyle
-      name: Central Florida Lifestyle
-      url: https://www.centralfloridalifestyle.com/feed/
-      domain: centralfloridalifestyle.com
-      description: Connecting Communities
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: cape-coral-breeze
-      name: Cape Coral Breeze
-      url: https://www.capecoralbreeze.com/feed/
-      domain: capecoralbreeze.com
-      description: Cape Coral Breeze — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: crestview-news-bulletin
-      name: Crestview News Bulletin
-      url: https://crestviewbulletin.com/feed/
-      domain: crestviewbulletin.com
-      description: Putting the "Local" back in News.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: eagle-media
-      name: Eagle Media
-      url: https://eaglenews.org/feed/
-      domain: eaglenews.org
-      description: The Student News Site of Florida Gulf Coast University
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: creative-loafing-tampa
-      name: Creative Loafing Tampa
-      url: https://www.cltampa.com/feed/
-      domain: cltampa.com
-      description: Creative Loafing Tampa — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: north-fort-myers-neighbor
-      name: North Fort Myers Neighbor
-      url: https://www.northfortmyersneighbor.com/feed/
-      domain: northfortmyersneighbor.com
-      description: North Fort Myers Neighbor — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: miami-new-times
-      name: Miami New Times
-      url: https://www.miaminewtimes.com/feed/
-      domain: miaminewtimes.com
-      description: The Leading Independent News Source in Miami, Florida
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: navarre-press
-      name: Navarre Press
-      url: https://navarrepress.com/feed/
-      domain: navarrepress.com
-      description: If you don't get it, you don't get it.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-lincoln-county-news
-      name: The Lincoln County News
-      url: https://lcnme.com/feed/
-      domain: lcnme.com
-      description: Celebrating over a Century of Community Journalism From our Family
-        to Yours!
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: catholic-review
-      name: Catholic Review
-      url: https://catholicreview.org/feed/
-      domain: catholicreview.org
-      description: Inspiring the Archdiocese of Baltimore
       contributor: worldstream
       added_at: '2026-10-13'
     - id: minnpost
@@ -8403,49 +8073,11 @@ regional:
       description: The Authentic Voice of Caribbean-American community
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: pittsburgh-city-paper
-      name: Pittsburgh City Paper
-      url: https://www.pghcitypaper.com/feed/
-      domain: pghcitypaper.com
-      description: Pittsburgh's alternative newspaper features news, dining reviews,
-        restaurants, music reviews, movie & film reviews, opinions, arts & entertainment,
-        and culture.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: pittsburgh-magazine
-      name: Pittsburgh Magazine
-      url: https://www.pittsburghmagazine.com/feed/
-      domain: pittsburghmagazine.com
-      description: 'Pittsburgh Magazine: Restaurants, Best of, Entertainment, Doctors,
-        Sports, Weddings'
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: politicspa
       name: PoliticsPA
       url: https://politicspa.com/feed/
       domain: politicspa.com
       description: Pennsylvania's Political Community
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: altoona-mirror
-      name: Altoona Mirror
-      url: https://www.altoonamirror.com/feed/
-      domain: altoonamirror.com
-      description: News, Sports, Jobs
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-sentinel
-      name: The Sentinel
-      url: https://www.lewistownsentinel.com/feed/
-      domain: lewistownsentinel.com
-      description: The Sentinel — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: texas-catholic
-      name: Texas Catholic
-      url: https://texascatholic.com/feed/
-      domain: texascatholic.com
-      description: The official newspaper of the Diocese of Dallas
       contributor: worldstream
       added_at: '2026-10-13'
     - id: the-american-spectator
@@ -8469,13 +8101,6 @@ regional:
       description: Home of The Saturday Evening Post
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: the-times-of-earth
-      name: The Times Of Earth
-      url: https://www.timesofearth.com/feed/
-      domain: timesofearth.com
-      description: The Times Of Earth, International Edition
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: the-root
       name: The Root
       url: https://www.theroot.com/feed
@@ -8490,29 +8115,6 @@ regional:
       description: Breaking News and Analysis
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: schwartzreport
-      name: Schwartzreport
-      url: https://www.schwartzreport.net/feed/
-      domain: schwartzreport.net
-      description: Trends That Will Affect Your Future
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-daily-world
-      name: The Daily World
-      url: https://www.thedailyworld.com/feed/
-      domain: thedailyworld.com
-      description: Newspaper for Grays Harbor and Pacific Counties on Washington's
-        Coast featuring local and national news, sports, classifieds, business and
-        services.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-intelligencer
-      name: The Intelligencer
-      url: https://www.theintelligencer.net/feed/
-      domain: theintelligencer.net
-      description: The Ohio valley, Delivered Like No Other Media
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: wisconsin-watch
       name: Wisconsin Watch
       url: https://wisconsinwatch.org/feed/
@@ -8520,25 +8122,11 @@ regional:
       description: Nonprofit, nonpartisan news about Wisconsin
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: sheridan-media
-      name: Sheridan Media
-      url: https://sheridanmedia.com/feed/
-      domain: sheridanmedia.com
-      description: Serving Sheridan and Buffalo Wyoming
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: wyoming-public-media
       name: Wyoming Public Media
       url: https://www.wyomingpublicmedia.org/latest-local-content.rss
       domain: wyomingpublicmedia.org
       description: Latest Local Content — news (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: alaska-business-magazine
-      name: Alaska Business Magazine
-      url: https://www.akbizmag.com/feed/
-      domain: akbizmag.com
-      description: Alaska Business Magazine — news (US)
       contributor: worldstream
       added_at: '2026-10-13'
     - id: balita-media-inc
@@ -8556,26 +8144,12 @@ regional:
         Politics.'
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: metro-silicon-valley
-      name: Metro Silicon Valley
-      url: https://www.metrosiliconvalley.com/feed/
-      domain: metrosiliconvalley.com
-      description: News, Thought & Things to Do in Marin County, California
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: ctnow-hartford-courant
       name: CTNow – Hartford Courant
       url: https://www.courant.com/tag/ctnow/feed/
       domain: courant.com
       description: Your source for Connecticut breaking news, UConn sports, business,
         entertainment, weather and traffic
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: central-penn-business-journal
-      name: Central Penn Business Journal
-      url: https://www.cpbj.com/feed/
-      domain: cpbj.com
-      description: Pennsylvania's Trusted Source For Business News
       contributor: worldstream
       added_at: '2026-10-13'
     - id: antiwar
@@ -8617,29 +8191,6 @@ regional:
         on issues affecting North Carolina in a nonprofit, nonpartisan setting.
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: memphis-magazine
-      name: Memphis magazine
-      url: https://memphismagazine.com/api/rss/content.rss
-      domain: memphismagazine.com
-      description: Every month, more than 60,000 readers look to Memphis magazine
-        to provide them with in-depth coverage of every aspect of life in the Bluff
-        City.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: sd-metro
-      name: SD METRO
-      url: https://www.sandiegometro.com/feed/
-      domain: sandiegometro.com
-      description: Providing 40 years of Quality San Diego Journalism
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: essex-news-daily
-      name: Essex News Daily
-      url: https://essexnewsdaily.com/feed/
-      domain: essexnewsdaily.com
-      description: Essex County's Local Source
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: the-legislative-gazette
       name: The Legislative Gazette
       url: https://legislativegazette.com/feed/
@@ -8647,33 +8198,11 @@ regional:
       description: Covering the New York State Capitol
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: world-tribune
-      name: World Tribune
-      url: https://worldtribune.com/feed/
-      domain: worldtribune.com
-      description: 'World Tribune: U.S. Politics and Culture, Geostrategy, China,
-        North Korea, Corporate Watch, Media Watch'
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: zenger-news
       name: Zenger News
       url: https://zenger.news/feed/
       domain: zenger.news
       description: The World's First Digitally Native Wire Service
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-dialog
-      name: The Dialog
-      url: http://thedialog.org/feed/
-      domain: thedialog.org
-      description: Real-time News from the Diocese of Wilmington
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: wrjo-fm
-      name: WRJO-FM
-      url: http://www.wrjo.com/feed/
-      domain: wrjo.com
-      description: Eagle River Wisconsin - 715 479 4451
       contributor: worldstream
       added_at: '2026-10-13'
     markets:
@@ -8733,35 +8262,6 @@ regional:
       description: Investor's Business Daily — markets (US)
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: businesswest
-      name: BusinessWest
-      url: https://businesswest.com/feed/
-      domain: businesswest.com
-      description: Western Mass Business News
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: business-journal-daily
-      name: Business Journal Daily
-      url: https://businessjournaldaily.com/feed/
-      domain: businessjournaldaily.com
-      description: Local business news. Every business day in Youngstown.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: capital-press
-      name: Capital Press
-      url: https://capitalpress.com/feed/
-      domain: capitalpress.com
-      description: Capital Press | Agriculture News, Farming & Ranching in Oregon,
-        Washington & Idaho
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: tri-state-livestock-news
-      name: Tri-State Livestock News
-      url: https://www.tsln.com/feed/
-      domain: tsln.com
-      description: What Ranchers Read
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: fox-business-business
       name: Fox Business Business
       url: https://moxie.foxbusiness.com/google-publisher/latest.xml
@@ -8771,70 +8271,11 @@ regional:
         today.
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: coloradobiz
-      name: ColoradoBiz
-      url: https://coloradobiz.com/feed/
-      domain: coloradobiz.com
-      description: ColoradoBiz — markets (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: agweek
-      name: Agweek
-      url: https://www.agweek.com/index.rss
-      domain: agweek.com
-      description: Stay informed on the latest agricultural news and trends with Agweek.com.
-        Your trusted source for in-depth coverage of the agribusiness industry, from
-        farming and ranching to technology and policy. Keep up to date with the latest
-        market updates and expert analysis. Your go-to source for all things a
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: adweek
       name: Adweek
       url: https://www.adweek.com/feed/
       domain: adweek.com
       description: Breaking News in Advertising, Media and Technology
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: budget-and-the-bees
-      name: Budget and the Bees
-      url: https://www.budgetandthebees.com/feed/
-      domain: budgetandthebees.com
-      description: Buzz-worthy life tips for busy bees
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: clever-dude-personal-finance-money
-      name: Clever Dude Personal Finance & Money
-      url: https://www.cleverdude.com/feed/
-      domain: cleverdude.com
-      description: Family, Marriage, Finances & Life
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: news-radio-kman
-      name: News Radio KMAN
-      url: https://1350kman.com/category/local-news/manhattan-local-news/feed/
-      domain: 1350kman.com
-      description: Manhattan, KS news, weather, sports & information
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-sunflower-state-radio-network
-      name: The Sunflower State Radio Network
-      url: https://sunflowerstateradio.com/feed/
-      domain: sunflowerstateradio.com
-      description: We Cover Kansas!
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: eagle-pass-business-journal
-      name: Eagle Pass Business Journal
-      url: https://www.epbusinessjournal.com/feed/
-      domain: epbusinessjournal.com
-      description: Serving the United States - Mexico Border
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-business-press
-      name: The Business Press
-      url: https://fortworthbusiness.com/feed/
-      domain: fortworthbusiness.com
-      description: The Business News of Tarrant County, Online and In Print
       contributor: worldstream
       added_at: '2026-10-13'
     - id: quartz
@@ -8844,62 +8285,6 @@ regional:
       description: Quartz is a guide to the new global economy for people who are
         excited by change. We cover business, finance, economics, technology, lifestyle,
         and leadership.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: wisbusiness
-      name: WisBusiness
-      url: https://www.wisbusiness.com/feed/
-      domain: wisbusiness.com
-      description: Wisconsin's Business News Source
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: los-angeles-business-journal
-      name: Los Angeles Business Journal
-      url: https://labusinessjournal.com/feed/
-      domain: labusinessjournal.com
-      description: The Community of Business™
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: finance-commerce
-      name: Finance & Commerce
-      url: https://finance-commerce.com/feed/
-      domain: finance-commerce.com
-      description: Finance & Commerce — markets (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-journal-record
-      name: The Journal Record
-      url: https://journalrecord.com/feed/
-      domain: journalrecord.com
-      description: Your business is our business
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: scbiz
-      name: SCBiz
-      url: https://scbiz.com/feed/
-      domain: scbiz.com
-      description: News and information for South Carolina businesses
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-daily-reporter-wi-construction-news-bids
-      name: The Daily Reporter – WI Construction News & Bids
-      url: https://dailyreporter.com/feed/
-      domain: dailyreporter.com
-      description: Wisconsin's Construction Authority
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: thousandaire
-      name: Thousandaire
-      url: https://thousandaire.com/feed/
-      domain: thousandaire.com
-      description: Entertaining Personal Finance
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: cascade-business-news
-      name: Cascade Business News
-      url: http://cascadebusnews.com/feed/
-      domain: cascadebusnews.com
-      description: 'Bend Oregon''s #1 Business Newspaper Online'
       contributor: worldstream
       added_at: '2026-10-13'
     science:
@@ -9003,13 +8388,6 @@ regional:
       description: SI — sports (US)
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: fox-10-news
-      name: Fox 10 News
-      url: https://www.fox10tv.com/arc/outboundfeeds/rss/?outputType=xml
-      domain: fox10tv.com
-      description: Fox 10 News News Feed
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: fansided
       name: FanSided
       url: https://fansided.com/feed
@@ -9017,46 +8395,11 @@ regional:
       description: FanSided — sports (US)
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: wisco-sports-zone
-      name: Wisco Sports Zone
-      url: https://www.wiscosportszone.com/feed/
-      domain: wiscosportszone.com
-      description: Wisco Sports Zone — sports (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: espn-102-3fm-am-1000-ksoo-sioux-falls-sports-lea
-      name: ESPN 102.3FM/AM 1000 KSOO - Sioux Falls Sports Leader
-      url: https://espnsiouxfalls.com/feed/
-      domain: espnsiouxfalls.com
-      description: Sioux Falls Sports Leader
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: golf-com
       name: Golf.com
       url: https://golf.com/feed/
       domain: golf.com
       description: Your life, well played.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: superwest-sports
-      name: SuperWest Sports
-      url: https://superwestsports.com/feed/
-      domain: superwestsports.com
-      description: Covering the Top Teams and Athletes in the West
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: skor-north
-      name: SKOR North
-      url: https://www.skornorth.com/feed/
-      domain: skornorth.com
-      description: SKOR North — sports (US)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: blitz-weekly
-      name: Blitz Weekly
-      url: https://blitzweekly.com/feed/
-      domain: blitzweekly.com
-      description: Sports / Music / Entertainment
       contributor: worldstream
       added_at: '2026-10-13'
     entertainment:
@@ -9109,90 +8452,11 @@ regional:
       description: The Nexus of Pop Culture and the Uncharted Universe
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: best-of-the-twin-cities
-      name: Best of the Twin Cities
-      url: https://mspmag.com/api/rss/content.rss
-      domain: mspmag.com
-      description: Find out about the best places to dine, shop, go out, and live
-        a healthy life from the editors of Mpls.St.Paul Magazine. Get the latest Twin
-        Cities lifestyle news and ideas, plus search our editor-curated restaurant,
-        shops, health, and wedding guides of resources in Minneapolis and St. Paul.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: shepherd-express
-      name: Shepherd Express
-      url: https://shepherdexpress.com/api/rss/content.rss
-      domain: shepherdexpress.com
-      description: 'Smart, Informed, Opinionated: The Shepherd Express is Milwaukee''s
-        alternative news source covering arts & entertainment, food, culture and politics.'
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: q96-1
-      name: Q96.1
-      url: https://q961.com/feed/
-      domain: q961.com
-      description: 'Maine & New Brunswick''s #1 Hit Music Station'
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-onion
-      name: The Onion
-      url: https://theonion.com/feed/?format=rss
-      domain: theonion.com
-      description: America’s Finest News Source
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: cultured-mag
       name: Cultured Mag
       url: https://culturedmag.com/feed/
       domain: culturedmag.com
       description: The Art, Design & Architecture Magazine
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: we-got-this-covered
-      name: We Got This Covered
-      url: https://wegotthiscovered.com/feed/
-      domain: wegotthiscovered.com
-      description: All the latest news, trailers, & reviews for movies, TV, celebrities,
-        Marvel, Netflix, anime, and more.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: cincinnati-citybeat
-      name: Cincinnati CityBeat
-      url: https://www.citybeat.com/feed/
-      domain: citybeat.com
-      description: Cincinnati CityBeat is your free source for Cincinnati and Ohio
-        news, arts and culture coverage, restaurant reviews, music, things to do,
-        photos, and more.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: cleveland-scene
-      name: Cleveland Scene
-      url: https://www.clevescene.com/feed/
-      domain: clevescene.com
-      description: Cleveland’s trusted source for local independent news and culture
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: ksfr-homepage
-      name: KSFR - Homepage
-      url: https://www.ksfr.org/index.rss
-      domain: ksfr.org
-      description: Independent public radio for northern New Mexico featuring local
-        news, BBC World Service, and an eclectic mix of live music programs from local
-        DJs.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: high-plains-reader-fargo-nd
-      name: High Plains Reader Fargo, ND
-      url: https://hpr1.com/feed/
-      domain: hpr1.com
-      description: Your Alternative Weekly Arts and Entertainment Newspaper
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: portland-monthly
-      name: Portland Monthly
-      url: https://www.pdxmonthly.com/feed
-      domain: pdxmonthly.com
-      description: Portland Monthly — entertainment (US)
       contributor: worldstream
       added_at: '2026-10-13'
     tech:
@@ -9447,55 +8711,11 @@ regional:
       description: RSS feed from Nottingham Post
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: ardrossan-and-saltcoats-herald
-      name: Ardrossan and Saltcoats Herald
-      url: https://www.ardrossanherald.com/news/rss/
-      domain: ardrossanherald.com
-      description: Ardrossan and Saltcoats Herald News
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: west-coast-today
-      name: West Coast Today
-      url: https://www.westcoasttoday.co.uk/Syndication/DF.cfm?f=5&ft=10&&redirected=1
-      domain: westcoasttoday.co.uk
-      description: News
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: lancs-live
       name: Lancs Live
       url: https://www.lancs.live/?service=rss
       domain: lancs.live
       description: RSS feed from Lancs Live
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: herald-series
-      name: Herald Series
-      url: https://www.heraldseries.co.uk/news/rss/
-      domain: heraldseries.co.uk
-      description: Herald Series News
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: sussexworld-bexhill-and-battle
-      name: SussexWorld Bexhill and Battle
-      url: https://www.sussexexpress.co.uk/your-sussex/east-sussex/bexhill-and-battle/rss
-      domain: sussexexpress.co.uk
-      description: Visit now for the latest news direct from SussexWorld Bexhill and
-        Battle and updated throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: derbyshire-times
-      name: Derbyshire Times
-      url: https://www.derbyshiretimes.co.uk/rss
-      domain: derbyshiretimes.co.uk
-      description: Visit now for the latest news direct from Derbyshire Times and
-        updated throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: bucks-free-press
-      name: Bucks Free Press
-      url: https://www.bucksfreepress.co.uk/news/rss/
-      domain: bucksfreepress.co.uk
-      description: Bucks Free Press News
       contributor: worldstream
       added_at: '2026-10-13'
     - id: essex-live
@@ -9505,34 +8725,11 @@ regional:
       description: RSS feed from Essex Live
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: bude-stratton-post
-      name: Bude & Stratton Post
-      url: https://www.bude-today.co.uk/rss
-      domain: bude-today.co.uk
-      description: Visit now for the latest news direct from Bude & Stratton Post
-        and updated throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: cheshire-live
       name: Cheshire Live
       url: https://www.cheshire-live.co.uk/?service=rss
       domain: cheshire-live.co.uk
       description: RSS feed from Cheshire Live
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: cambrian-news
-      name: Cambrian News
-      url: https://www.cambrian-news.co.uk/rss
-      domain: cambrian-news.co.uk
-      description: Visit now for the latest news direct from Cambrian News and updated
-        throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: caerphilly-observer
-      name: Caerphilly Observer
-      url: https://caerphilly.observer/feed/
-      domain: caerphilly.observer
-      description: News and sport from across Caerphilly County Borough
       contributor: worldstream
       added_at: '2026-10-13'
     - id: cambridgeshire-live
@@ -9554,21 +8751,6 @@ regional:
       url: https://www.coventrytelegraph.net/?service=rss
       domain: coventrytelegraph.net
       description: RSS feed from Coventry Live
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: daily-star-dailystar-frontpage
-      name: Daily Star - dailystar frontpage
-      url: https://www.dailystar.co.uk/?service=rss
-      domain: dailystar.co.uk
-      description: RSS feed from Daily Star
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: doncaster-free-press
-      name: Doncaster Free Press
-      url: https://www.doncasterfreepress.co.uk/rss
-      domain: doncasterfreepress.co.uk
-      description: Visit now for the latest news direct from Doncaster Free Press
-        and updated throughout the day
       contributor: worldstream
       added_at: '2026-10-13'
     - id: derbyshire-live
@@ -9614,15 +8796,6 @@ regional:
       description: New Times, New Ideas, New Statesman
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: the-fermanagh-herald
-      name: The Fermanagh Herald
-      url: https://fermanaghherald.com/feed/
-      domain: fermanaghherald.com
-      description: 'The Fermanagh Herald, updated daily, covering news, sports and
-        event across Fermanagh and the rest of the County. Based in Enniskillen, tel:
-        028 6632 2066 or email: contact@fermanaghherald.com'
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: derry-journal
       name: Derry Journal
       url: https://www.derryjournal.com/rss
@@ -9631,80 +8804,11 @@ regional:
         throughout the day
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: avon-and-somerset-police
-      name: Avon and Somerset Police
-      url: https://www.avonandsomerset.police.uk/feed/
-      domain: avonandsomerset.police.uk
-      description: Serve. Protect. Respect.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: alton-herald
-      name: Alton Herald
-      url: https://www.altonherald.com/rss
-      domain: altonherald.com
-      description: Visit now for the latest news direct from Alton Herald and updated
-        throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: bradfordian
-      name: Bradfordian
-      url: https://bradfordian.co.uk/feed/
-      domain: bradfordian.co.uk
-      description: Positive news from Bradford
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: cumberland-and-westmorland-herald
-      name: Cumberland and Westmorland Herald
-      url: https://cwherald.com/feed/
-      domain: cwherald.com
-      description: Your local news provider for Penrith, Appleby, Kirkby Stephen,
-        Keswick & Alston
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: farnham-herald
-      name: Farnham Herald
-      url: https://www.farnhamherald.com/rss
-      domain: farnhamherald.com
-      description: Visit now for the latest news direct from Farnham Herald and updated
-        throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: politics
       name: Politics
       url: https://www.politics.co.uk/feed/
       domain: politics.co.uk
       description: UK politics - latest news and insight
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: abergavenny-chronicle
-      name: Abergavenny Chronicle
-      url: https://www.abergavennychronicle.com/rss
-      domain: abergavennychronicle.com
-      description: Visit now for the latest news direct from Abergavenny Chronicle
-        and updated throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: bordon-herald
-      name: Bordon Herald
-      url: https://www.bordonherald.com/rss
-      domain: bordonherald.com
-      description: Visit now for the latest news direct from Bordon Herald and updated
-        throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: dartmouth-chronicle
-      name: Dartmouth Chronicle
-      url: https://www.dartmouth-today.co.uk/rss
-      domain: dartmouth-today.co.uk
-      description: Visit now for the latest news direct from Dartmouth Chronicle and
-        updated throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: theweekjunior-uk
-      name: TheWeekJunior UK
-      url: https://theweekjunior.co.uk/feeds.xml
-      domain: theweekjunior.co.uk
-      description: All the latest content from the TheWeekJunior UK team
       contributor: worldstream
       added_at: '2026-10-13'
     sports:
@@ -9779,54 +8883,11 @@ regional:
       description: All the latest content from the Cycling Weekly team
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: somerset-live
-      name: Somerset Live
-      url: https://www.somersetlive.co.uk/?service=rss
-      domain: somersetlive.co.uk
-      description: RSS feed from Somerset Live
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: northumberland-gazette
-      name: Northumberland Gazette
-      url: https://www.northumberlandgazette.co.uk/rss
-      domain: northumberlandgazette.co.uk
-      description: Visit now for the latest news direct from Northumberland Gazette
-        and updated throughout the day
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: devon-live
-      name: Devon Live
-      url: https://www.devonlive.com/?service=rss
-      domain: devonlive.com
-      description: RSS feed from Devon Live
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: cyclist
       name: Cyclist
       url: https://www.cyclist.co.uk/feed
       domain: cyclist.co.uk
       description: Road and gravel cycling news, reviews, in-depth analysis & interviews
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: northern-scot-sport
-      name: Northern Scot Sport
-      url: https://www.northern-scot.co.uk/_api/rss/northern-scot-sport-feed.xml
-      domain: northern-scot.co.uk
-      description: Sport RSS Feed for Northern Scot
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: rossshire-sport
-      name: RossShire Sport
-      url: https://www.ross-shirejournal.co.uk/_api/rss/ross-shire-sport-feed.xml
-      domain: ross-shirejournal.co.uk
-      description: Sport RSS Feed for Ross-Shire Journal
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: john-ogroat-sport
-      name: John OGroat Sport
-      url: https://www.johnogroat-journal.co.uk/_api/rss/john-ogroat-sport.xml
-      domain: johnogroat-journal.co.uk
-      description: Sport RSS Feed for John O Groat Journal
       contributor: worldstream
       added_at: '2026-10-13'
     markets:
@@ -10276,13 +9337,6 @@ regional:
       description: RSS Feed
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: odisha-bytes
-      name: Odisha Bytes
-      url: https://odishabytes.com/feed/
-      domain: odishabytes.com
-      description: Your Trusted News Source for Odisha & Beyond.
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: orissapost
       name: OrissaPOST
       url: https://www.orissapost.com/feed/
@@ -10320,14 +9374,6 @@ regional:
         sport, entertainment, business, technology, Mumbai, India, world and more.
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: kns-kashmir-news-service
-      name: KNS â€“ Kashmir News Service
-      url: https://www.knskashmir.com/rss.xml
-      domain: knskashmir.com
-      description: 'Kashmir News Service (KNS): breaking news, politics, business,
-        sports and current affairs from Jammu & Kashmir, India and the world.'
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: kashmir-observer
       name: Kashmir Observer
       url: https://kashmirobserver.net/feed/
@@ -10345,107 +9391,11 @@ regional:
       description: Latest India News and Live Updates
       contributor: worldstream
       added_at: '2026-10-13'
-    - id: mizoram-post
-      name: Mizoram Post
-      url: https://mizorampost.com/feed/
-      domain: mizorampost.com
-      description: Mizoram Post — news (INDIA)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: tripura-post
-      name: Tripura Post
-      url: https://tripurapost.com/feed/
-      domain: tripurapost.com
-      description: Tripura Post — news (INDIA)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: telugu-bulletin
-      name: Telugu Bulletin
-      url: https://www.telugubulletin.com/feed
-      domain: telugubulletin.com
-      description: Top Telugu online news portal , Breaking latest Andhra Telangana
-        political and movie news, Telugu film news, Telugu cinema gossips, Movie reviews,
-        Tollywood updates, box office collections, photo Gallery
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: assam-times
-      name: Assam Times
-      url: https://assamtimes.org/feed
-      domain: assamtimes.org
-      description: Community newspaper from Assam, India
-      contributor: worldstream
-      added_at: '2026-10-13'
     - id: northeast-now
       name: NorthEast Now
       url: https://nenow.in/feed
       domain: nenow.in
       description: Our Land Our News
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: nagaland-tribune
-      name: Nagaland Tribune
-      url: https://nagalandtribune.in/feed/
-      domain: nagalandtribune.in
-      description: Nagaland Tribune — news (INDIA)
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-times-of-bengal
-      name: The Times of Bengal
-      url: https://www.thetimesofbengal.com/feed/
-      domain: thetimesofbengal.com
-      description: Revolutionary taking place
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: barak-bulletin
-      name: Barak Bulletin
-      url: https://barakbulletin.com/feed/
-      domain: barakbulletin.com
-      description: Barak Bulletin is a hyperlocal news publication which features
-        latest updates, breaking news, interviews, feature stories and columns.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-news-himachal
-      name: The News Himachal
-      url: https://thenewshimachal.com/feed/
-      domain: thenewshimachal.com
-      description: Your Local Newspaper
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-chenab-times
-      name: The Chenab Times
-      url: https://thechenabtimes.com/feed/
-      domain: thechenabtimes.com
-      description: National and Global News, Grounded Reporting
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: kashmir-reader
-      name: Kashmir Reader
-      url: https://kashmirreader.com/feed/
-      domain: kashmirreader.com
-      description: Daily Newspaper
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: the-global-kashmir
-      name: The Global Kashmir
-      url: https://globalkashmir.net/feed/
-      domain: globalkashmir.net
-      description: Voice of people.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: kashmir-life
-      name: Kashmir Life
-      url: https://kashmirlife.net/feed/
-      domain: kashmirlife.net
-      description: Stay updated with Kashmir Life for the latest breaking news, live
-        updates, and in-depth coverage of Kashmir. Your trusted source for Kashmir
-        news, politics, culture, and more.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: pragativadi
-      name: Pragativadi
-      url: https://pragativadi.com/feed/
-      domain: pragativadi.com
-      description: What An Independent Daily Ought To Be
       contributor: worldstream
       added_at: '2026-10-13'
     - id: news-today
@@ -10468,14 +9418,6 @@ regional:
       domain: newsx.com
       description: Breaking Latest News Today | Today News Headlines | Latest English
         News | Top News in India
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: northeast-today
-      name: Northeast Today
-      url: https://northeasttoday.in/feed/
-      domain: northeasttoday.in
-      description: A digital news media platform covering news, opinions and narratives
-        from, of and for Northeast India
       contributor: worldstream
       added_at: '2026-10-13'
     - id: free-press-journal
@@ -10572,13 +9514,6 @@ regional:
       description: 'Business News Today: Read latest breaking headlines for Business
         news, Financial news, Stock/Share market & Indian Economy news & updates on
         Businessline.'
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: new-kerala
-      name: New Kerala
-      url: https://www.newkerala.com/rss.xml
-      domain: newkerala.com
-      description: Latest news from NewKerala.com - Kerala & India focused news portal
       contributor: worldstream
       added_at: '2026-10-13'
     tech:
@@ -10748,13 +9683,6 @@ regional:
       url: http://www.newsonjapan.com/rss/top.xml
       domain: newsonjapan.com
       description: All the latest news on Japan
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: kyodo-news-jp
-      name: Kyodo News (共同通信)
-      url: https://www.kyodo.co.jp/feed/
-      domain: kyodo.co.jp
-      description: 株式会社共同通信社の情報ポータルサイト
       contributor: worldstream
       added_at: '2026-10-13'
     - id: fnn-prime-online-jp
