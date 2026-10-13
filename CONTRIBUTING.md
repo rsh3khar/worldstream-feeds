@@ -55,13 +55,16 @@ Thank you for considering contributing! This document provides guidelines for ad
 ### ✅ Must Have
 
 1. **Active RSS/Atom Feed**
-   - Updated at least weekly
+   - News and topic feeds: updated at least weekly
+   - Blogs: a post at least monthly
    - Valid XML format
    - Reliable hosting
 
 2. **English Content** (or specify language)
    - Primarily English-language
-   - Or clearly documented as non-English
+   - Non-English feeds go under the matching `regional/<region>` section and should be established
+     outlets in that region's language; give the publication name in English with the original in
+     brackets, for example `Sankei Shimbun (産経新聞)`
 
 3. **Quality Source**
    - Reputable publisher
@@ -69,7 +72,8 @@ Thank you for considering contributing! This document provides guidelines for ad
    - Consistent quality
 
 4. **Category Fit**
-   - Clearly fits: tech, news, sports, entertainment, science, gaming, or markets
+   - Clearly fits: tech, news, sports, entertainment, science, gaming, markets, or blogs
+   - Blogs are individually written personal or engineering blogs, not company marketing
    - Not miscellaneous/random
 
 ### ❌ Must NOT Have
@@ -85,8 +89,10 @@ Thank you for considering contributing! This document provides guidelines for ad
 
 3. **Spam/Low Quality**
    - No clickbait farms
-   - No auto-generated content
-   - No pure aggregators (that don't add value)
+   - No auto-generated content: sources whose output is mainly produced by AI or other
+     automation are not accepted, whatever review process is described
+   - No pure aggregators or rewrites of other outlets' reporting (that don't add value)
+   - No state-agency feeds or an organisation's own publication
 
 4. **Duplicates**
    - Check if feed already exists

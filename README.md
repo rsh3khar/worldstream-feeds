@@ -25,9 +25,9 @@ Worldstream uses a two-tier feed system to deliver relevant content:
 
 ## 📊 Current Stats
 
-- **Feeds:** 1,500 — 1,036 global and 464 regional (October 2026)
-- **Global by category:** blogs 742, tech 104, news 56, science 54, entertainment 29, markets 24, sports 14, gaming 13
-- **Regional:** US 224, UK 116, India 78, Japan 28, China 18
+- **Feeds:** 1,360 — 1,025 global and 335 regional (October 2026)
+- **Global by category:** blogs 705, tech 104, news 80, science 58, entertainment 28, markets 22, sports 15, gaming 13
+- **Regional:** US 131, UK 89, India 60, Japan 37, China 18
 - **Categories:** tech, news, sports, entertainment, science, gaming, markets, blogs
 - **Regions:** us, uk, india, japan, china
 
@@ -73,6 +73,7 @@ global:
 - ❌ Paywalled content (most articles locked)
 - ❌ Adult/NSFW content
 - ❌ Spam or low-quality aggregators
+- ❌ Content mainly produced by AI or other automation
 - ❌ Duplicate sources already in the list
 
 ---
