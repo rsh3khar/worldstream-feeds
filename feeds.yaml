@@ -403,6 +403,194 @@ global:
     description: Independent News
     contributor: worldstream
     added_at: '2026-10-13'
+  - id: thisday
+    name: ThisDay
+    url: https://thisday.com.ng/feed/
+    domain: thisday.com.ng
+    description: ThisDay.com.ng delivers the latest news, insights, and updates from
+      Nigeria and beyond. Politics, business, sports, entertainment, and more - all
+      in one place
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: citizen-digital
+    name: Citizen Digital
+    url: https://citizen.digital/feed.xml
+    domain: citizen.digital
+    description: Citizen Digital - Get the latest breaking news in Kenya, county news,
+      world news, elections news, Kenya politics, business, sports, entertainment,
+      Exclusive Videos from Kenya. Watch Citizen TV and Listen to all Radio stations
+      and Podcasts on the go.
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: ntv-kenya
+    name: NTV Kenya
+    url: https://ntvkenya.co.ke/feed/
+    domain: ntvkenya.co.ke
+    description: Your latest news, podcasts, music, sports and entertainment shows
+      cutting across generations.
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: myjoyonline
+    name: MyJoyOnline
+    url: https://www.myjoyonline.com/feed/
+    domain: myjoyonline.com
+    description: Ghana News | Ghana's most comprehensive website. Independent, Fearless
+      and Credible journalism
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: daily-maverick
+    name: Daily Maverick
+    url: https://www.dailymaverick.co.za/dmrss/
+    domain: dailymaverick.co.za
+    description: Latest news and analysis from Daily Maverick
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: the-south-african
+    name: The South African
+    url: https://www.thesouthafrican.com/feed/
+    domain: thesouthafrican.com
+    description: South Africa News
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: the-ankole-times
+    name: The Ankole Times
+    url: https://www.ankoletimes.co.ug/feed/
+    domain: ankoletimes.co.ug
+    description: Stay informed with The Ankole Times, Uganda’s leading news source.
+      Get the latest local, regional, and national news, insights, and stories. My
+      Region. My Paper.
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: bulawayo24-news
+    name: Bulawayo24 News
+    url: https://bulawayo24.com/rss/
+    domain: bulawayo24.com
+    description: Skyes! "it makes perfect sense"
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: journal-du-cameroun
+    name: Journal du Cameroun
+    url: https://en.journalducameroun.com/feed/
+    domain: en.journalducameroun.com
+    description: English - Breaking News, Cameroon, Africa and World News
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: egypt-independent
+    name: Egypt Independent
+    url: https://www.egyptindependent.com/feed/
+    domain: egyptindependent.com
+    description: Egypt Independent — news
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: the-new-dawn-liberia
+    name: The New Dawn (Liberia)
+    url: https://www.thenewdawnliberia.com/feed/
+    domain: thenewdawnliberia.com
+    description: The New Dawn Liberia premier resource for latest liberian news and
+      top news in Politics, sports, business, entertainment etc in Liberia
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: malay-mail
+    name: Malay Mail
+    url: https://www.malaymail.com/feed/rss/malaysia
+    domain: malaymail.com
+    description: Malaysia
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: camboja-news
+    name: CamboJA News
+    url: https://cambojanews.com/feed/
+    domain: cambojanews.com
+    description: Reporting Without Wavering
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: myanmar-now
+    name: Myanmar Now
+    url: https://myanmar-now.org/en/feed/
+    domain: myanmar-now.org
+    description: Latest news & insightful features on Myanmar
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: khaama-press
+    name: Khaama Press
+    url: https://www.khaama.com/feed/
+    domain: khaama.com
+    description: Independent. Reliable. Afghan News, Worldwide
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: hong-kong-free-press
+    name: Hong Kong Free Press
+    url: https://hongkongfp.com/feed/
+    domain: hongkongfp.com
+    description: Hong Kong news, breaking updates - 100% Independent, impartial, non-profit
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: gulf-times
+    name: Gulf Times
+    url: https://www.gulf-times.com/rssFeed/9
+    domain: gulf-times.com
+    description: 'RSS Feed : International'
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: irna-english
+    name: IRNA English
+    url: https://en.irna.ir/rss
+    domain: en.irna.ir
+    description: IRNA English — news
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: buenos-aires-times
+    name: Buenos Aires Times
+    url: https://www.batimes.com.ar/feed
+    domain: batimes.com.ar
+    description: Homepage for the Buenos Aires Times, Argentina's only English-language
+      newspaper. News from Argentina and beyond – in English. News, analysis, politics,
+      finance, economy, culture, sports – and much, much more!
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: jamaica-gleaner
+    name: Jamaica Gleaner
+    url: https://jamaica-gleaner.com/feed/rss.xml
+    domain: jamaica-gleaner.com
+    description: Lead Stories — news
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: kaieteur-news
+    name: Kaieteur News
+    url: https://kaieteurnewsonline.com/feed/
+    domain: kaieteurnewsonline.com
+    description: Guyana's largest selling daily and New York's most popular weekly
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: the-post-nz
+    name: The Post (NZ)
+    url: https://www.thepost.co.nz/rss
+    domain: thepost.co.nz
+    description: The Post - / — news
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: cp24
+    name: CP24
+    url: https://www.cp24.com/arc/outboundfeeds/rss/?outputType=xml
+    domain: cp24.com
+    description: CP24 News Feed
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: times-of-malta
+    name: Times of Malta
+    url: https://rss.timesofmalta.com/
+    domain: timesofmalta.com
+    description: 'Times of Malta: independent news, sport, opinion, top stories, jobs,
+      reviews, obituary listings and classifieds from Malta''s top newspaper and website.'
+    contributor: worldstream
+    added_at: '2026-10-13'
+  - id: hetq
+    name: Hetq
+    url: https://hetq.am/en/rss
+    domain: hetq.am
+    description: Hetq - News, Articles, Investigations — news
+    contributor: worldstream
+    added_at: '2026-10-13'
   sports:
   - id: espn
     name: ESPN
@@ -10562,6 +10750,55 @@ regional:
       description: All the latest news on Japan
       contributor: worldstream
       added_at: '2026-10-13'
+    - id: kyodo-news-jp
+      name: Kyodo News (共同通信)
+      url: https://www.kyodo.co.jp/feed/
+      domain: kyodo.co.jp
+      description: 株式会社共同通信社の情報ポータルサイト
+      contributor: worldstream
+      added_at: '2026-10-13'
+    - id: fnn-prime-online-jp
+      name: FNN Prime Online
+      url: https://www.fnn.jp/list/feed/rss
+      domain: fnn.jp
+      description: フジテレビ系列で放送したニュース、天気予報、コラムのほか、お台場の様子を公開。
+      contributor: worldstream
+      added_at: '2026-10-13'
+    - id: nishinippon-shimbun-jp
+      name: Nishinippon Shimbun (西日本新聞)
+      url: https://www.nishinippon.co.jp/feed/
+      domain: nishinippon.co.jp
+      description: 九州でトップシェアを持つ西日本新聞は、社会、政治、経済、文化、スポーツ、エンターテイメント、教育、医療など、福岡にかかわる多様な分野のニュースを配信しています
+      contributor: worldstream
+      added_at: '2026-10-13'
+    - id: kyoto-shimbun-jp
+      name: Kyoto Shimbun (京都新聞)
+      url: https://www.kyoto-np.co.jp/list/feed/rss
+      domain: kyoto-np.co.jp
+      description: 京都新聞社の運営するサイト「京都新聞デジタル」が配信するRSSフィードです。
+      contributor: worldstream
+      added_at: '2026-10-13'
+    - id: sankei-shimbun-jp
+      name: Sankei Shimbun (産経新聞)
+      url: https://www.sankei.com/arc/outboundfeeds/rss/?outputType=xml
+      domain: sankei.com
+      description: Sankei News Feed
+      contributor: worldstream
+      added_at: '2026-10-13'
+    - id: shikoku-shimbun-jp
+      name: Shikoku Shimbun (四国新聞)
+      url: http://rss.shikoku-np.co.jp/rss/flash.aspx
+      domain: shikoku-np.co.jp
+      description: 四国新聞社－全国ニュース－速報 — news (JAPAN)
+      contributor: worldstream
+      added_at: '2026-10-13'
+    - id: cnn-co-jp
+      name: CNN.co.jp
+      url: http://feeds.cnn.co.jp/rss/cnn/cnn.rdf
+      domain: cnn.co.jp
+      description: CNN.co.jpはCNN.com日本語訳サイトです
+      contributor: worldstream
+      added_at: '2026-10-13'
     sports:
     - id: japan-times-sports
       name: Japan Times Sports
@@ -10577,6 +10814,13 @@ regional:
       description: NHK Sports feed
       contributor: worldstream
       added_at: '2026-02-03'
+    - id: nikkan-sports-jp
+      name: Nikkan Sports (日刊スポーツ)
+      url: https://www.nikkansports.com/soccer/atom.xml
+      domain: nikkansports.com
+      description: ニッカンスポーツ・コム サッカー最新ニュース
+      contributor: worldstream
+      added_at: '2026-10-13'
     gaming:
     - id: siliconera
       name: Siliconera
@@ -10621,6 +10865,13 @@ regional:
       description: NHK Business feed
       contributor: worldstream
       added_at: '2026-02-03'
+    - id: business-insider-japan-jp
+      name: Business Insider Japan
+      url: https://www.businessinsider.jp/feed/index.xml
+      domain: businessinsider.jp
+      description: Business Insider はミレニアル世代のビジネスパーソンを主要ターゲットに、政治、経済、金融、テクノロジー、企業戦略、スポーツなど幅広い分野のニュースを配信するビジネスニュースサイトです。
+      contributor: worldstream
+      added_at: '2026-10-13'
     tech:
     - id: automaton
       name: Automaton
@@ -10643,6 +10894,13 @@ regional:
       description: Startup and technology news from Japan
       contributor: worldstream
       added_at: '2026-02-07'
+    - id: bridge-jp
+      name: BRIDGE
+      url: http://feeds.feedburner.com/SdJapan
+      domain: feeds.feedburner.com
+      description: スタートアップをつなぐブログメディア
+      contributor: worldstream
+      added_at: '2026-10-13'
     entertainment:
     - id: anime-news-network
       name: Anime News Network
