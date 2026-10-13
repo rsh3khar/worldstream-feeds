@@ -493,13 +493,6 @@ global:
     description: 'RSS Feed : International'
     contributor: worldstream
     added_at: '2026-10-13'
-  - id: irna-english
-    name: IRNA English
-    url: https://en.irna.ir/rss
-    domain: en.irna.ir
-    description: IRNA English — news
-    contributor: worldstream
-    added_at: '2026-10-13'
   - id: buenos-aires-times
     name: Buenos Aires Times
     url: https://www.batimes.com.ar/feed
@@ -9181,13 +9174,6 @@ regional:
         journalists, political scientists and news analysts provide you with round
         the clock news, features and in-depth analysis of the happenings in worlds
         most picturesque land turned into a dangerous nuclear flash point.
-      contributor: worldstream
-      added_at: '2026-10-13'
-    - id: organiser
-      name: Organiser
-      url: https://organiser.org/feed/
-      domain: organiser.org
-      description: Latest India News and Live Updates
       contributor: worldstream
       added_at: '2026-10-13'
     - id: northeast-now
